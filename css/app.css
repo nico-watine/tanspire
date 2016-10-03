@@ -4602,7 +4602,7 @@ table.hover tr:nth-of-type(even):hover {
   animation-delay: 700ms !important; }
 
 body {
-  background: #AECEDA url("/img/assets/bg/tufted-grid-blue.png") repeat top left; }
+  background: #AECEDA url("http://cdn.studionclient.rocks/tanspire/img/assets/bg/tufted-grid-blue.png") repeat top left; }
 
 header {
   box-shadow: 0 0.125rem 0.125rem 0 rgba(0, 0, 0, 0.2), 0 0.375rem 0.625rem 0 rgba(0, 0, 0, 0.3); }
@@ -4626,7 +4626,7 @@ header {
       float: right; }
   header .logo-container {
     padding: 1.25rem;
-    background: #FCFCFC url("/img/header/golf-foil-bg/default.jpg") no-repeat left top;
+    background: #FCFCFC url("http://cdn.studionclient.rocks/tanspire/img/header/golf-foil-bg/default.jpg") no-repeat left top;
     background-size: cover;
     position: relative;
     text-align: center; }
@@ -4710,8 +4710,8 @@ header {
 
 @font-face {
   font-family: 'tanspire';
-  src: url("/fonts/icons/tanspire.eot?64987084");
-  src: url("/fonts/icons/tanspire.eot?64987084#iefix") format("embedded-opentype"), url("/fonts/icons/tanspire.woff2?64987084") format("woff2"), url("/fonts/icons/tanspire.woff?64987084") format("woff"), url("/fonts/icons/tanspire.ttf?64987084") format("truetype"), url("/fonts/icons/tanspire.svg?64987084#tanspire") format("svg");
+  src: url("http://cdn.studionclient.rocks/tanspire/fonts/icons/tanspire.eot?64987084");
+  src: url("http://cdn.studionclient.rocks/tanspire/fonts/icons/tanspire.eot?64987084#iefix") format("embedded-opentype"), url("http://cdn.studionclient.rocks/tanspire/fonts/icons/tanspire.woff2?64987084") format("woff2"), url("http://cdn.studionclient.rocks/tanspire/fonts/icons/tanspire.woff?64987084") format("woff"), url("http://cdn.studionclient.rocks/tanspire/fonts/icons/tanspire.ttf?64987084") format("truetype"), url("http://cdn.studionclient.rocks/tanspire/fonts/icons/tanspire.svg?64987084#tanspire") format("svg");
   font-weight: normal;
   font-style: normal; }
 
@@ -4756,18 +4756,18 @@ header {
 /* '' */
 @font-face {
   font-family: 'Novecento Normal';
-  src: url("/fonts/novecento/normal/novecento.eot");
+  src: url("http://cdn.studionclient.rocks/tanspire/fonts/novecento/normal/novecento.eot");
   /* IE9 Compat Modes */
-  src: url("/fonts/novecento/normal/novecento.eot?#iefix") format("embedded-opentype"), url("/fonts/novecento/normal/novecento.woff") format("woff"), url("/fonts/novecento/normal/novecento.ttf") format("truetype"), url("/fonts/novecento/normal/novecento.svg#76f2e31c7d10652785782dc2e65e77e1") format("svg");
+  src: url("http://cdn.studionclient.rocks/tanspire/fonts/novecento/normal/novecento.eot?#iefix") format("embedded-opentype"), url("http://cdn.studionclient.rocks/tanspire/fonts/novecento/normal/novecento.woff") format("woff"), url("http://cdn.studionclient.rocks/tanspire/fonts/novecento/normal/novecento.ttf") format("truetype"), url("http://cdn.studionclient.rocks/tanspire/fonts/novecento/normal/novecento.svg#76f2e31c7d10652785782dc2e65e77e1") format("svg");
   /* Legacy iOS */
   font-style: normal;
   font-weight: 400; }
 
 @font-face {
   font-family: 'Novecento Wide DemiBold';
-  src: url("/fonts/novecento/wide/novecento_wide-demibold.eot");
+  src: url("http://cdn.studionclient.rocks/tanspire/fonts/novecento/wide/novecento_wide-demibold.eot");
   /* IE9 Compat Modes */
-  src: url("/fonts/novecento/wide/novecento_wide-demibold.eot?#iefix") format("embedded-opentype"), url("/fonts/novecento/wide/novecento_wide-demibold.woff") format("woff"), url("/fonts/novecento/wide/novecento_wide-demibold.ttf") format("truetype"), url("/fonts/novecento/wide/novecento_wide-demibold.svg#2181a38877e29ea77015cbef17265b86") format("svg");
+  src: url("http://cdn.studionclient.rocks/tanspire/fonts/novecento/wide/novecento_wide-demibold.eot?#iefix") format("embedded-opentype"), url("http://cdn.studionclient.rocks/tanspire/fonts/novecento/wide/novecento_wide-demibold.woff") format("woff"), url("http://cdn.studionclient.rocks/tanspire/fonts/novecento/wide/novecento_wide-demibold.ttf") format("truetype"), url("http://cdn.studionclient.rocks/tanspire/fonts/novecento/wide/novecento_wide-demibold.svg#2181a38877e29ea77015cbef17265b86") format("svg");
   /* Legacy iOS */
   font-style: normal;
   font-weight: 700; }
@@ -4819,7 +4819,7 @@ body#index {
     width: 100%;
     height: 100%;
     min-height: 31.25em;
-    background: #fff url("/img/index/splash/bg/bg-1.jpg") no-repeat center top;
+    background: #fff url("http://cdn.studionclient.rocks/tanspire/img/index/splash/bg/bg-1.jpg") no-repeat center top;
     background-size: cover;
     overflow: hidden;
     position: relative;
@@ -4997,7 +4997,7 @@ body#index main .row#welcome-text .prose {
     max-width: 200px; } }
 
 body#index section.contact-banner {
-  background: #DFCA78 url("/img/assets/bg/gold-foil/medium/gold-foil.jpg") no-repeat center top;
+  background: #DFCA78 url("http://cdn.studionclient.rocks/tanspire/img/assets/bg/gold-foil/medium/gold-foil.jpg") no-repeat center top;
   background-size: cover; }
   body#index section.contact-banner #cta-tag {
     border: 0 solid #fff;
@@ -5047,7 +5047,7 @@ body#index section.contact-banner {
           display: block; }
   @media screen and (min-width: 40em) {
     body#index section.contact-banner {
-      background: #DFCA78 url("/img/assets/bg/gold-foil/gold-foil.jpg") no-repeat center top;
+      background: #DFCA78 url("http://cdn.studionclient.rocks/tanspire/img/assets/bg/gold-foil/gold-foil.jpg") no-repeat center top;
       background-size: cover; }
       body#index section.contact-banner #cta-tag h2 {
         font-size: 2.5rem; }
