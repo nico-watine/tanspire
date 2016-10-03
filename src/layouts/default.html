@@ -6,11 +6,20 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<link rel="preconnect" href="{{ cdn }}">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>{{ title }}</title>
 	<meta name="description" content="{{ description }}">
-	<link href="http://url.com{{ url }}" rel="canonical">
+	<link href="http://tanspire.com{{ url }}"" rel="canonical">
 	<link href="/humans.txt" rel="author">
+
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="{{ og-title }}" />
+	<meta property="og:description" content="{{ og-description }}" />
+	<meta property="og:url" content="http://tanspire.com{{ url }}" />
+	<meta property="og:site_name" content="TanSpire.com" />
+	<meta property="og:image" content="{{ cdn }}{{ og-image }}" />
 
 	<link href="{{ cdn }}<?php autoVer('/css/app.css'); ?>" rel="stylesheet">
 		
