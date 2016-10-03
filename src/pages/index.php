@@ -1,164 +1,181 @@
 ---
 url: /
-title:
-description:
-og-title:
-og-description:
-og-image:
+title: TanSpire Houston |  The Sunless Experts in Spray Tanning
+description: Delivering Hollywood spray tans to Houston. Long lasting, luxury spray tans. Come get your tan on &amp; book online today!
+og-title: TanSpire Houston |  The Sunless Experts in Spray Tanning
+og-description: TanSpire spray tan salon is now open! Delivering Hollywood spray tans to Houston. Long lasting, luxury spray tans. Come get your tan on &amp; book online today!
+og-image: /img/assets/og/1/og-image.jpg
 body-id: index
 body-class:
 ---
-<div class="row">
-  <div class="large-12 columns">
-	<h1>Welcome to Foundation for Sites</h1>
-  </div>
-</div> 
-
-<div class="row">
-  <img src="/img/banditos.jpg" alt="">
-</div>
-<div class="row">
-  <div class="large-12 columns">
-	<div class="callout">
-	  <h3>We&rsquo;re stoked you want to try Foundation! </h3>
-	  <p>To get going, this file (index.html) includes some basic styles you can modify, play around with, or totally destroy to get going.</p>
-	  <p>Once you've exhausted the fun in this document, you should check out:</p>
-	  <div class="row">
-		<div class="large-4 medium-4 columns">
-		  <p><a href="http://foundation.zurb.com/docs">Foundation Documentation</a><br />Everything you need to know about using the framework.</p>
-		</div>
-		<div class="large-4 medium-4 columns">
-		  <p><a href="http://zurb.com/university/code-skills">Foundation Code Skills</a><br />These online courses offer you a chance to better understand how Foundation works and how you can master it to create awesome projects.</p>
-		</div>
-		<div class="large-4 medium-4 columns">
-		  <p><a href="http://foundation.zurb.com/forum">Foundation Forum</a><br />Join the Foundation community to ask a question or show off your knowlege.</p>
-		</div>
-	  </div>
-	  <div class="row">
-		<div class="large-4 medium-4 medium-push-2 columns">
-		  <p><a href="http://github.com/zurb/foundation">Foundation on Github</a><br />Latest code, issue reports, feature requests and more.</p>
-		</div>
-		<div class="large-4 medium-4 medium-pull-2 columns">
-		  <p><a href="https://twitter.com/ZURBfoundation">@zurbfoundation</a><br />Ping us on Twitter if you have questions. When you build something with this we'd love to see it (and send you a totally boss sticker).</p>
-		</div>        
-	  </div>
-	</div>
-  </div>
-</div>
-
-<div class="row">
-  <div class="large-8 medium-8 columns">
-	<h5>Here&rsquo;s your basic grid:</h5>
-	<!-- Grid Example -->
-
-	<div class="row">
-	  <div class="large-12 columns">
-		<div class="primary callout">
-		  <p><strong>This is a twelve column section in a row.</strong> Each of these includes a div.callout element so you can see where the columns are - it's not required at all for the grid.</p>
-		</div>
-	  </div>
-	</div>
-	<div class="row">
-	  <div class="large-6 medium-6 columns">
-		<div class="primary callout">
-		  <p>Six columns</p>
-		</div>
-	  </div>
-	  <div class="large-6 medium-6 columns">
-		<div class="primary callout">
-		  <p>Six columns</p>
-		</div>
-	  </div>
-	</div>
-	<div class="row">
-	  <div class="large-4 medium-4 small-4 columns">
-		<div class="primary callout">
-		  <p>Four columns</p>
-		</div>
-	  </div>
-	  <div class="large-4 medium-4 small-4 columns">
-		<div class="primary callout">
-		  <p>Four columns</p>
-		</div>
-	  </div>
-	  <div class="large-4 medium-4 small-4 columns">
-		<div class="primary callout">
-		  <p>Four columns</p>
-		</div>
-	  </div>
-	</div>
-	
-	<hr />
-			
-	<h5>We bet you&rsquo;ll need a form somewhere:</h5>
-	<form>
-	  <div class="row">
-		<div class="large-12 columns">
-		  <label>Input Label</label>
-		  <input type="text" placeholder="large-12.columns" />
-		</div>
-	  </div>
-	  <div class="row">
-		<div class="large-4 medium-4 columns">
-		  <label>Input Label</label>
-		  <input type="text" placeholder="large-4.columns" />
-		</div>
-		<div class="large-4 medium-4 columns">
-		  <label>Input Label</label>
-		  <input type="text" placeholder="large-4.columns" />
-		</div>
-		<div class="large-4 medium-4 columns">
-		  <div class="row collapse">
-			<label>Input Label</label>
-			<div class="input-group">
-			  <input class="input-group-field" type="text" placeholder="input-group" />
-			  <span class="input-group-label">.com</span>
+<section class="splash">
+	<aside class="heading">
+		<address><a href="https://goo.gl/maps/KhEnSFbHY4D2" target="_blank">2020 N Durham Dr <br>Houston, TX 77008</a></address>
+		<span id="phone">713-955-1232</span>
+	</aside>
+	<div id="logo" class="text-center absolute-wrapper">
+		<div class="vertical-wrapper">
+			<img class="p-x" src="{{ cdn }}/img/index/splash/logo/stacked/white/tanspire-logo.png" srcset="{{ cdn }}/img/index/splash/logo/stacked/white/tanspire-logo@2x.png 2x" alt="Tanspire Houston Logo">
+			<div class="row">
+				<div class="small-6 columns" id="services" data-magellan>
+					<a href="#services-summary" class="title button">Services</a>
+				</div>
+				<div class="small-6 columns" id="faq">
+					<a href="/things-to-know" class="title button">FAQ</a>
+				</div>
 			</div>
-		  </div>
 		</div>
-	  </div>
-	  <div class="row">
-		<div class="large-12 columns">
-		  <label>Select Box</label>
-		  <select>
-			<option value="husker">Husker</option>
-			<option value="starbuck">Starbuck</option>
-			<option value="hotdog">Hot Dog</option>
-			<option value="apollo">Apollo</option>
-		  </select>
-		</div>
-	  </div>
-	  <div class="row">
-		<div class="large-6 medium-6 columns">
-		  <label>Choose Your Favorite</label>
-		  <input type="radio" name="pokemon" value="Red" id="pokemonRed"><label for="pokemonRed">Radio 1</label>
-		  <input type="radio" name="pokemon" value="Blue" id="pokemonBlue"><label for="pokemonBlue">Radio 2</label>
-		</div>
-		<div class="large-6 medium-6 columns">
-		  <label>Check these out</label>
-		  <input id="checkbox1" type="checkbox"><label for="checkbox1">Checkbox 1</label>
-		  <input id="checkbox2" type="checkbox"><label for="checkbox2">Checkbox 2</label>
-		</div>
-	  </div>
-	  <div class="row">
-		<div class="large-12 columns">
-		  <label>Textarea Label</label>
-		  <textarea placeholder="small-12.columns"></textarea>
-		</div>
-	  </div>
-	</form>
-  </div>     
-
-  <div class="large-4 medium-4 columns">
-	<h5>Try one of these buttons:</h5>
-	<p><a href="#" class="small button">Simple Button</a><br/>          
-	<a href="#" class="medium success button">Success Btn</a><br/>
-	<a href="#" class="medium alert button">Alert Btn</a><br/>
-	<a href="#" class="medium secondary button">Secondary Btn</a></p>           
-	<div class="callout">
-	  <h5>So many components, girl!</h5>
-	  <p>A whole kitchen sink of goodies comes with Foundation. Check out the docs to see them all, along with details on making them your own.</p>
-	  <a href="http://foundation.zurb.com/docs/" class="small button">Go to Foundation Docs</a>          
 	</div>
-  </div>
+	<div id="ts-bg" class="text-center absolute-wrapper">
+		<div class="vertical-wrapper">
+			<img src="{{ cdn }}/img/index/splash/logo/mark/tanspire-mark.png" alt="">
+		</div>
+	</div>
+</section>
+
+<main id="services-summary" data-magellan-target="services-summary">
+	<div class="outer-container">
+		<div class="inner-container m-x">
+			<div class="row" id="tagline">
+				<div class="small-12 columns text-center">
+					<h1 class="title">Welcome to Tanspire</h1>
+				</div>
+			</div>
+			<div class="row" id="welcome-text">
+				<div class="medium-8 columns vertical-wrapper">
+					<div class="prose">
+						<h2>We have opened!</h2>
+						<p>You can schedule an appointment online.</p>
+						<a data-open="booking-modal" class="title button">Book Now</a>
+						<h2>Pricing</h2>
+						<!-- SINGLE SESSION PRICING -->
+						<p class="m-0"><strong>Single Session Spray Tans</strong></p>
+						<table>
+							<thead>
+								<tr>
+									<th>&nbsp;</th>
+									<th>New Customer Special</th>
+									<th>Regular Pricing</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td><strong>Full Body</strong></td>
+									<td>$25</td>
+									<td>$65</td>
+								</tr>
+								<tr>
+									<td><strong>Upper Body</strong></td>
+									<td>$10</td>
+									<td>$20</td>
+								</tr>
+								<tr>
+									<td><strong>Lower Body</strong></td>
+									<td>$10</td>
+									<td>$20</td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- MULTI-SESSION PRICING -->
+						<p class="m-0"><strong>Multi-Session Spray Tan Packages</strong></p>
+						<p style="line-height: 1.2; margin-bottom: 8px; font-size: 18px;">All packages include full body spray tan services. <br>
+						Any individual session may be given to another guest.</p>
+						<table>
+							<thead>
+								<tr>
+									<th>&nbsp;</th>
+									<th>Package Pricing</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td><strong>3 Visits</strong></td>
+									<td>$105 ($35/session)</td>
+								</tr>
+								<tr>
+									<td><strong>6 Visits</strong></td>
+									<td>$180 ($30/session)</td>
+								</tr>
+								<tr>
+									<td><strong>9 Visits</strong></td>
+									<td>$225 ($25/session)</td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- ADDITIONAL TREATMENTS PRICING -->
+						<p class="m-0"><strong>Additional Beauty Treatments</strong></p>
+						<table>
+							<thead>
+								<tr>
+									<th style="width: 55%;">&nbsp;</th>
+									<th>Price</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td><strong>Exfoliation</strong></td>
+									<td>$8</td>
+								</tr>
+								<tr>
+									<td><strong>PH Normalization</strong></td>
+									<td>$15</td>
+								</tr>
+								<tr>
+									<td><strong>Anti-Aging Skin Firming</strong></td>
+									<td>$15</td>
+								</tr>
+								<tr>
+									<td><strong>Shimmer Hydration</strong></td>
+									<td>$15</td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+				</div>
+				<div class="medium-4 columns">
+					<div class="image show-for-medium">
+						<img id="model" src="{{ cdn }}/img/index/main/models/side-vertical.jpg" alt="TanSpire Model">
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</main>
+
+<section class="contact-banner text-center">
+	<div id="cta-tag">
+		<div class="row">
+			<div class="small-12 columns">
+				<h2 class="title m-0">Come Get Your <span class="inline-block">Tan On!</span></h2>
+			</div>
+		</div>
+	</div>
+	<div id="contact-deets">
+		<div class="row" id="address-row">
+			<div class="small-12 columns">
+				<address><a href="https://goo.gl/maps/KhEnSFbHY4D2" target="_blank">2020 N Durham Dr <br>Houston, TX 77008</a></address>
+			</div>
+		</div>
+		<div class="row p-x" id="digits-row">
+			<h4>Schedule An Appointment</h4>
+			<a data-open="booking-modal" class="title button">Book Online Now</a>
+			<!-- <a href="https://tanspire.phorest.me/book#/" target="_blank" id="book-link" class="title button">Book Online Now</a> -->
+			<p><a href="mailto:tanspirehouston@gmail.com" class="email">tanspirehouston<span>@gmail.com</span></a></p>
+			<p>713-955-1232</p>
+		</div>
+	</div>
+</section>
+
+<div class="reveal" id="booking-modal" data-reveal>
+	<p id="payment-note">Please Note: No payment is required to book online.</p>
+	<h2>New Customers</h2>
+	<p>If you have never booked with us before, please read and sign our digital Consent Waiver prior to scheduling your appointment.</p>
+	<a href="https://www.smartwaiver.com/v/tanspirehouston/" target="_blank" class="title button" id="waiver">View Digital Consent Waiver</a>
+	<h2>Returning Customers</h2>
+	<p>If you are a returning customer and have already signed our Consent Waiver, schedule your appointment now!</p>
+	<a href="https://tanspire.phorest.me/book#/" target="_blank" class="title button" id="book">Book Online Now</a>
+
+	<button class="close-button" data-close aria-label="Close modal" type="button">
+		<span aria-hidden="true">&times;</span>
+	</button>
 </div>
