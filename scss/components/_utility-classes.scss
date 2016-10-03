@@ -1,22 +1,30 @@
 @import "../_settings.scss";
 
 
-// NO PADDING
 .p-0 {
 	padding: 0;
 }
 
-// NO MARGIN
 .m-0 {
 	margin: 0;
 }
 
-// PADDING X
 .p-x {
-	padding: 0 rem(16);
+	padding: 0 rem(20);
 }
 
-// PADDING Y
 .p-y {
-	padding: rem(16) 0;
+	padding: rem(20) 0;
+}
+
+.m-x {
+	margin: 0 rem(20);
+}
+
+.m-y {
+	margin: rem(20) 0;
+}
+
+.inline-block {
+	display: inline-block;
 }

@@ -1,0 +1,159 @@
+@import "../../_settings.scss";
+
+body#things-to-know {
+
+	main {
+		position: relative;
+
+		.splash-bg {
+			position: absolute;
+			z-index: -5;
+			width: 100%;
+
+			img {
+				width: 100%;
+				box-shadow: $z-1;
+				border-bottom: rem(4) solid #fff;
+			}
+		}
+
+		.outer-container {
+			position: relative;
+			@include grid-row;
+
+			.page-title {
+				padding: rem(60) 0 0;
+
+				@include breakpoint(medium) {
+					padding: rem(90) 0;
+				}
+				
+				@include breakpoint(large) {
+					padding: rem(150) 0;
+				}
+
+				h1 {
+					font-size: rem(30);
+					padding: 0 rem(10);
+					line-height: 1.2;
+					color: #fff;
+					text-shadow: 0 rem(2) rem(4) #000;
+
+					span {
+						@extend .body-font;
+						letter-spacing: 0;
+						font-weight: 400;
+						text-shadow: none;
+						color: #000;
+						font-size: rem(28);
+						display: block;
+						text-shadow: 0 rem(1) rem(2) #fff;
+					}
+
+					@include breakpoint(medium) {
+						font-size: rem(65);
+
+						span {
+							font-size: rem(41);
+						}
+					}
+				}
+			}
+
+			.inner-container {
+				border-radius: rem(2);
+				background: #F7F7F7;
+				box-shadow: $z-4;
+				padding-top: rem(60);
+				border: rem(1) solid #ddd;
+
+				@include breakpoint(medium) {
+					min-height: 0;
+					text-align: left;
+				}
+			}
+		}
+	}
+
+	#question-accordion {
+		.accordion {
+			background: none;
+			border: 0;
+
+			* {
+				border: 0;
+			}
+
+			.accordion-item {
+				padding-bottom: 20px;
+
+				.accordion-title {
+					width: rem(570);
+					max-width: 100%;
+					display: block;
+					margin: 0 auto;
+					padding: rem(14) rem(8);
+					font-size: rem(28);
+					box-shadow: $z-1;
+					background: #95C3D6;
+					border: rem(2) solid #fff;
+					border-radius: rem(2);
+					color: #fff;
+					text-shadow: 0 rem(1) rem(1) #000;
+					@include transition(background-color 0.25s ease-out);
+
+					&:hover {
+						background: #B4DFF1;
+						box-shadow: $z-2;
+					}
+
+					@include breakpoint(medium) {
+						font-size: rem(35);
+					}
+				}
+
+				.accordion-title::before {
+					visibility: hidden;
+
+					@include breakpoint(medium) {
+						visibility: visible;
+						top: 0;
+						margin-top: 0;
+						line-height: rem(65);
+					}
+				}
+
+				.accordion-content {
+					margin-top: rem(20);
+					border: rem(1) solid #979797;
+					box-shadow: inset $z-1;
+					border-radius: 2px;
+
+					p {
+						font-size: rem(18);
+					}
+
+					ul {
+						li {
+							margin-bottom: rem(8);
+						}
+					}
+				}
+			}
+
+			.accordion-item.is-active {
+				.accordion-title {
+					background: #fff;
+					border: rem(2) solid #88C4DC;
+					color: #000;
+					text-shadow: none;
+
+					&:hover {
+						box-shadow: $z-1;
+					}
+				}
+			}
+		}
+	}
+}
+

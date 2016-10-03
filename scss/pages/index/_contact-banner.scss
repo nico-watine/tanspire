@@ -1,0 +1,136 @@
+@import "../../_settings.scss";
+
+body#index {
+	section.contact-banner {
+		background: #DFCA78 url('#{$url}/img/assets/bg/gold-foil/medium/gold-foil.jpg') no-repeat center top;
+		background-size: cover;
+
+		#cta-tag {
+			border: 0 solid #fff;
+			border-width: rem(6) 0;
+			padding: rem(36) 0;
+
+			h2 {
+				color: #fff;
+				font-size: rem(30);
+				text-shadow: 0 rem(2) rem(2) #000;
+			}
+		}
+
+		#contact-deets {
+			background: rgba(73,73,73,0.65);
+			color: #fff;
+			border-bottom: rem(6) solid #fff;
+
+			* {
+				@extend .heading;
+				color: #fff;
+			}
+
+			.row {
+				padding: rem(30) 0;
+			}
+
+			.row#address-row {
+				border-bottom: rem(6) solid #fff;
+			}
+
+			address {
+				font-size: rem(24);
+
+				a {
+					text-decoration: underline;
+				}
+			}
+
+			.row#digits-row {
+				h4 {
+					font-size: rem(28);
+					margin-bottom: rem(14);
+				}
+
+				a.title.button {
+					background: #A2D0E3;
+					// box-shadow: $z-3;
+					box-shadow: $z-2;
+					color: #fff;
+					border: rem(2) solid #fff;
+
+					letter-spacing: rem(1.5);
+					padding: rem(16) rem(30);
+					border-radius: rem(5);
+					font-size: rem(18);
+
+					@extend .title;
+
+					&:hover {
+						background: #fff;
+						border: rem(2) solid #88C4DC;
+						box-shadow: $z-1;
+						color: #88C4DC;
+					}
+				}
+
+				p {
+					margin-bottom: rem(14);
+					font-size: rem(25);
+
+					a {
+						line-height: 1;
+
+						span {
+							display: block;
+						}
+					}
+				}
+			}
+		}
+
+		@include breakpoint(medium) {
+			background: #DFCA78 url('#{$url}/img/assets/bg/gold-foil/gold-foil.jpg') no-repeat center top;
+			background-size: cover;
+			#cta-tag {
+				h2 {
+					font-size: rem(40);
+				}
+			}
+
+			#contact-deets {
+				address {
+					font-size: rem(30);
+
+					a {
+						text-decoration: none;
+
+						&:hover {
+							text-decoration: underline;
+						}
+					}
+				}
+
+				.row#digits-row {
+					h4 {
+						font-size: rem(40);
+					}
+
+					a.title.button {
+						font-size: rem(31);
+					}
+
+					p {
+						a {
+							span {
+								display: initial;
+							}
+
+							&:hover {
+								text-decoration: underline;
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}
+
