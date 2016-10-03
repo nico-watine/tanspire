@@ -1,0 +1,9 @@
+IMAGE PROPERTY NOTES ::
+
+----------
+side-vertical.jpg
+
+Quality: 75
+Progressive: ON
+
+----------
