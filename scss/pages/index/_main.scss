@@ -27,6 +27,36 @@ body#index {
 			}
 		}
 
+		.row#membership {
+			.membership,
+			.booking {
+				.prose {
+					text-align: left;
+				}
+			}
+
+			p {
+				font-size: rem(18);
+			}
+
+			a {
+				font-size: rem(22);
+			}
+
+			@include breakpoint(medium) {
+				a {
+					font-size: rem(25);
+				}
+
+				.booking {
+					.prose {
+						text-align: center;
+						// float: right;
+					}
+				}
+			}
+		}
+
 		.row#welcome-text {
 			.prose {
 				margin-bottom: rem(30);

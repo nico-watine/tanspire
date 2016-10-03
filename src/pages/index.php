@@ -41,12 +41,25 @@ body-class:
 					<h1 class="title">Welcome to Tanspire</h1>
 				</div>
 			</div>
+			<div class="row" id="membership">
+				<div class="medium-7 columns membership">
+					<div class="prose">
+						<h3>Contract-Free Monthly Memberships!</h3>
+						<p>We have a <strong>“Zero Lock-In”</strong> membership contract. Just pay month to month, and you can cancel whenever you want. <br><br>
+						Your membership gives you <strong>unlimited monthly manual spray tans</strong>. The first month is $45, and then the price drops to only $25 for ever month after. All you have to do is sign up in person!</p>
+					</div>
+				</div>
+				<div class="medium-5 columns booking">
+					<div class="prose medium-text-center">
+						<p><strong>Schedule an appointment online.</strong></p>
+						<a data-open="booking-modal" class="white-booking-button title button">Book Now</a>
+					</div>
+				</div>
+			</div>
 			<div class="row" id="welcome-text">
 				<div class="medium-8 columns vertical-wrapper">
+					<hr>
 					<div class="prose">
-						<h2>We have opened!</h2>
-						<p>You can schedule an appointment online.</p>
-						<a data-open="booking-modal" class="title button">Book Now</a>
 						<h2>Pricing</h2>
 						<!-- SINGLE SESSION PRICING -->
 						<p class="m-0"><strong>Single Session Spray Tans</strong></p>

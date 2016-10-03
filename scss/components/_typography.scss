@@ -20,3 +20,26 @@
 address {
 	font-style: normal;
 }
+
+a.white-booking-button {
+	background: #fff;
+	border: rem(2) solid #88C4DC;
+	box-shadow: $z-2;
+	letter-spacing: rem(1.5);
+	padding: rem(16) rem(30);
+	border-radius: rem(5);
+	color: #88C4DC;
+	// font-size: rem(18);
+	margin-bottom: rem(28);
+
+	&:hover {
+		background: #A2D0E3;
+		box-shadow: $z-1;
+		color: #fff;
+		border: rem(2) solid #fff;
+	}
+
+	@include breakpoint(medium) {
+		font-size: rem(31);
+	}
+}
