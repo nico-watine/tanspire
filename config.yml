@@ -11,6 +11,9 @@ UNCSS_OPTIONS:
   ignore:
     - !!js/regexp .foundation-mq
     - !!js/regexp ^\.is-.*
+    - ".is-reveal-open"
+    - ".reveal-overlay"
+    - ".is-reveal-open .reveal-overlay"
 
 # Gulp will reference these paths when it copies files
 PATHS:
@@ -31,24 +34,29 @@ PATHS:
     - "bower_components/what-input/what-input.js"
     # Core Foundation files
     - "bower_components/foundation-sites/js/foundation.core.js"
-    # - "bower_components/foundation-sites/js/foundation.util.*.js"
-    - "bower_components/foundation-sites/js/foundation.util.mediaQuery.js"
+    - "bower_components/foundation-sites/js/foundation.util.*.js"
+    # - "bower_components/foundation-sites/js/foundation.util.mediaQuery.js"
     # Individual Foundation components
     # If you aren't using a component, just remove it from the list
+    # MODAL POP UP ------------- ::
+    - "bower_components/foundation-sites/js/foundation.reveal.js" 
+    # THINGS-TO-KNOW ACCORDION FUNCTION -------------- ::
+    - "bower_components/foundation-sites/js/foundation.accordion.js"
+    # Responsive nav
+    - "bower_components/foundation-sites/js/foundation.responsiveToggle.js"
+    # Smooth scroll on index
+    - "bower_components/foundation-sites/js/foundation.magellan.js"
+    # --------------
+    # - "bower_components/foundation-sites/js/foundation.responsiveMenu.js"
     # - "bower_components/foundation-sites/js/foundation.abide.js"
-    # - "bower_components/foundation-sites/js/foundation.accordion.js"
     # - "bower_components/foundation-sites/js/foundation.accordionMenu.js"
     # - "bower_components/foundation-sites/js/foundation.drilldown.js"
     # - "bower_components/foundation-sites/js/foundation.dropdown.js"
     # - "bower_components/foundation-sites/js/foundation.dropdownMenu.js"
     # - "bower_components/foundation-sites/js/foundation.equalizer.js"
     # - "bower_components/foundation-sites/js/foundation.interchange.js"
-    # - "bower_components/foundation-sites/js/foundation.magellan.js"
     # - "bower_components/foundation-sites/js/foundation.offcanvas.js"
     # - "bower_components/foundation-sites/js/foundation.orbit.js"
-    # - "bower_components/foundation-sites/js/foundation.responsiveMenu.js"
-    # - "bower_components/foundation-sites/js/foundation.responsiveToggle.js"
-    # - "bower_components/foundation-sites/js/foundation.reveal.js"
     # - "bower_components/foundation-sites/js/foundation.slider.js"
     # - "bower_components/foundation-sites/js/foundation.sticky.js"
     # - "bower_components/foundation-sites/js/foundation.tabs.js"
