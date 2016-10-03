@@ -1,0 +1,157 @@
+@import "../../_settings.scss";
+
+$min-height-500: "(min-height : 31.250em)";
+$max-height-500: "(max-height : 31.250em)";
+$min-height-600: "(min-height : 37.500em)";
+$max-height-600: "(max-height : 37.500em)";
+
+body#index {
+	height: 100%;
+
+	section.splash {
+		width: 100%;
+		height: 100%;
+		min-height: em(500);
+		background: #fff url('#{$url}/img/index/splash/bg/bg-1.jpg') no-repeat center top;
+		background-size: cover;
+		overflow: hidden;
+		position: relative;
+		box-shadow: $z-2;
+
+		@media screen and #{breakpoint(medium)} and #{$max-height-600} {
+			min-height: em(600);
+		}
+
+		aside {
+			padding: rem(25) rem(30) 0;
+			position: absolute;
+			z-index: 20;
+			top: 0;
+			left: 0;
+			margin-bottom: rem(40);
+			color: #fff;
+			width: 100%;
+			font-size: rem(28);
+			letter-spacing: rem(1.5);
+
+			* {
+				color: #fff;
+				text-shadow: 0 rem(2) rem(2) #000;
+			}
+			
+			address {
+				display: inline-block;
+
+				a {
+					&:hover {
+						text-decoration: underline;
+					}
+				}
+			}
+
+			#phone {
+				float: right;
+			}
+
+			@include breakpoint(small only) {
+				padding: rem(18) 0 0;
+				font-size: rem(18);
+				text-align: center;
+
+				address {
+					display: block;
+					margin-bottom: rem(8);
+				}
+
+				#phone {
+					float: none;
+				}
+			}
+		}
+	}
+}
+
+.absolute-wrapper {
+	position: absolute;
+	width: 100%;
+	left: 0;
+	top: 0;
+	height: 100%;
+
+	@media screen and #{breakpoint(medium)} and #{$min-height-600} {
+		.vertical-wrapper {
+			width: 100%;
+			@include vertical-center;
+		}
+	}
+}
+
+.absolute-wrapper#logo {
+	z-index: 10;
+
+	a {
+		background: #fff;
+		border: rem(2) solid #88C4DC;
+		box-shadow: $z-2;
+		letter-spacing: rem(1.5);
+		width: rem(140);
+		padding: rem(16) 0;
+		border-radius: rem(5);
+		color: #88C4DC;
+		font-size: rem(18);
+		margin-bottom: rem(28);
+
+		&:hover {
+			background: #A2D0E3;
+			box-shadow: $z-1;
+			color: #fff;
+			border: rem(2) solid #fff;
+		}
+
+		@include breakpoint(medium) {
+			width: rem(180);
+			font-size: rem(25);
+		}
+	}
+
+	#services,
+	#faq {
+		text-align: center;
+		padding: 0;
+	}
+
+	@include breakpoint(medium) {
+		#services {
+			text-align: right;
+			padding-right: rem(50);
+		}
+
+		#faq {
+			text-align: left;
+			padding-left: rem(50);
+		}
+	}
+
+	@media screen and #{breakpoint(small only)} {
+		top: rem(120);
+	}
+
+	@media screen and #{breakpoint(medium)} and #{$max-height-600} {
+		top: rem(120);
+	}
+}
+
+.absolute-wrapper#ts-bg {
+	z-index: 5;
+
+	.vertical-wrapper {
+		width: 100%;
+		@include vertical-center;
+	}
+
+	img {
+		height: auto;
+		width: em(815);
+	}
+}
+

@@ -52,7 +52,7 @@
 
 $global-font-size: 100%;
 $global-width: rem-calc(1200);
-$global-lineheight: 1.5;
+$global-lineheight: 1.2;
 $foundation-palette: (
   primary: #2199e8,
   secondary: #777,
@@ -67,12 +67,14 @@ $black: #0a0a0a;
 $white: #fefefe;
 $body-background: $white;
 $body-font-color: $black;
-$body-font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;
+$body-font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
 $body-antialiased: true;
 $global-margin: 1rem;
 $global-padding: 1rem;
-$global-weight-normal: normal;
-$global-weight-bold: bold;
+// $global-weight-normal: normal;
+$global-weight-normal: 300;
+// $global-weight-bold: bold;
+$global-weight-bold: normal;
 $global-radius: 0;
 $global-text-direction: ltr;
 $global-flexbox: false;
@@ -108,8 +110,8 @@ $block-grid-max: 8;
 // 4. Base Typography
 // ------------------
 
-$header-font-family: $body-font-family;
-$header-font-weight: $global-weight-normal;
+$header-font-family: $custom-heading-font;
+$header-font-weight: $custom-heading-font-weight;
 $header-font-style: normal;
 $font-family-monospace: Consolas, 'Liberation Mono', Courier, monospace;
 $header-sizes: (

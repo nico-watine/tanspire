@@ -1,4 +1,22 @@
 @import "../_settings.scss";
 @import "typography/_fonts.scss";
 
+.body-font {
+	font-family: $custom-body-font;
+}
 
+.title {
+	font-family: $custom-title-font;
+	font-weight: $custom-title-font-weight;
+	letter-spacing: rem(1);
+}
+
+.heading {
+	font-family: $custom-heading-font;
+	font-weight: $custom-heading-font-weight;
+	letter-spacing: rem(1.5);
+}
+
+address {
+	font-style: normal;
+}

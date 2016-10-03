@@ -1,0 +1,71 @@
+@import "../../_settings.scss";
+
+
+#booking-modal {
+	background: #fff;
+	box-shadow: $z-4;
+	border-radius: rem(7);
+
+	h2 {
+		font-size: rem(32);
+	}
+
+	p {
+		font-size: rem(20);
+		line-height: 1.3;
+		margin-bottom: rem(26);
+	}
+
+	p#payment-note {
+		font-size: rem(20);
+		margin-bottom: rem(20);
+	}
+
+	a {
+		background: #A2D0E3;
+		box-shadow: $z-2;
+		color: #fff;
+		border: rem(2) solid #fff;
+
+		padding: rem(12) rem(20);
+		border-radius: rem(5);
+		font-size: rem(20);
+		line-height: 1.1;
+
+		&:hover {
+			background: #fff;
+			border: rem(2) solid #88C4DC;
+			box-shadow: $z-1;
+			color: #88C4DC;
+		}
+	}
+
+	a#waiver {
+		margin-bottom: rem(50);
+	}
+
+	button.close-button {
+		color: #000;
+
+		span {
+			font-size: rem(46);
+		}
+	}
+
+	@include breakpoint(medium) {
+		width: rem(770);
+		max-width: 95%;
+		padding: rem(40);
+
+		p {
+			font-size: rem(26);
+		}
+
+		a {
+			font-size: rem(24);
+			padding: rem(16) rem(30);
+			line-height: 1;
+		}
+	}
+}
+

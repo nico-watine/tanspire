@@ -1,2 +1,167 @@
 @import "../_settings.scss";
 
+header {
+	box-shadow: $z-2;
+
+	@include breakpoint(large) {
+		height: rem(145);
+	}
+
+	.contact-info {
+		padding: 0 rem(36);
+		background: #2A2A2A;
+		color: #fff;
+		font-size: rem(16);
+		line-height: rem(20);
+
+		address {
+			display: inline-block;
+
+			a {
+				color: #fff;
+
+				&:hover {
+					color: #fff;
+					text-decoration: underline;
+				}
+			}
+		}
+
+		span.phone {
+			float: right;
+		}
+	}
+
+	.logo-container {
+		padding: rem(20);
+		background: #FCFCFC url("#{$url}/img/header/golf-foil-bg/default.jpg") no-repeat left top;
+		background-size: cover;
+		position: relative;
+		text-align: center;
+
+		@include breakpoint(medium) {
+			text-align: left;
+			line-height: rem(100);
+			padding-top: 0;
+			padding-bottom: 0;
+			padding-right: rem(40);
+
+			img {
+				position: relative;
+				z-index: 5;
+
+			}
+		}
+
+		@include breakpoint(large) {
+			padding-left: rem(40);
+			line-height: rem(125);
+		}
+
+		.white-gradient {
+			background: linear-gradient(-90deg, #fff 0%, rgba(255,255,255,0.00) 50%);
+			width: 30%;
+			height: 100%;
+			position: absolute;
+			z-index: 0;
+			right: 0;
+			top: 0;
+		}
+
+	}
+
+	.nav-container {
+		padding-right: rem(20);
+		background: #fff;
+
+		@include breakpoint(large) {
+			height: 125px;
+		}
+
+		@include breakpoint(large) {
+			padding-right: rem(40);
+		}
+	}
+
+	ul.menu {
+		float: right;
+
+		li {
+			height: rem(100);
+			padding: 0 rem(18);
+
+			a {
+				color: #000;
+				font-size: rem(25);
+				padding: 0;
+
+				&:hover {
+					text-decoration: underline;
+				}
+			}
+
+			a.active {
+				text-decoration: underline;
+			}
+
+			@include breakpoint(large) {
+				height: rem(125);
+			}
+		}
+	}
+
+	.title-bar {
+		padding: 0 rem(8);
+
+		.menu-icon {
+			float: right;
+			height: rem(37);
+		}
+
+		.menu-icon::after {
+			top: 26%;
+		}
+
+		.title-bar-title {
+			float: right;
+			line-height: rem(37);
+			font-size: rem(20);
+		}
+
+		a {
+			i {
+				font-size: rem(30);
+				color: #fff;
+			}
+		}
+	}
+
+	#mobile-menu {
+		@extend .title;
+		padding: 0;
+
+		ul {
+			width: 100%;
+			padding: 0;
+			background: #fff;
+
+			li {
+				height: auto;
+				border-bottom: rem(2) solid #000;
+
+				a {
+					line-height: rem(46);
+				}
+			}
+
+			li.active {
+				background: #88C4DC;
+
+				a {
+					background: #88C4DC;
+					color: #fff;
+				}
+			}
+		}
+	}
+}
