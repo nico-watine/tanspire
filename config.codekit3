@@ -15,16 +15,16 @@
 		"oAP": "\/.babelrc",
 		"oF": 0
 		},
-	"\/.bowerrc": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/.bowerrc",
-		"oF": 0
-		},
 	"\/.gitignore": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/.gitignore",
+		"oF": 0
+		},
+	"\/_ignores\/.bowerrc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_ignores\/.bowerrc",
 		"oF": 0
 		},
 	"\/_ignores\/_notes.txt": {
