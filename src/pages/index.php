@@ -166,7 +166,7 @@ body-class:
 	<div id="contact-deets">
 		<div class="row" id="address-row">
 			<div class="small-12 columns">
-				<address><a href="https://goo.gl/maps/KhEnSFbHY4D2" target="_blank">2020 N Durham Dr <br>Houston, TX 77008</a></address>
+				<address><a href="https://goo.gl/maps/pg7fykqSLf92" target="_blank">1511 N Durham Dr <br>Houston, TX 77008</a></address>
 			</div>
 		</div>
 		<div class="row p-x" id="digits-row">
