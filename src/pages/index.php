@@ -89,8 +89,13 @@ body-class:
 								</tr>
 								<tr>
 									<td><strong>Signature Half Body</strong></td>
-									<td>Waist up or waist down</td>
+									<td>Waist up or waist down.</td>
 									<td>$30</td>
+								</tr>
+								<tr>
+									<td><strong>Signature Face &amp; Decollete</strong></td>
+									<td>Face, Chest and Shoulders <strong><em>only</em></strong>. May choose 8 hour formula or Rapid Rinse.</td>
+									<td>$12</td>
 								</tr>
 							</tbody>
 						</table>
