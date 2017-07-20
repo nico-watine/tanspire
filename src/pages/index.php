@@ -121,34 +121,7 @@ body-class:
 								</tr>
 							</tbody>
 						</table>
-						<!-- ADDITIONAL TREATMENTS PRICING -->
-						<p class="m-0"><strong>Additional Beauty Treatments</strong></p>
-						<table>
-							<thead>
-								<tr>
-									<th style="width: 55%;">&nbsp;</th>
-									<th>Price</th>
-								</tr>
-							</thead>
-							<tbody>
-								<tr>
-									<td><strong>Exfoliation</strong></td>
-									<td>$8</td>
-								</tr>
-								<tr>
-									<td><strong>PH Normalization</strong></td>
-									<td>$15</td>
-								</tr>
-								<tr>
-									<td><strong>Anti-Aging Skin Firming</strong></td>
-									<td>$15</td>
-								</tr>
-								<tr>
-									<td><strong>Shimmer Hydration</strong></td>
-									<td>$15</td>
-								</tr>
-							</tbody>
-						</table>
+						<p class="m-0"><strong>All Signature Tans include the following</strong></p>
 					</div>
 				</div>
 				<div class="medium-3 columns">
