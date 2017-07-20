@@ -5376,11 +5376,17 @@ body#index main .row#welcome-text .prose {
       font-size: 1.9375rem;
       margin-bottom: 2rem; }
     body#index main .row#welcome-text .image #model {
-      position: absolute;
-      bottom: 0;
-      max-width: 180px;
-      height: auto;
-      width: 100%; } }
+      display: none;
+      visibility: hidden; } }
+    @media screen and (min-width: 40em) and (min-width: 52.5em) {
+      body#index main .row#welcome-text .image #model {
+        display: block;
+        visibility: visible;
+        position: absolute;
+        bottom: 0;
+        max-width: 180px;
+        height: auto;
+        width: 100%; } }
 
 @media print, screen and (min-width: 64em) {
   body#index main .row#welcome-text .image #model {

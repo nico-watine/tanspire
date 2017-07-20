@@ -127,11 +127,18 @@ body#index {
 
 				.image {
 					#model {
-						position: absolute;
-						bottom: 0;
-						max-width: 180px;
-						height: auto;
-						width: 100%;
+						display: none;
+						visibility: hidden;
+
+						@include breakpoint(840px) {
+							display: block;
+							visibility: visible;
+							position: absolute;
+							bottom: 0;
+							max-width: 180px;
+							height: auto;
+							width: 100%;
+						}
 					}
 				}
 			}
