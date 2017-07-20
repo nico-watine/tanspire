@@ -116,12 +116,8 @@ body-class:
 									<td><strong>$225</strong> ($45/session) <em>$50 Savings</em></td>
 								</tr>
 								<tr>
-									<td><strong>6 Visits</strong></td>
-									<td>$180 ($30/session)</td>
-								</tr>
-								<tr>
-									<td><strong>9 Visits</strong></td>
-									<td>$225 ($25/session)</td>
+									<td><strong>3 Tans</strong></td>
+									<td><strong>$150</strong> ($50/session) <em>$15 Savings</em></td>
 								</tr>
 							</tbody>
 						</table>
