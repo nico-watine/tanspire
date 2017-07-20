@@ -5036,18 +5036,13 @@ body#index main .row#welcome-text .prose {
 @media screen and (min-width: 40em) {
   body#index main .row#welcome-text {
     position: relative; }
-    body#index main .row#welcome-text .prose {
-      max-width: 40rem;
-      padding-left: 1.25rem;
-      width: 100%;
-      float: right; }
-      body#index main .row#welcome-text .prose h2 {
-        margin-bottom: 1rem; }
-      body#index main .row#welcome-text .prose p {
-        font-size: 1.5625rem; }
-      body#index main .row#welcome-text .prose a {
-        font-size: 1.9375rem;
-        margin-bottom: 2rem; }
+    body#index main .row#welcome-text .prose h2 {
+      margin-bottom: 1rem; }
+    body#index main .row#welcome-text .prose p {
+      font-size: 1.5625rem; }
+    body#index main .row#welcome-text .prose a {
+      font-size: 1.9375rem;
+      margin-bottom: 2rem; }
     body#index main .row#welcome-text .image #model {
       position: absolute;
       bottom: 0;
