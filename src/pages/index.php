@@ -101,8 +101,8 @@ body-class:
 						</table>
 						<!-- MULTI-SESSION PRICING -->
 						<p class="m-0"><strong>Multi-Session Spray Tan Packages</strong></p>
-						<p style="line-height: 1.2; margin-bottom: 8px; font-size: 18px;">All packages include full body spray tan services. <br>
-						Any individual session may be given to another guest.</p>
+						<!-- <p style="line-height: 1.2; margin-bottom: 8px; font-size: 18px;">All packages include full body spray tan services. <br> -->
+						<!-- Any individual session may be given to another guest.</p> -->
 						<table>
 							<thead>
 								<tr>
