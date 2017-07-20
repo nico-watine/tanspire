@@ -66,16 +66,16 @@ body-class:
 						<table>
 							<thead>
 								<tr>
-									<th>&nbsp;</th>
-									<th>New Customer Special</th>
-									<th>Regular Pricing</th>
+									<th>Service</th>
+									<th>Description</th>
+									<th>Price</th>
 								</tr>
 							</thead>
 							<tbody>
 								<tr>
-									<td><strong>Full Body</strong></td>
-									<td>$25</td>
-									<td>$65</td>
+									<td><strong>Signature Tan</strong></td>
+									<td>Our standard full-body session. Rinse solution in 8+ hours. 18-24 hours for color to fully develop.</td>
+									<td>$55</td>
 								</tr>
 								<tr>
 									<td><strong>Upper Body</strong></td>
