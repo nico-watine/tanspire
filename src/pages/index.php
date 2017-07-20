@@ -57,7 +57,7 @@ body-class:
 				</div>
 			</div>
 			<div class="row" id="welcome-text">
-				<div class="medium-8 columns vertical-wrapper">
+				<div class="medium-9 columns vertical-wrapper">
 					<hr>
 					<div class="prose">
 						<h2>Pricing</h2>
@@ -145,7 +145,7 @@ body-class:
 						</table>
 					</div>
 				</div>
-				<div class="medium-4 columns">
+				<div class="medium-3 columns">
 					<div class="image show-for-medium">
 						<img id="model" src="{{ cdn }}/img/index/main/models/side-vertical.jpg" alt="TanSpire Model">
 					</div>
