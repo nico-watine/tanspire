@@ -139,7 +139,7 @@ body-class:
 								<td>Each Client is detailed with light contouring</td>
 							</tr>
 							<tr>
-								<td>Post Tan sealer is applied to ensure optimal tan development and NO CRAZY SMELL!(typically a $5 - $10 up-charge at other salons)</td>
+								<td>Post Tan sealer is applied to ensure optimal tan development and NO CRAZY SMELL! (typically a $5 - $10 up-charge at other salons)</td>
 							</tr>
 						</table>
 					</div>
