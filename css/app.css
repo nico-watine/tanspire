@@ -5167,6 +5167,10 @@ a.white-booking-button {
 .button {
   outline: none; }
 
+html,
+body {
+  height: 100%; }
+
 .p-0 {
   padding: 0; }
 
