@@ -78,14 +78,19 @@ body-class:
 									<td>$55</td>
 								</tr>
 								<tr>
-									<td><strong>Upper Body</strong></td>
-									<td>$10</td>
-									<td>$20</td>
+									<td><strong>Signature Rapid Rinse</strong></td>
+									<td>Standard full-body session. Rinse solution in 3-6 hours as directed by your spray tan specialist.</td>
+									<td>$65</td>
 								</tr>
 								<tr>
-									<td><strong>Lower Body</strong></td>
-									<td>$10</td>
-									<td>$20</td>
+									<td><strong>Signature Vacation Session</strong></td>
+									<td>Standard full-body session. Includes travel size moisturizer, tan extender and body wash to help your tan last through your trip.</td>
+									<td>$75</td>
+								</tr>
+								<tr>
+									<td><strong>Signature Half Body</strong></td>
+									<td>Waist up or waist down</td>
+									<td>$30</td>
 								</tr>
 							</tbody>
 						</table>
