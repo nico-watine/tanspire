@@ -79,7 +79,7 @@ body-class:
 								</tr>
 								<tr>
 									<td><strong>Signature Rapid Rinse</strong></td>
-									<td>Standard full-body session. Rinse solution in 3-6 hours as directed by your spray tan specialist.</td>
+									<td>Standard full-body session. Rinse solution in 3-6 hours as directed by your spray tan specialist. <span data-tooltip aria-haspopup="true" class="has-tip" data-disable-hover="false" tabindex="1" title="Please Note - Actual tan does not develop any quicker than with a standard solution. It will still take 18-24 hours for the color to fully develop, you will simply be able to shower off the solution quicker than you can with a standard solution.">*Note*</span></td>
 									<td>$65</td>
 								</tr>
 								<tr>
