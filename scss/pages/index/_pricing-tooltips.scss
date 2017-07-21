@@ -1,1 +1,13 @@
 @import "../../_settings.scss";
+
+#index {
+	.tooltip {
+		max-width: rem-calc(400);
+		font-weight: 400;
+		font-size: rem-calc(16);
+		line-height: 1.4;
+		background-color: #F7F7F7;
+		color: $black;
+		border: 3px solid #AECEDA;
+	}
+}

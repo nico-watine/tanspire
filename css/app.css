@@ -5507,6 +5507,15 @@ body#index section.contact-banner {
         padding: 1rem 1.875rem;
         line-height: 1; } }
 
+#index .tooltip {
+  max-width: 25rem;
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 1.4;
+  background-color: #F7F7F7;
+  color: #0a0a0a;
+  border: 3px solid #AECEDA; }
+
 body#things-to-know main {
   position: relative; }
   body#things-to-know main .splash-bg {
