@@ -35,20 +35,17 @@ PATHS:
     # Core Foundation files
     - "bower_components/foundation-sites/js/foundation.core.js"
     - "bower_components/foundation-sites/js/foundation.util.*.js"
-    # - "bower_components/foundation-sites/js/foundation.util.mediaQuery.js"
-    # Individual Foundation components
-    # If you aren't using a component, just remove it from the list
-    # MODAL POP UP ------------- ::
+    # Modal Pop Up
     - "bower_components/foundation-sites/js/foundation.reveal.js" 
-    # THINGS-TO-KNOW ACCORDION FUNCTION -------------- ::
+    # Things-To-Know Accordion Function
     - "bower_components/foundation-sites/js/foundation.accordion.js"
-    # Responsive nav
+    # Responsive Nav
     - "bower_components/foundation-sites/js/foundation.responsiveToggle.js"
-    # Smooth scroll on index
+    # Smooth Scroll On Index
     - "bower_components/foundation-sites/js/foundation.magellan.js"
     # Tooltip Details
     - "bower_components/foundation-sites/js/foundation.tooltip.js"
-    # --------------
+    # ----------------------------------------------------------------------
     # - "bower_components/foundation-sites/js/foundation.responsiveMenu.js"
     # - "bower_components/foundation-sites/js/foundation.abide.js"
     # - "bower_components/foundation-sites/js/foundation.accordionMenu.js"
