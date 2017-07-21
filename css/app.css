@@ -5512,9 +5512,9 @@ body#index section.contact-banner {
   font-weight: 400;
   font-size: 1rem;
   line-height: 1.4;
-  background-color: #F7F7F7;
+  background-color: #fefefe;
   color: #0a0a0a;
-  border: 3px solid #AECEDA; }
+  border: 3px solid #0a0a0a; }
 
 body#things-to-know main {
   position: relative; }
