@@ -46,6 +46,8 @@ PATHS:
     - "bower_components/foundation-sites/js/foundation.responsiveToggle.js"
     # Smooth scroll on index
     - "bower_components/foundation-sites/js/foundation.magellan.js"
+    # Tooltip Details
+    - "bower_components/foundation-sites/js/foundation.tooltip.js"
     # --------------
     # - "bower_components/foundation-sites/js/foundation.responsiveMenu.js"
     # - "bower_components/foundation-sites/js/foundation.abide.js"
@@ -61,6 +63,5 @@ PATHS:
     # - "bower_components/foundation-sites/js/foundation.sticky.js"
     # - "bower_components/foundation-sites/js/foundation.tabs.js"
     # - "bower_components/foundation-sites/js/foundation.toggler.js"
-    # - "bower_components/foundation-sites/js/foundation.tooltip.js"
     # - "bower_components/foundation-sites/js/foundation.zf.responsiveAccordionTabs.js"
     - "js/app-min.js"
