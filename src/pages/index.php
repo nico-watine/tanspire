@@ -80,6 +80,7 @@ body-class:
 								</div>	
 							</li>
 						</ul>
+						<p>Commitment problems? <span data-tooltip aria-haspopup="true" class="has-tip" data-disable-hover="false" tabindex="1" title="Cancel anytime. No termination fees. It really doesn't get any easier (or cheaper)!">Not an issue here.</span></p>
 					</div>
 				</div>
 				<div class="medium-5 columns booking-aside">
