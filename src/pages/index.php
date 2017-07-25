@@ -42,7 +42,7 @@ body-class:
 				</div>
 			</div>
 			<div class="row">
-				<div class="medium-7 columns membership-info">
+				<div class="medium-8 columns membership-info">
 					<div class="prose text-left">
 						<h3>TSVip program</h3>
 						<p>Want to save money on <strong><em>every</em></strong> tanning session? Then our new <strong>TSVIP program</strong> is for you. It's a fully customizable membership program that rewards you for your loyalty - the more you spray tan, the more you save!</p>
@@ -84,7 +84,7 @@ body-class:
 						<p>We are continually looking for ways to say thank you for your loyalty, and we think this just might be our best one yet. <strong>We're only offering 30 of these,</strong> so push past the red ropes with a single $45 sign up fee and gain your VIP status today! </p>
 					</div>
 				</div>
-				<div class="medium-5 columns booking-aside">
+				<div class="medium-4 columns booking-aside">
 					<div class="prose medium-text-center">
 						<p><strong>Schedule an appointment online.</strong></p>
 						<a data-open="booking-modal" class="white-booking-button title button">Book Now</a>
