@@ -21,5 +21,13 @@ body#index {
 				margin-top: rem-calc(10);
 			}
 		}
+
+		.accordion-content {
+			padding: 0;
+
+			table {
+				background: #e1e1e1;
+			}
+		}
 	}
 }

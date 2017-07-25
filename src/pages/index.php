@@ -51,7 +51,7 @@ body-class:
 							<li class="accordion-item" data-accordion-item>
 								<a href="#" class="accordion-title">Your savings are HUGE with this deal...</a>
 								<div class="accordion-content" data-tab-content>
-									<table>
+									<table class="unstriped">
 										<thead>
 											<tr>
 												<th># Tans / Month</th>
