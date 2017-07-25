@@ -82,7 +82,7 @@ body-class:
 						</ul>
 					</div>
 				</div>
-				<div class="medium-5 columns booking">
+				<div class="medium-5 columns booking-aside">
 					<div class="prose medium-text-center">
 						<p><strong>Schedule an appointment online.</strong></p>
 						<a data-open="booking-modal" class="white-booking-button title button">Book Now</a>

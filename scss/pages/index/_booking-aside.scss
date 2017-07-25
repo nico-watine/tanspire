@@ -1,0 +1,18 @@
+@import "../../_settings.scss";
+
+body#index {
+	.booking {
+		.prose {
+			text-align: left;
+		}
+	}
+
+	@include breakpoint(medium) {
+		.booking {
+			.prose {
+				text-align: center;
+				// float: right;
+			}
+		}
+	}
+}
