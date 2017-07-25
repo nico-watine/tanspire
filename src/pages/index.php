@@ -41,7 +41,7 @@ body-class:
 					<h1 class="title">Welcome to Tanspire</h1>
 				</div>
 			</div>
-			<div class="row" id="membership">
+			<div class="row">
 				<div class="medium-7 columns membership">
 					<div class="prose">
 						<h3>TSVip program</h3>
