@@ -5500,15 +5500,8 @@ body#index section.contact-banner {
   color: #0a0a0a;
   border: 3px solid #0a0a0a; }
 
-body#index p {
+body#index .membership-info p {
   font-size: 1.125rem; }
-
-body#index a {
-  font-size: 1.375rem; }
-
-@media print, screen and (min-width: 40em) {
-  body#index a {
-    font-size: 1.5625rem; } }
 
 body#things-to-know main {
   position: relative; }

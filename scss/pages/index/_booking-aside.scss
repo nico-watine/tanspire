@@ -1,17 +1,24 @@
 @import "../../_settings.scss";
 
 body#index {
-	.booking {
+	.booking-aside {
 		.prose {
 			text-align: left;
+
+			a {
+				font-size: rem-calc(22);
+			}
 		}
 	}
 
 	@include breakpoint(medium) {
-		.booking {
+		.booking-aside {
 			.prose {
 				text-align: center;
-				// float: right;
+
+				a {
+					font-size: rem-calc(25);
+				}
 			}
 		}
 	}

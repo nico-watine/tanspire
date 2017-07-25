@@ -1,17 +1,9 @@
 @import "../../_settings.scss";
 
 body#index {
-	p {
-		font-size: rem(18);
-	}
-
-	a {
-		font-size: rem(22);
-	}
-
-	@include breakpoint(medium) {
-		a {
-			font-size: rem(25);
+	.membership-info {
+		p {
+			font-size: rem-calc(18);
 		}
 	}
 }
