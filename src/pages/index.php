@@ -43,7 +43,7 @@ body-class:
 			</div>
 			<div class="row">
 				<div class="medium-7 columns membership-info">
-					<div class="prose">
+					<div class="prose text-left">
 						<h3>TSVip program</h3>
 						<!-- <p>We have a <strong>“Zero Lock-In”</strong> membership contract. Just pay month to month, and you can cancel whenever you want. <br><br> -->
 						<!-- Your membership gives you <strong>unlimited monthly manual spray tans</strong>. The first month is $45, and then the price drops to only $25 for ever month after. All you have to do is sign up in person!</p> -->
