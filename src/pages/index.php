@@ -53,8 +53,15 @@ body-class:
 							<li class="accordion-item" data-accordion-item>
 								<a href="#" class="accordion-title">Your savings are HUGE with this deal...</a>
 								<div class="accordion-content" data-tab-content>
-									<p>Panel 1. Lorem ipsum dolor</p>
-									<a href="#">Nowhere to Go</a>
+									<table>
+										<thead>
+											<tr>
+												<th># Tans / Month</th>
+												<th>Standard Session Savings</th>
+												<th>Rapid Session Savings</th>
+											</tr>
+										</thead>
+									</table>
 								</div>	
 							</li>
 						</ul>
