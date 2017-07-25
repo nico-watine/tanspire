@@ -81,6 +81,7 @@ body-class:
 							</li>
 						</ul>
 						<p>Commitment problems? <span data-tooltip aria-haspopup="true" class="has-tip" data-disable-hover="false" tabindex="1" title="Cancel anytime. No termination fees. It really doesn't get any easier (or cheaper)!">Not an issue here.</span></p>
+						<p>We are continually looking for ways to say thank you for your loyalty, and we think this just might be our best one yet. <strong>We're only offering 30 of these,</strong> so push past the red ropes with a single $45 sign up fee and gain your VIP status today! </p>
 					</div>
 				</div>
 				<div class="medium-5 columns booking-aside">
