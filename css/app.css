@@ -5503,6 +5503,17 @@ body#index section.contact-banner {
 body#index .membership-info p {
   font-size: 1.125rem; }
 
+body#index .savingsAccordion .accordion-title {
+  font-size: 1.125rem;
+  font-weight: 400;
+  border: 0.125rem solid #95C3D6;
+  border-radius: 0.125rem;
+  color: #0a0a0a; }
+  body#index .savingsAccordion .accordion-title::before {
+    font-size: 2.5rem;
+    top: 0;
+    margin-top: 0.625rem; }
+
 body#things-to-know main {
   position: relative; }
   body#things-to-know main .splash-bg {

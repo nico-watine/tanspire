@@ -6,4 +6,20 @@ body#index {
 			font-size: rem-calc(18);
 		}
 	}
+
+	.savingsAccordion {
+		.accordion-title {
+			font-size: rem-calc(18);
+			font-weight: 400;
+			border: rem-calc(2) solid #95C3D6;
+			border-radius: rem-calc(2);
+			color: $black;
+
+			&::before {
+				font-size: rem-calc(40);
+				top: 0;
+				margin-top: rem-calc(10);
+			}
+		}
+	}
 }

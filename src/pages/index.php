@@ -47,7 +47,7 @@ body-class:
 						<h3>TSVip program</h3>
 						<p>Want to save money on <strong><em>every</em></strong> tanning session? Then our new <strong>TSVIP program</strong> is for you. It's a fully customizable membership program that rewards you for your loyalty - the more you spray tan, the more you save!</p>
 						<p>With a $20 monthly fee, you only ever pay $25 per standard signature spray tan or $30 per signature rapid spray tan. Simple as that!</p>
-						<ul class="accordion savingsAccordion" data-accordion>
+						<ul class="accordion savingsAccordion" data-accordion data-allow-all-closed="true">
 							<li class="accordion-item" data-accordion-item>
 								<a href="#" class="accordion-title">Your savings are HUGE with this deal...</a>
 								<div class="accordion-content" data-tab-content>
