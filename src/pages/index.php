@@ -49,6 +49,15 @@ body-class:
 						<!-- Your membership gives you <strong>unlimited monthly manual spray tans</strong>. The first month is $45, and then the price drops to only $25 for ever month after. All you have to do is sign up in person!</p> -->
 						<p>Want to save money on <strong><em>every</em></strong> tanning session? Then our new <strong>TSVIP program</strong> is for you. It's a fully customizable membership program that rewards you for your loyalty - the more you spray tan, the more you save!</p>
 						<p>With a $20 monthly fee, you only ever pay $25 per standard signature spray tan or $30 per signature rapid spray tan. Simple as that!</p>
+						<ul class="accordion savingsAccordion" data-accordion>
+							<li class="accordion-item" data-accordion-item>
+								<a href="#" class="accordion-title">Your savings are HUGE with this deal...</a>
+								<div class="accordion-content" data-tab-content>
+									<p>Panel 1. Lorem ipsum dolor</p>
+									<a href="#">Nowhere to Go</a>
+								</div>	
+							</li>
+						</ul>
 					</div>
 				</div>
 				<div class="medium-5 columns booking">
