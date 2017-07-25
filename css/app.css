@@ -5515,9 +5515,12 @@ body#index .savingsAccordion .accordion-title {
     margin-top: 0.625rem; }
 
 body#index .savingsAccordion .accordion-content {
-  padding: 0; }
+  padding: 0;
+  border: 0;
+  background: none; }
   body#index .savingsAccordion .accordion-content table {
-    background: #e1e1e1; }
+    background: #e1e1e1;
+    margin-bottom: 0; }
 
 body#things-to-know main {
   position: relative; }

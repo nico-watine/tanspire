@@ -24,9 +24,12 @@ body#index {
 
 		.accordion-content {
 			padding: 0;
+			border: 0;
+			background: none;
 
 			table {
 				background: #e1e1e1;
+				margin-bottom: 0;
 			}
 		}
 	}
