@@ -42,7 +42,7 @@ body-class:
 				</div>
 			</div>
 			<div class="row">
-				<div class="medium-7 columns membership">
+				<div class="medium-7 columns membership-info">
 					<div class="prose">
 						<h3>TSVip program</h3>
 						<!-- <p>We have a <strong>“Zero Lock-In”</strong> membership contract. Just pay month to month, and you can cancel whenever you want. <br><br> -->

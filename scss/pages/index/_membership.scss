@@ -1,8 +1,8 @@
 @import "../../_settings.scss";
 
 body#index {
-	.row {
-		.membership,
+	// .row {
+		.membership-info,
 		.booking {
 			.prose {
 				text-align: left;
@@ -29,5 +29,5 @@ body#index {
 				}
 			}
 		}
-	}
+	// }
 }

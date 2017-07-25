@@ -5500,20 +5500,20 @@ body#index section.contact-banner {
   color: #0a0a0a;
   border: 3px solid #0a0a0a; }
 
-body#index .row .membership .prose,
-body#index .row .booking .prose {
+body#index .membership-info .prose,
+body#index .booking .prose {
   text-align: left; }
 
-body#index .row p {
+body#index p {
   font-size: 1.125rem; }
 
-body#index .row a {
+body#index a {
   font-size: 1.375rem; }
 
 @media print, screen and (min-width: 40em) {
-  body#index .row a {
+  body#index a {
     font-size: 1.5625rem; }
-  body#index .row .booking .prose {
+  body#index .booking .prose {
     text-align: center; } }
 
 body#things-to-know main {
