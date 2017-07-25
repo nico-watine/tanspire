@@ -61,6 +61,23 @@ body-class:
 												<th>Rapid Session Savings</th>
 											</tr>
 										</thead>
+										<tbody>
+											<tr>
+												<td>2 Tans/Month</td>
+												<td>$20 Saved / Session</td>
+												<td>$25 Saved / Session</td>
+											</tr>
+											<tr>
+												<td>3 Tans/Month</td>
+												<td>$23 Saved / Session</td>
+												<td>$28 Saved / Session</td>
+											</tr>
+											<tr>
+												<td>4 Tans/Month</td>
+												<td>$25 Saved / Session</td>
+												<td>$30 Saved / Session</td>
+											</tr>
+										</tbody>
 									</table>
 								</div>	
 							</li>
