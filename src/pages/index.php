@@ -44,9 +44,11 @@ body-class:
 			<div class="row" id="membership">
 				<div class="medium-7 columns membership">
 					<div class="prose">
-						<h3>Contract-Free Monthly Memberships!</h3>
-						<p>We have a <strong>“Zero Lock-In”</strong> membership contract. Just pay month to month, and you can cancel whenever you want. <br><br>
-						Your membership gives you <strong>unlimited monthly manual spray tans</strong>. The first month is $45, and then the price drops to only $25 for ever month after. All you have to do is sign up in person!</p>
+						<h3>TSVip program</h3>
+						<!-- <p>We have a <strong>“Zero Lock-In”</strong> membership contract. Just pay month to month, and you can cancel whenever you want. <br><br> -->
+						<!-- Your membership gives you <strong>unlimited monthly manual spray tans</strong>. The first month is $45, and then the price drops to only $25 for ever month after. All you have to do is sign up in person!</p> -->
+						<p>Want to save money on <strong><em>every</em></strong> tanning session? Then our new <strong>TSVIP program</strong> is for you. It's a fully customizable membership program that rewards you for your loyalty - the more you spray tan, the more you save!</p>
+						<p>With a $20 monthly fee, you only ever pay $25 per standard signature spray tan or $30 per signature rapid spray tan. Simple as that!</p>
 					</div>
 				</div>
 				<div class="medium-5 columns booking">
