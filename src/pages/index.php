@@ -214,7 +214,15 @@ body-class:
 </section>
 
 <div class="reveal" id="booking-modal" data-reveal>
-	<p id="payment-note">Please Note: No payment is required to book online.</p>
+	<!-- <p id="payment-note">Please Note: No payment is required to book online.</p> -->
+	<ul class="accordion cancellationAccordion" data-accordion data-allow-all-closed="true">
+		<li class="accordion-item" data-accordion-item>
+			<a href="#" class="accordion-title">Please read our cancellation policy carefully...</a>
+			<div class="accordion-content" data-tab-content>
+
+			</div>	
+		</li>
+	</ul>
 	<h2>New Customers</h2>
 	<p>If you have never booked with us before, please read and sign our digital Consent Waiver prior to scheduling your appointment.</p>
 	<a href="https://www.smartwaiver.com/v/tanspirehouston/" target="_blank" class="title button" id="waiver">View Digital Consent Waiver</a>

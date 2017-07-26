@@ -69,3 +69,30 @@
 	}
 }
 
+#booking-modal {
+	.cancellationAccordion {
+		margin-top: rem-calc(20);
+
+		.accordion-title {
+			font-size: rem-calc(18);
+			font-weight: 400;
+			border: rem-calc(2) solid #95C3D6;
+			border-radius: rem-calc(2);
+			color: #000;
+			background: #fff;
+			box-shadow: none;
+			text-decoration: underline;
+
+			&:hover,
+			&:focus {
+				box-shadow: $z-1;
+			}
+
+			&::before {
+				font-size: rem-calc(40);
+				top: 0;
+				margin-top: rem-calc(6);
+			}
+		}
+	}	
+}
