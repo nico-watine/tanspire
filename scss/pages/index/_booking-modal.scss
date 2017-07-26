@@ -94,5 +94,12 @@
 				margin-top: rem-calc(6);
 			}
 		}
+
+		.accordion-content {
+			p {
+				font-size: rem-calc(16);
+				line-height: 1.6;
+			}
+		}
 	}	
 }

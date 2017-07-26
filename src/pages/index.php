@@ -214,12 +214,19 @@ body-class:
 </section>
 
 <div class="reveal" id="booking-modal" data-reveal>
-	<!-- <p id="payment-note">Please Note: No payment is required to book online.</p> -->
 	<ul class="accordion cancellationAccordion" data-accordion data-allow-all-closed="true">
 		<li class="accordion-item" data-accordion-item>
-			<a href="#" class="accordion-title">Please read our cancellation policy carefully...</a>
+			<a href="#" class="accordion-title">Please read our cancellation &amp; fine print carefully</a>
 			<div class="accordion-content" data-tab-content>
-
+				<p>TanSpire requires a credit card to hold all appointments. Your card information is securely stored and charged in the event of a late cancel or no show. Please bring your form of payment to your appointment as we do not process payment through our booking system unless required by violation of this policy.</p>
+				<p>All tans are to be scheduled by appointment only. A waiting list will be made once the day is booked. You may cancel your appointment anytime up to 2 hours before your scheduled service with no penalty.</p>
+				<p><strong>CANCELING/RESCHEDULING</strong> your appointment within the 2 HOURS before your scheduled appointment will result in a charge of $20. <br>
+				<strong>No Show</strong> appointments will be charged for one full tan ($55).</p>
+				<p>If you have an existing tanning series/package and are a NO SHOW, one tan will be deducted from your balance.</p>
+				<p>If you do not have a package and are a NO SHOW, you will be charged one full tan ($55) or the balance of your booked appointment amount.</p>
+				<p>If you have a membership, appointment cancellation policies still apply. There will be a $20 fee for canceling within 2 hours of your appointment and a $55 fee charged (or the fee of the book service amount) for a no show appointment. Unlimited Memberships do not exclude you from the normal appointment and cancellation policies.</p>
+				<p><strong>TAN EXPIRATION POLICY</strong> <br>
+				Sometimes we run specials where you can purchase multiple tanning sessions at one time in a SERIES or PACKAGE. All tanning series/packages are valid for 6 months from purchase date. At the 6 month mark, any unused tans will expire. It is advised you do not purchase more tans at one time than you will use within 6 months. To be the first to know when we run these specials, please follow our social media or be added to our email list.</p>
 			</div>	
 		</li>
 	</ul>
