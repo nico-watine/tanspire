@@ -43,3 +43,20 @@ a.white-booking-button {
 		font-size: rem(31);
 	}
 }
+
+.tmSymbol {
+	font-family: $body-font-family;
+	font-weight: 300;
+	vertical-align: super;
+}
+
+h1 {
+	.tmSymbol {
+		font-size: rem-calc(14);
+
+		@include breakpoint(medium) {
+			font-size: rem-calc(24);
+		}
+	}	
+}
+

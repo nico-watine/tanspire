@@ -5163,6 +5163,17 @@ a.white-booking-button {
     a.white-booking-button {
       font-size: 1.9375rem; } }
 
+.tmSymbol {
+  font-family: "Source Sans Pro", Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  vertical-align: super; }
+
+h1 .tmSymbol {
+  font-size: 0.875rem; }
+  @media print, screen and (min-width: 40em) {
+    h1 .tmSymbol {
+      font-size: 1.5rem; } }
+
 .reveal,
 .button {
   outline: none; }

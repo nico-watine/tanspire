@@ -38,7 +38,7 @@ body-class:
 		<div class="inner-container m-x">
 			<div class="row" id="tagline">
 				<div class="small-12 columns text-center">
-					<h1 class="title">Welcome to Tanspire</h1>
+					<h1 class="title">Welcome to Tanspire<span class="tmSymbol">&trade;</span></h1>
 				</div>
 			</div>
 			<div class="row">
@@ -159,7 +159,7 @@ body-class:
 						<p class="m-0"><strong>All Signature Tans include the following</strong></p>
 						<table>
 							<tr>
-								<td>TanSpire Exclusive ECOCert Organic, Vegan Tanning Formula</td>
+								<td>TanSpire<span class="tmSymbol"><small>&trade;</small></span> Exclusive ECOCert Organic, Vegan Tanning Formula</td>
 							</tr>
 							<tr>
 								<td>Alcohol Free/Paraben Free/Cruelty Free Formula</td>
@@ -218,7 +218,7 @@ body-class:
 		<li class="accordion-item" data-accordion-item>
 			<a href="#" class="accordion-title">Please read our cancellation &amp; fine print carefully</a>
 			<div class="accordion-content" data-tab-content>
-				<p>TanSpire requires a credit card to hold all appointments. Your card information is securely stored and charged in the event of a late cancel or no show. Please bring your form of payment to your appointment as we do not process payment through our booking system unless required by violation of this policy.</p>
+				<p>TanSpire<span class="tmSymbol"><small>&trade;</small></span> requires a credit card to hold all appointments. Your card information is securely stored and charged in the event of a late cancel or no show. Please bring your form of payment to your appointment as we do not process payment through our booking system unless required by violation of this policy.</p>
 				<p>All tans are to be scheduled by appointment only. A waiting list will be made once the day is booked. You may cancel your appointment anytime up to 2 hours before your scheduled service with no penalty.</p>
 				<p><strong>CANCELING/RESCHEDULING</strong> your appointment within the 2 HOURS before your scheduled appointment will result in a charge of $20. <br>
 				<strong>No Show</strong> appointments will be charged for one full tan ($55).</p>
