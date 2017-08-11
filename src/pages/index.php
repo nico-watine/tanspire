@@ -213,8 +213,6 @@ body-class:
 	</div>
 </section>
 
-{{> footer}}
-
 <div class="reveal" id="booking-modal" data-reveal>
 	<ul class="accordion cancellationAccordion" data-accordion data-allow-all-closed="true">
 		<li class="accordion-item" data-accordion-item>
