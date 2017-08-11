@@ -6692,6 +6692,12 @@
 		"oAP": "\/src\/partials\/_notes.txt",
 		"oF": 1
 		},
+	"\/src\/partials\/footer.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/partials\/footer.html",
+		"oF": 0
+		},
 	"\/src\/partials\/google-tracking-id.html": {
 		"ft": 8192,
 		"oA": 2,

@@ -11,6 +11,7 @@ body-class:
 ---
 {{> header}}
 
+<div class="height-wrapper">
 <main>
 	<div class="splash-bg"><img src="{{ cdn }}/img/things-to-know/splash-bg/default.jpg" alt=""></div>
 	<div class="outer-container">
@@ -89,3 +90,7 @@ body-class:
 		</div>
 	</div>
 </main>
+
+{{> footer}}
+
+</div>

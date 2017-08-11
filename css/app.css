@@ -5081,6 +5081,20 @@ a#colophonLink {
   a#colophonLink:hover {
     text-decoration: underline; }
 
+html,
+body {
+  height: 100%; }
+
+.height-wrapper {
+  min-height: 100%;
+  position: relative; }
+  .height-wrapper main {
+    padding-bottom: 10em; }
+  .height-wrapper footer {
+    position: absolute;
+    bottom: 0px;
+    width: 100%; }
+
 @font-face {
   font-family: 'tanspire';
   src: url("/fonts/icons/tanspire.eot?64987084");
