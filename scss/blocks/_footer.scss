@@ -3,6 +3,18 @@
 footer {
 	background: #2A2A2A;
 	padding: rem-calc(16) 0 rem-calc(22);
+
+	.menu {
+		margin-bottom: rem-calc(12);
+	}
+}
+
+
+.footerProse {
+	* {
+		color: #fff;
+		font-weight: normal;
+	}
 }
 
 a#colophonLink {
@@ -11,7 +23,6 @@ a#colophonLink {
 	text-transform: uppercase;
 	text-decoration: none;
 	color: #fff;
-	font-weight: normal;
 
 	span {
 		text-decoration: underline;

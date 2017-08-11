@@ -5068,14 +5068,19 @@ header {
 footer {
   background: #2A2A2A;
   padding: 1rem 0 1.375rem; }
+  footer .menu {
+    margin-bottom: 0.75rem; }
+
+.footerProse * {
+  color: #fff;
+  font-weight: normal; }
 
 a#colophonLink {
   font-size: 0.875rem;
   letter-spacing: 0.075rem;
   text-transform: uppercase;
   text-decoration: none;
-  color: #fff;
-  font-weight: normal; }
+  color: #fff; }
   a#colophonLink span {
     text-decoration: underline; }
   a#colophonLink:hover {
