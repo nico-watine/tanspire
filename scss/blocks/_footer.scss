@@ -1,1 +1,20 @@
 @import "../_settings.scss";
+
+footer {
+	background: #2A2A2A;
+}
+
+a#colophonLink {
+	font-size: rem-calc(14);
+	letter-spacing: rem-calc(1);
+	text-transform: uppercase;
+	text-decoration: none;
+
+	span {
+		text-decoration: underline;
+	}
+
+	&:hover {
+		text-decoration: underline;
+	}
+}

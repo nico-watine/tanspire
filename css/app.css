@@ -5065,6 +5065,19 @@ header {
           background: #88C4DC;
           color: #fff; }
 
+footer {
+  background: #2A2A2A; }
+
+a#colophonLink {
+  font-size: 0.875rem;
+  letter-spacing: 0.0625rem;
+  text-transform: uppercase;
+  text-decoration: none; }
+  a#colophonLink span {
+    text-decoration: underline; }
+  a#colophonLink:hover {
+    text-decoration: underline; }
+
 @font-face {
   font-family: 'tanspire';
   src: url("/fonts/icons/tanspire.eot?64987084");
