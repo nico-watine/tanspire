@@ -2,13 +2,16 @@
 
 footer {
 	background: #2A2A2A;
+	padding: rem-calc(16) 0;
 }
 
 a#colophonLink {
 	font-size: rem-calc(14);
-	letter-spacing: rem-calc(1);
+	letter-spacing: rem-calc(1.2);
 	text-transform: uppercase;
 	text-decoration: none;
+	color: #fff;
+	font-weight: normal;
 
 	span {
 		text-decoration: underline;

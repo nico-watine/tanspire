@@ -5066,13 +5066,16 @@ header {
           color: #fff; }
 
 footer {
-  background: #2A2A2A; }
+  background: #2A2A2A;
+  padding: 1rem 0; }
 
 a#colophonLink {
   font-size: 0.875rem;
-  letter-spacing: 0.0625rem;
+  letter-spacing: 0.075rem;
   text-transform: uppercase;
-  text-decoration: none; }
+  text-decoration: none;
+  color: #fff;
+  font-weight: normal; }
   a#colophonLink span {
     text-decoration: underline; }
   a#colophonLink:hover {
