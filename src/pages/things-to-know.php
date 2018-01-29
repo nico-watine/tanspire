@@ -1,9 +1,9 @@
 ---
 url: /
 title: TanSpire Houston |  The Sunless Experts in Spray Tanning
-description: Delivering Hollywood spray tans to Houston. Long lasting, luxury spray tans. Come get your tan on &amp; book online today!
+description: Delivering Hollywood spray tans to Houston. Long lasting, luxury spray tans. Come get your tan on & book online today!
 og-title: TanSpire Houston |  The Sunless Experts in Spray Tanning
-og-description: TanSpire spray tan salon is now open! Delivering Hollywood spray tans to Houston. Long lasting, luxury spray tans. Come get your tan on &amp; book online today!
+og-description: TanSpire spray tan salon is now open! Delivering Hollywood spray tans to Houston. Long lasting, luxury spray tans. Come get your tan on & book online today!
 og-image: /img/assets/og/1/og-image.jpg
 faq-active: active
 body-id: things-to-know
