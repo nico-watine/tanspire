@@ -5665,6 +5665,28 @@
 		"oF": 0,
 		"oS": 1
 		},
+	"\/dist\/img\/index\/splash\/logo\/stacked\/white\/tanspire-logo.png": {
+		"ft": 32768,
+		"iS": 25418,
+		"oA": 1,
+		"oAP": "\/dist\/img\/index\/splash\/logo\/stacked\/white\/tanspire-logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/img\/index\/splash\/logo\/stacked\/white\/tanspire-logo@2x.png": {
+		"ft": 32768,
+		"iS": 65057,
+		"oA": 1,
+		"oAP": "\/dist\/img\/index\/splash\/logo\/stacked\/white\/tanspire-logo@2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/fonts\/icons\/tanspire.eot": {
 		"cB": 0,
 		"ft": 8192,
