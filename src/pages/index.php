@@ -159,7 +159,7 @@ body-class:
 						<p class="m-0"><strong>All Signature Tans include the following</strong></p>
 						<table>
 							<tr>
-								<td>TanSpire<span class="tmSymbol"><small>&trade;</small></span> Exclusive ECOCert Organic, Vegan Tanning Formula</td>
+								<td>TanSpire<span class="tmSymbol"><small>&trade;</small></span> Exclusive Vegan Tanning Formula</td>
 							</tr>
 							<tr>
 								<td>Alcohol Free/Paraben Free/Cruelty Free Formula</td>
