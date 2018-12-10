@@ -1,24 +1,19 @@
 {
-  "name": "foundation-ssg",
-  "version": "1.0.0",
-  "authors": [
-    "ZURB <foundation@zurb.com>"
+  "name": "tanspire",
+  "author": [
+    "Nico Watine <nico@studioncreations.com> (https://nicowatine.me/)"
   ],
-  "description": "Static site generator for Foundation for Sites.",
-  "main": "gulpfile.js",
+  "description": "Repo for tanspire.com",
   "license": "MIT",
   "ignore": [
     "**/.*",
     "node_modules",
-    "bower_components",
-    "test",
-    "tests"
+    "bower_components"
   ],
   "dependencies": {
-    "foundation-sites": "~6.3.0",
+    "foundation-sites": "^6.4.3",
     "motion-ui": "~1.2.2",
     "normalize-css": "^4.1.1",
     "bourbon": "4.3.4"
-  },
-  "private": true
+  }
 }
