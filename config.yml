@@ -44,6 +44,7 @@ PATHS:
     # Individual Foundation components
     - "bower_components/foundation-sites/dist/js/plugins/foundation.tooltip.js" # Tooltip Details
     - "bower_components/foundation-sites/dist/js/plugins/foundation.accordion.js" # Things-To-Know Accordion Function
+    - "bower_components/foundation-sites/dist/js/plugins/foundation.smoothScroll.js"
     - "bower_components/foundation-sites/dist/js/plugins/foundation.magellan.js" # Smooth Scroll On Index
     - "bower_components/foundation-sites/dist/js/plugins/foundation.responsiveToggle.js" # Responsive Nav
     - "bower_components/foundation-sites/dist/js/plugins/foundation.reveal.js" # Modal Pop Up
@@ -59,7 +60,6 @@ PATHS:
     # - "bower_components/foundation-sites/dist/js/plugins/foundation.responsiveAccordionTabs.js"
     # - "bower_components/foundation-sites/dist/js/plugins/foundation.responsiveMenu.js"
     # - "bower_components/foundation-sites/dist/js/plugins/foundation.slider.js"
-    # - "bower_components/foundation-sites/dist/js/plugins/foundation.smoothScroll.js"
     # - "bower_components/foundation-sites/dist/js/plugins/foundation.sticky.js"
     # - "bower_components/foundation-sites/dist/js/plugins/foundation.tabs.js"
     # - "bower_components/foundation-sites/dist/js/plugins/foundation.toggler.js"
