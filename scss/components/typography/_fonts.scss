@@ -1,32 +1,29 @@
-@import "../../_settings.scss";
-@import "_icon-font.scss";
+@import '../../_settings.scss';
+@import '_icon-font.scss';
 
 
 // @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300');
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300');
 
 @font-face {
-  font-family: 'Novecento Normal';
-  src: url('#{$url}/fonts/novecento/normal/novecento.eot'); /* IE9 Compat Modes */
-  src: url('#{$url}/fonts/novecento/normal/novecento.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('#{$url}/fonts/novecento/normal/novecento.woff') format('woff'), /* Modern Browsers */
-       url('#{$url}/fonts/novecento/normal/novecento.ttf')  format('truetype'), /* Safari, Android, iOS */
-       url('#{$url}/fonts/novecento/normal/novecento.svg#76f2e31c7d10652785782dc2e65e77e1') format('svg'); /* Legacy iOS */
-       
-  font-style:   normal;
-  font-weight:  400;
+	font-family: 'Novecento Normal';
+	src: url('#{$url}/fonts/novecento/normal/novecento.eot'); /* IE9 Compat Modes */
+	src: url('#{$url}/fonts/novecento/normal/novecento.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+	url('#{$url}/fonts/novecento/normal/novecento.woff') format('woff'), /* Modern Browsers */
+	url('#{$url}/fonts/novecento/normal/novecento.ttf')  format('truetype'), /* Safari, Android, iOS */
+	url('#{$url}/fonts/novecento/normal/novecento.svg#76f2e31c7d10652785782dc2e65e77e1') format('svg'); /* Legacy iOS */
+	font-style: normal;
+	font-weight: 400;
 }
 
 
 @font-face {
-  font-family: 'Novecento Wide DemiBold';
-  src: url('#{$url}/fonts/novecento/wide/novecento_wide-demibold.eot'); /* IE9 Compat Modes */
-  src: url('#{$url}/fonts/novecento/wide/novecento_wide-demibold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('#{$url}/fonts/novecento/wide/novecento_wide-demibold.woff') format('woff'), /* Modern Browsers */
-       url('#{$url}/fonts/novecento/wide/novecento_wide-demibold.ttf')  format('truetype'), /* Safari, Android, iOS */
-       url('#{$url}/fonts/novecento/wide/novecento_wide-demibold.svg#2181a38877e29ea77015cbef17265b86') format('svg'); /* Legacy iOS */
-       
-  font-style:   normal;
-  font-weight:  700;
+	font-family: 'Novecento Wide DemiBold';
+	src: url('#{$url}/fonts/novecento/wide/novecento_wide-demibold.eot'); /* IE9 Compat Modes */
+	src: url('#{$url}/fonts/novecento/wide/novecento_wide-demibold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+	url('#{$url}/fonts/novecento/wide/novecento_wide-demibold.woff') format('woff'), /* Modern Browsers */
+	url('#{$url}/fonts/novecento/wide/novecento_wide-demibold.ttf')  format('truetype'), /* Safari, Android, iOS */
+	url('#{$url}/fonts/novecento/wide/novecento_wide-demibold.svg#2181a38877e29ea77015cbef17265b86') format('svg'); /* Legacy iOS */
+	font-style: normal;
+	font-weight: 700;
 }
-
