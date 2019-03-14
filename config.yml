@@ -22,7 +22,7 @@ UNCSS_OPTIONS:
 # Gulp will reference these paths when it copies files
 PATHS:
   # Path to dist folder
-  dist: "dist"  
+  dist: "dist"
   # Paths to static assets that aren't images, CSS, or JavaScript
   assets:
     - "assets/.htaccess" # <- specify import invisible file .htaccess
@@ -44,7 +44,7 @@ PATHS:
     # Individual Foundation components
     - "bower_components/foundation-sites/dist/js/plugins/foundation.tooltip.js" # Tooltip Details
     - "bower_components/foundation-sites/dist/js/plugins/foundation.accordion.js" # Things-To-Know Accordion Function
-    - "bower_components/foundation-sites/dist/js/plugins/foundation.smoothScroll.js"
+    # - "bower_components/foundation-sites/dist/js/plugins/foundation.smoothScroll.js"
     - "bower_components/foundation-sites/dist/js/plugins/foundation.magellan.js" # Smooth Scroll On Index
     - "bower_components/foundation-sites/dist/js/plugins/foundation.responsiveToggle.js" # Responsive Nav
     - "bower_components/foundation-sites/dist/js/plugins/foundation.reveal.js" # Modal Pop Up
