@@ -99,7 +99,7 @@ body#things-to-know {
 					border-radius: rem-calc(2);
 					color: #fff;
 					text-shadow: 0 rem-calc(1) rem-calc(1) #000;
-					@include transition(background-color .25s ease-out);
+					// @include transition(background-color .25s ease-out);
 
 					&:hover {
 						background: #b4dff1;
