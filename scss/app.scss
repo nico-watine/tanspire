@@ -59,19 +59,23 @@
 
 @import '_var.scss';
 
-// Blocks
+// #1 Typography
+@import 'components/_typography.scss';
+
+// #2 Blocks
 @import 'blocks/_body.scss';
 @import 'blocks/_header.scss';
 @import 'blocks/_nav.scss';
 @import 'blocks/_main.scss';
 @import 'blocks/_footer.scss';
 
-// Components
-@import 'components/_extras.scss';
-@import 'components/_typography.scss';
-@import 'components/_resets.scss';
-@import 'components/_utility-classes.scss';
-
-// Pages
+// #3 Pages
 @import 'pages/index/_index.scss';
 @import 'pages/things-to-know/_things-to-know.scss';
+
+// #4 Components
+@import 'components/_extras.scss';
+@import 'components/_metrics.scss';
+@import 'components/_padding-margin.scss';
+@import 'components/_resets.scss';
+@import 'components/_utility-classes.scss';
