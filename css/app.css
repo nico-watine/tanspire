@@ -5649,7 +5649,7 @@ body#things-to-know main {
               font-size: 2.5625rem; } }
     body#things-to-know main .outer-container .inner-container {
       border-radius: 0.125rem;
-      background: #F7F7F7;
+      background: #f7f7f7;
       box-shadow: 0 0.875rem 0.75rem 0 rgba(0, 0, 0, 0.17), 0 1.25rem 2.5rem 0 rgba(0, 0, 0, 0.3);
       padding-top: 3.75rem;
       border: 0.0625rem solid #ddd; }
@@ -5673,7 +5673,7 @@ body#things-to-know #question-accordion .accordion {
       padding: 0.875rem 0.5rem;
       font-size: 1.75rem;
       box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
-      background: #95C3D6;
+      background: #95c3d6;
       border: 0.125rem solid #fff;
       border-radius: 0.125rem;
       color: #fff;
@@ -5682,7 +5682,7 @@ body#things-to-know #question-accordion .accordion {
       -moz-transition: background-color 0.25s ease-out;
       transition: background-color 0.25s ease-out; }
       body#things-to-know #question-accordion .accordion .accordion-item .accordion-title:hover {
-        background: #B4DFF1;
+        background: #b4dff1;
         box-shadow: 0 0.125rem 0.125rem 0 rgba(0, 0, 0, 0.2), 0 0.375rem 0.625rem 0 rgba(0, 0, 0, 0.3); }
       @media print, screen and (min-width: 40em) {
         body#things-to-know #question-accordion .accordion .accordion-item .accordion-title {
@@ -5706,7 +5706,7 @@ body#things-to-know #question-accordion .accordion {
         margin-bottom: 0.5rem; }
   body#things-to-know #question-accordion .accordion .accordion-item.is-active .accordion-title {
     background: #fff;
-    border: 0.125rem solid #88C4DC;
+    border: 0.125rem solid #88c4dc;
     color: #000;
     text-shadow: none; }
     body#things-to-know #question-accordion .accordion .accordion-item.is-active .accordion-title:hover {
