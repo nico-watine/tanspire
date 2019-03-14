@@ -1,18 +1,16 @@
-@import "../_settings.scss";
-
 header {
 	box-shadow: $z-2;
 
 	@include breakpoint(large) {
-		height: rem(145);
+		height: rem-calc(145);
 	}
 
 	.contact-info {
-		padding: 0 rem(36);
-		background: #2A2A2A;
+		padding: 0 rem-calc(36);
+		background: #2a2a2a;
 		color: #fff;
-		font-size: rem(16);
-		line-height: rem(20);
+		font-size: rem-calc(16);
+		line-height: rem-calc(20);
 
 		address {
 			display: inline-block;
@@ -33,33 +31,32 @@ header {
 	}
 
 	.logo-container {
-		padding: rem(20);
-		background: #FCFCFC url("#{$url}/img/header/golf-foil-bg/default.jpg") no-repeat left top;
+		padding: rem-calc(20);
+		background: #fcfcfc url('#{$url}/img/header/golf-foil-bg/default.jpg') no-repeat left top;
 		background-size: cover;
 		position: relative;
 		text-align: center;
 
 		@include breakpoint(medium) {
 			text-align: left;
-			line-height: rem(100);
+			line-height: rem-calc(100);
 			padding-top: 0;
 			padding-bottom: 0;
-			padding-right: rem(40);
+			padding-right: rem-calc(40);
 
 			img {
 				position: relative;
 				z-index: 5;
-
 			}
 		}
 
 		@include breakpoint(large) {
-			padding-left: rem(40);
-			line-height: rem(125);
+			padding-left: rem-calc(40);
+			line-height: rem-calc(125);
 		}
 
 		.white-gradient {
-			background: linear-gradient(-90deg, #fff 0%, rgba(255,255,255,0.00) 50%);
+			background: linear-gradient(-90deg, #fff 0%, rgba(255,255,255,.00) 50%);
 			width: 30%;
 			height: 100%;
 			position: absolute;
@@ -67,11 +64,10 @@ header {
 			right: 0;
 			top: 0;
 		}
-
 	}
 
 	.nav-container {
-		padding-right: rem(20);
+		padding-right: rem-calc(20);
 		background: #fff;
 
 		@include breakpoint(large) {
@@ -79,7 +75,7 @@ header {
 		}
 
 		@include breakpoint(large) {
-			padding-right: rem(40);
+			padding-right: rem-calc(40);
 		}
 	}
 
@@ -87,12 +83,12 @@ header {
 		float: right;
 
 		li {
-			height: rem(100);
-			padding: 0 rem(18);
+			height: rem-calc(100);
+			padding: 0 rem-calc(18);
 
 			a {
 				color: #000;
-				font-size: rem(25);
+				font-size: rem-calc(25);
 				padding: 0;
 
 				&:hover {
@@ -105,17 +101,17 @@ header {
 			}
 
 			@include breakpoint(large) {
-				height: rem(125);
+				height: rem-calc(125);
 			}
 		}
 	}
 
 	.title-bar {
-		padding: 0 rem(8);
+		padding: 0 rem-calc(8);
 
 		.menu-icon {
 			float: right;
-			height: rem(37);
+			height: rem-calc(37);
 		}
 
 		.menu-icon::after {
@@ -124,13 +120,13 @@ header {
 
 		.title-bar-title {
 			float: right;
-			line-height: rem(37);
-			font-size: rem(20);
+			line-height: rem-calc(37);
+			font-size: rem-calc(20);
 		}
 
 		a {
 			i {
-				font-size: rem(30);
+				font-size: rem-calc(30);
 				color: #fff;
 			}
 		}
@@ -147,18 +143,18 @@ header {
 
 			li {
 				height: auto;
-				border-bottom: rem(2) solid #000;
+				border-bottom: rem-calc(2) solid #000;
 
 				a {
-					line-height: rem(46);
+					line-height: rem-calc(46);
 				}
 			}
 
 			li.active {
-				background: #88C4DC;
+				background: #88c4dc;
 
 				a {
-					background: #88C4DC;
+					background: #88c4dc;
 					color: #fff;
 				}
 			}

@@ -1,7 +1,4 @@
-@import "../../_settings.scss";
-
 body#things-to-know {
-
 	main {
 		position: relative;
 
@@ -13,7 +10,7 @@ body#things-to-know {
 			img {
 				width: 100%;
 				box-shadow: $z-1;
-				border-bottom: rem(4) solid #fff;
+				border-bottom: rem-calc(4) solid #fff;
 			}
 		}
 
@@ -22,22 +19,22 @@ body#things-to-know {
 			@include grid-row;
 
 			.page-title {
-				padding: rem(60) 0 0;
+				padding: rem-calc(60) 0 0;
 
 				@include breakpoint(medium) {
-					padding: rem(90) 0;
+					padding: rem-calc(90) 0;
 				}
-				
+
 				@include breakpoint(large) {
-					padding: rem(150) 0;
+					padding: rem-calc(150) 0;
 				}
 
 				h1 {
-					font-size: rem(30);
-					padding: 0 rem(10);
+					font-size: rem-calc(30);
+					padding: 0 rem-calc(10);
 					line-height: 1.2;
 					color: #fff;
-					text-shadow: 0 rem(2) rem(4) #000;
+					text-shadow: 0 rem-calc(2) rem-calc(4) #000;
 
 					span {
 						@extend .body-font;
@@ -45,27 +42,27 @@ body#things-to-know {
 						font-weight: 400;
 						text-shadow: none;
 						color: #000;
-						font-size: rem(28);
+						font-size: rem-calc(28);
 						display: block;
-						text-shadow: 0 rem(1) rem(2) #fff;
+						text-shadow: 0 rem-calc(1) rem-calc(2) #fff;
 					}
 
 					@include breakpoint(medium) {
-						font-size: rem(65);
+						font-size: rem-calc(65);
 
 						span {
-							font-size: rem(41);
+							font-size: rem-calc(41);
 						}
 					}
 				}
 			}
 
 			.inner-container {
-				border-radius: rem(2);
-				background: #F7F7F7;
+				border-radius: rem-calc(2);
+				background: #f7f7f7;
 				box-shadow: $z-4;
-				padding-top: rem(60);
-				border: rem(1) solid #ddd;
+				padding-top: rem-calc(60);
+				border: rem-calc(1) solid #ddd;
 
 				@include breakpoint(medium) {
 					min-height: 0;
@@ -88,27 +85,27 @@ body#things-to-know {
 				padding-bottom: 20px;
 
 				.accordion-title {
-					width: rem(570);
+					width: rem-calc(570);
 					max-width: 100%;
 					display: block;
 					margin: 0 auto;
-					padding: rem(14) rem(8);
-					font-size: rem(28);
+					padding: rem-calc(14) rem-calc(8);
+					font-size: rem-calc(28);
 					box-shadow: $z-1;
-					background: #95C3D6;
-					border: rem(2) solid #fff;
-					border-radius: rem(2);
+					background: #95c3d6;
+					border: rem-calc(2) solid #fff;
+					border-radius: rem-calc(2);
 					color: #fff;
-					text-shadow: 0 rem(1) rem(1) #000;
-					@include transition(background-color 0.25s ease-out);
+					text-shadow: 0 rem-calc(1) rem-calc(1) #000;
+					// @include transition(background-color .25s ease-out);
 
 					&:hover {
-						background: #B4DFF1;
+						background: #b4dff1;
 						box-shadow: $z-2;
 					}
 
 					@include breakpoint(medium) {
-						font-size: rem(35);
+						font-size: rem-calc(35);
 					}
 				}
 
@@ -119,23 +116,23 @@ body#things-to-know {
 						visibility: visible;
 						top: 0;
 						margin-top: 0;
-						line-height: rem(65);
+						line-height: rem-calc(65);
 					}
 				}
 
 				.accordion-content {
-					margin-top: rem(20);
-					border: rem(1) solid #979797;
+					margin-top: rem-calc(20);
+					border: rem-calc(1) solid #979797;
 					box-shadow: inset $z-1;
 					border-radius: 2px;
 
 					p {
-						font-size: rem(18);
+						font-size: rem-calc(18);
 					}
 
 					ul {
 						li {
-							margin-bottom: rem(8);
+							margin-bottom: rem-calc(8);
 						}
 					}
 				}
@@ -144,7 +141,7 @@ body#things-to-know {
 			.accordion-item.is-active {
 				.accordion-title {
 					background: #fff;
-					border: rem(2) solid #88C4DC;
+					border: rem-calc(2) solid #88c4dc;
 					color: #000;
 					text-shadow: none;
 
@@ -156,4 +153,3 @@ body#things-to-know {
 		}
 	}
 }
-
