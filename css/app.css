@@ -5308,17 +5308,17 @@ body#index {
   z-index: 10; }
   .absolute-wrapper#logo a {
     background: #fff;
-    border: 0.125rem solid #88C4DC;
+    border: 0.125rem solid #88c4dc;
     box-shadow: 0 0.125rem 0.125rem 0 rgba(0, 0, 0, 0.2), 0 0.375rem 0.625rem 0 rgba(0, 0, 0, 0.3);
     letter-spacing: 0.09375rem;
     width: 8.75rem;
     padding: 1rem 0;
     border-radius: 0.3125rem;
-    color: #88C4DC;
+    color: #88c4dc;
     font-size: 1.125rem;
     margin-bottom: 1.75rem; }
     .absolute-wrapper#logo a:hover {
-      background: #A2D0E3;
+      background: #a2d0e3;
       box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
       color: #fff;
       border: 0.125rem solid #fff; }
@@ -5365,7 +5365,7 @@ body#index main .outer-container {
   body#index main .outer-container::after {
     clear: both; }
   body#index main .outer-container .inner-container {
-    background: #F7F7F7;
+    background: #f7f7f7;
     box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
     min-height: 400px;
     text-align: center; }
@@ -5386,16 +5386,16 @@ body#index main .row#welcome-text .prose {
     font-size: 1.125rem; }
   body#index main .row#welcome-text .prose a {
     background: #fff;
-    border: 0.125rem solid #88C4DC;
+    border: 0.125rem solid #88c4dc;
     box-shadow: 0 0.125rem 0.125rem 0 rgba(0, 0, 0, 0.2), 0 0.375rem 0.625rem 0 rgba(0, 0, 0, 0.3);
     letter-spacing: 0.09375rem;
     padding: 1rem 1.875rem;
     border-radius: 0.3125rem;
-    color: #88C4DC;
+    color: #88c4dc;
     font-size: 1.125rem;
     margin-bottom: 1.75rem; }
     body#index main .row#welcome-text .prose a:hover {
-      background: #A2D0E3;
+      background: #a2d0e3;
       box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
       color: #fff;
       border: 0.125rem solid #fff; }
@@ -5431,7 +5431,7 @@ body#index main .row#welcome-text .prose {
     max-width: 200px; } }
 
 body#index section.contact-banner {
-  background: #DFCA78 url("/img/assets/bg/gold-foil/medium/gold-foil.jpg") no-repeat center top;
+  background: #dfca78 url("/img/assets/bg/gold-foil/medium/gold-foil.jpg") no-repeat center top;
   background-size: cover; }
   body#index section.contact-banner #cta-tag {
     border: 0 solid #fff;
@@ -5459,7 +5459,7 @@ body#index section.contact-banner {
       font-size: 1.75rem;
       margin-bottom: 0.875rem; }
     body#index section.contact-banner #contact-deets .row#digits-row header a.button#mobile-menu, header body#index section.contact-banner #contact-deets .row#digits-row a.button#mobile-menu, body#index section.contact-banner #contact-deets .row#digits-row a.button.title {
-      background: #A2D0E3;
+      background: #a2d0e3;
       box-shadow: 0 0.125rem 0.125rem 0 rgba(0, 0, 0, 0.2), 0 0.375rem 0.625rem 0 rgba(0, 0, 0, 0.3);
       color: #fff;
       border: 0.125rem solid #fff;
@@ -5469,9 +5469,9 @@ body#index section.contact-banner {
       font-size: 1.125rem; }
       body#index section.contact-banner #contact-deets .row#digits-row header a.button#mobile-menu:hover, header body#index section.contact-banner #contact-deets .row#digits-row a.button#mobile-menu:hover, body#index section.contact-banner #contact-deets .row#digits-row a.button.title:hover {
         background: #fff;
-        border: 0.125rem solid #88C4DC;
+        border: 0.125rem solid #88c4dc;
         box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
-        color: #88C4DC; }
+        color: #88c4dc; }
     body#index section.contact-banner #contact-deets .row#digits-row p {
       margin-bottom: 0.875rem;
       font-size: 1.5625rem; }
@@ -5481,7 +5481,7 @@ body#index section.contact-banner {
           display: block; }
   @media print, screen and (min-width: 40em) {
     body#index section.contact-banner {
-      background: #DFCA78 url("/img/assets/bg/gold-foil/gold-foil.jpg") no-repeat center top;
+      background: #dfca78 url("/img/assets/bg/gold-foil/gold-foil.jpg") no-repeat center top;
       background-size: cover; }
       body#index section.contact-banner #cta-tag h2 {
         font-size: 2.5rem; }
@@ -5514,7 +5514,7 @@ body#index section.contact-banner {
     font-size: 1.25rem;
     margin-bottom: 1.25rem; }
   #booking-modal a {
-    background: #A2D0E3;
+    background: #a2d0e3;
     box-shadow: 0 0.125rem 0.125rem 0 rgba(0, 0, 0, 0.2), 0 0.375rem 0.625rem 0 rgba(0, 0, 0, 0.3);
     color: #fff;
     border: 0.125rem solid #fff;
@@ -5524,9 +5524,9 @@ body#index section.contact-banner {
     line-height: 1.1; }
     #booking-modal a:hover {
       background: #fff;
-      border: 0.125rem solid #88C4DC;
+      border: 0.125rem solid #88c4dc;
       box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
-      color: #88C4DC; }
+      color: #88c4dc; }
   #booking-modal a#waiver {
     margin-bottom: 3.125rem; }
   #booking-modal button.close-button {
@@ -5550,7 +5550,7 @@ body#index section.contact-banner {
   #booking-modal .cancellationAccordion .accordion-title {
     font-size: 1.125rem;
     font-weight: 400;
-    border: 0.125rem solid #95C3D6;
+    border: 0.125rem solid #95c3d6;
     border-radius: 0.125rem;
     color: #000;
     background: #fff;
@@ -5581,7 +5581,7 @@ body#index .membership-info p {
 body#index .savingsAccordion .accordion-title {
   font-size: 1.125rem;
   font-weight: 400;
-  border: 0.125rem solid #95C3D6;
+  border: 0.125rem solid #95c3d6;
   border-radius: 0.125rem;
   color: #000;
   background: #fff; }

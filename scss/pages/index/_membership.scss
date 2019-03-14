@@ -1,4 +1,4 @@
-@import "../../_settings.scss";
+@import '../../_settings.scss';
 
 body#index {
 	.membership-info {
@@ -11,7 +11,7 @@ body#index {
 		.accordion-title {
 			font-size: rem-calc(18);
 			font-weight: 400;
-			border: rem-calc(2) solid #95C3D6;
+			border: rem-calc(2) solid #95c3d6;
 			border-radius: rem-calc(2);
 			color: #000;
 			background: #fff;
