@@ -14,7 +14,7 @@
      * 3. Prevent adjustments of font size after orientation changes in
      *    IE on Windows Phone and in iOS.
      */
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300");
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400");
 html {
   font-family: sans-serif;
   /* 1 */
