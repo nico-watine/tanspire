@@ -29,11 +29,14 @@ Standards:
   CSS3 pre-processed via SASS
 
 Components:
-  insert_components
+  Foundation 6 for Sites
+  jQuery
 
 Software:
   Sublime Text 3
   CodeKit 3
+  Sketch App
+  MAMP
 
 
 
