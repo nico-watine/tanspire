@@ -6,11 +6,9 @@
 
 @font-face {
 	font-family: 'Novecento Normal';
-	src: url('#{$url}/fonts/novecento/normal/novecento.eot'); /* IE9 Compat Modes */
-	src: url('#{$url}/fonts/novecento/normal/novecento.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-	url('#{$url}/fonts/novecento/normal/novecento.woff') format('woff'), /* Modern Browsers */
-	url('#{$url}/fonts/novecento/normal/novecento.ttf')  format('truetype'), /* Safari, Android, iOS */
-	url('#{$url}/fonts/novecento/normal/novecento.svg#76f2e31c7d10652785782dc2e65e77e1') format('svg'); /* Legacy iOS */
+	src:url("#{$url}/fonts/novecento/normal/novecento.woff2") format("woff2"),
+		url("#{$url}/fonts/novecento/normal/novecento.woff") format("woff"),
+		url("#{$url}/fonts/novecento/normal/novecento.otf") format("opentype");
 	font-style: normal;
 	font-weight: 400;
 }
