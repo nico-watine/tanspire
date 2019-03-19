@@ -1,9 +1,7 @@
 @charset 'utf-8';
-@import "../bower_components/bourbon/app/assets/stylesheets/_bourbon.scss";
 
 @import 'settings';
 @import 'foundation';
-// @import 'motion-ui';
 
 @include foundation-global-styles;
 @include foundation-grid;
@@ -47,34 +45,37 @@
 @include foundation-float-classes;
 @include foundation-flex-classes;
 
-// THESE ARE MOTION CSS STYLES... DO NOT IMPORT WITHOUT
-// USING MOTION BC OF LARGE FILE SIZES
+// This site uses the float, not flex, grid:
+// @include foundation-flex-grid;
+
 @import 'motion-ui';
 @include motion-ui-transitions;
 @include motion-ui-animations;
 
-// TYPICALLY NEVER IMPORTED::
-// @include foundation-flex-grid;
 
+// ------------------------------------------------------------------------------
+// |            IMPORT CUSTOM SASS FILES (IN ORDER OF LOAD PRIORITY)            |
+// ------------------------------------------------------------------------------
 
-//  ---------------------------------------------------------------
-// IMPORT CUSTOM SCSS FILES ::
-//  ---------------------------------------------------------------
+@import '_var.scss';
 
-// BLOCKS ::
-@import "blocks/_body.scss";
-@import "blocks/_header.scss";
-@import "blocks/_nav.scss";
-@import "blocks/_main.scss";
-@import "blocks/_footer.scss";
+// #1 Typography
+@import 'components/_typography.scss';
 
-// COMPONENTS ::
-@import "components/_extras.scss";
-@import "components/_typography.scss";
-@import "components/_resets.scss";
-@import "components/_utility-classes.scss";
+// #2 Blocks
+@import 'blocks/_body.scss';
+@import 'blocks/_header.scss';
+@import 'blocks/_nav.scss';
+@import 'blocks/_main.scss';
+@import 'blocks/_footer.scss';
 
-// PAGES ::
-@import "pages/index/_index.scss";
-@import "pages/things-to-know/_things-to-know.scss";
+// #3 Pages
+@import 'pages/index/_index.scss';
+@import 'pages/things-to-know/_things-to-know.scss';
 
+// #4 Components
+@import 'components/_extras.scss';
+@import 'components/_metrics.scss';
+@import 'components/_padding-margin.scss';
+@import 'components/_resets.scss';
+@import 'components/_utility-classes.scss';

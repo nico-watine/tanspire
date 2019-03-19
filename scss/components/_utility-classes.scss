@@ -1,4 +1,29 @@
-@import "../_settings.scss";
+
+// ------------------------------------
+// |            box-shadow            |
+// ------------------------------------
+
+.box-shadow-1 {
+	box-shadow: $z-1;
+}
+
+.box-shadow-2 {
+	box-shadow: $z-2;
+}
+
+.box-shadow-3 {
+	box-shadow: $z-3;
+}
+
+.box-shadow-4 {
+	box-shadow: $z-4;
+}
+
+.box-shadow-5 {
+	box-shadow: $z-5;
+}
+
+// ---------------------------------------------------------------------- //
 
 
 .p-0 {
@@ -10,19 +35,19 @@
 }
 
 .p-x {
-	padding: 0 rem(20);
+	padding: 0 rem-calc(20);
 }
 
 .p-y {
-	padding: rem(20) 0;
+	padding: rem-calc(20) 0;
 }
 
 .m-x {
-	margin: 0 rem(20);
+	margin: 0 rem-calc(20);
 }
 
 .m-y {
-	margin: rem(20) 0;
+	margin: rem-calc(20) 0;
 }
 
 .inline-block {

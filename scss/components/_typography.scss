@@ -1,5 +1,4 @@
-@import "../_settings.scss";
-@import "typography/_fonts.scss";
+@import 'typography/_fonts.scss';
 
 .body-font {
 	font-family: $custom-body-font;
@@ -8,13 +7,13 @@
 .title {
 	font-family: $custom-title-font;
 	font-weight: $custom-title-font-weight;
-	letter-spacing: rem(1);
+	letter-spacing: rem-calc(1);
 }
 
 .heading {
 	font-family: $custom-heading-font;
 	font-weight: $custom-heading-font-weight;
-	letter-spacing: rem(1.5);
+	letter-spacing: rem-calc(1.5);
 }
 
 address {
@@ -23,24 +22,24 @@ address {
 
 a.white-booking-button {
 	background: #fff;
-	border: rem(2) solid #88C4DC;
+	border: rem-calc(2) solid #88c4dc;
 	box-shadow: $z-2;
-	letter-spacing: rem(1.5);
-	padding: rem(16) rem(30);
-	border-radius: rem(5);
-	color: #88C4DC;
-	// font-size: rem(18);
-	margin-bottom: rem(28);
+	letter-spacing: rem-calc(1.5);
+	padding: rem-calc(16) rem-calc(30);
+	border-radius: rem-calc(5);
+	color: #88c4dc;
+	// font-size: rem-calc(18);
+	margin-bottom: rem-calc(28);
 
 	&:hover {
-		background: #A2D0E3;
+		background: #a2d0e3;
 		box-shadow: $z-1;
 		color: #fff;
-		border: rem(2) solid #fff;
+		border: rem-calc(2) solid #fff;
 	}
 
 	@include breakpoint(medium) {
-		font-size: rem(31);
+		font-size: rem-calc(31);
 	}
 }
 
@@ -57,6 +56,5 @@ h1 {
 		@include breakpoint(medium) {
 			font-size: rem-calc(24);
 		}
-	}	
+	}
 }
-

@@ -77,7 +77,7 @@ body-class:
 											</tr>
 										</tbody>
 									</table>
-								</div>	
+								</div>
 							</li>
 						</ul>
 						<p>Commitment problems? <span data-tooltip aria-haspopup="true" class="has-tip" data-disable-hover="false" tabindex="1" title="Cancel anytime. No termination fees. It really doesn't get any easier (or cheaper)!">Not an issue here.</span></p>
@@ -229,7 +229,7 @@ body-class:
 				<p>If you have a membership, appointment cancellation policies still apply. There will be a $20 fee for canceling within 2 hours of your appointment and a $55 fee charged (or the fee of the book service amount) for a no show appointment. Unlimited Memberships do not exclude you from the normal appointment and cancellation policies.</p>
 				<p><strong>TAN EXPIRATION POLICY</strong> <br>
 				Sometimes we run specials where you can purchase multiple tanning sessions at one time in a SERIES or PACKAGE. All tanning series/packages are valid for 6 months from purchase date. At the 6 month mark, any unused tans will expire. It is advised you do not purchase more tans at one time than you will use within 6 months. To be the first to know when we run these specials, please follow our social media or be added to our email list.</p>
-			</div>	
+			</div>
 		</li>
 	</ul>
 	<h2>New Customers</h2>
