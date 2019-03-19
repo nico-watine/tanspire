@@ -1,13 +1,10 @@
 @font-face {
 	font-family: 'tanspire';
-	src: url('#{$url}/fonts/icons/tanspire.eot?64987084');
-	src: url('#{$url}/fonts/icons/tanspire.eot?64987084#iefix') format('embedded-opentype'),
-	url('#{$url}/fonts/icons/tanspire.woff2?64987084') format('woff2'),
-	url('#{$url}/fonts/icons/tanspire.woff?64987084') format('woff'),
-	url('#{$url}/fonts/icons/tanspire.ttf?64987084') format('truetype'),
-	url('#{$url}/fonts/icons/tanspire.svg?64987084#tanspire') format('svg');
-	font-weight: normal;
+	src:url("tanspire.woff2") format("woff2"),
+		url("tanspire.woff") format("woff"),
+		url("tanspire.otf") format("opentype");
 	font-style: normal;
+	font-weight: 400;
 }
 
 
