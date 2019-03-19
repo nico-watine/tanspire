@@ -5949,6 +5949,12 @@
 		"oF": 0,
 		"oS": 1
 		},
+	"/dist": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "/build/dist",
+		"oF": 0
+		},
 	"/fonts/icons/tanspire.eot": {
 		"cB": 0,
 		"ft": 8192,
