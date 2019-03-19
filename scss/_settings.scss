@@ -65,13 +65,11 @@ $black: #0a0a0a;
 $white: #fefefe;
 $body-background: $white;
 $body-font-color: $black;
-$body-font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+$body-font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 $body-antialiased: true;
 $global-margin: 1rem;
 $global-padding: 1rem;
-// $global-weight-normal: normal;
 $global-weight-normal: 300;
-// $global-weight-bold: bold;
 $global-weight-bold: normal;
 $global-radius: 0;
 $global-text-direction: ltr;
@@ -100,7 +98,7 @@ $grid-row-width: $global-width;
 $grid-column-count: 12;
 $grid-column-gutter: (
   small: 20px,
-  medium: 25px,
+  medium: 24px,
   large: 30px,
 );
 $grid-column-align-edge: true;

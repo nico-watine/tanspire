@@ -1,19 +1,20 @@
 {
-  "name": "tanspire",
-  "author": [
-    "Nico Watine <nico@studioncreations.com> (https://nicowatine.me/)"
-  ],
-  "description": "Repo for tanspire.com",
-  "license": "MIT",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components"
-  ],
-  "dependencies": {
-    "foundation-sites": "6.3.1",
-    "motion-ui": "~1.2.2",
-    "normalize-css": "^4.1.1",
-    "bourbon": "4.3.4"
-  }
+	"name": "tanspire",
+	"author": [
+		"Nico Watine <nico@studioncreations.com> (https://nicowatine.me/)"
+	],
+	"description": "Repo for tanspire.com",
+	"homepage": "https://tanspire.com",
+	"license": "MIT",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components"
+	],
+	"dependencies": {
+		"foundation-sites": "6.3.1",
+		"motion-ui": "~1.2.2",
+		"normalize-css": "^4.1.1",
+		"bourbon": "4.3.4"
+	}
 }

@@ -10,7 +10,7 @@ body-class:
 ---
 <section class="splash">
 	<aside class="heading">
-		<address><a href="https://goo.gl/maps/pg7fykqSLf92" target="_blank">1511 N Durham Dr <br>Houston, TX 77008</a></address>
+		<address><a href="https://goo.gl/maps/CW2Ws4mZY6E2" target="_blank">1511 N Durham Dr <br>Houston, TX 77008</a></address>
 		<span id="phone">713-955-1232</span>
 	</aside>
 	<div id="logo" class="text-center absolute-wrapper">
@@ -200,7 +200,7 @@ body-class:
 	<div id="contact-deets">
 		<div class="row" id="address-row">
 			<div class="small-12 columns">
-				<address><a href="https://goo.gl/maps/pg7fykqSLf92" target="_blank">1511 N Durham Dr <br>Houston, TX 77008</a></address>
+				<address><a href="https://goo.gl/maps/CW2Ws4mZY6E2" target="_blank">1511 N Durham Dr <br>Houston, TX 77008</a></address>
 			</div>
 		</div>
 		<div class="row p-x" id="digits-row">

@@ -1,8 +1,16 @@
+// --------------------------------------
+// |            CDN Variable            |
+// --------------------------------------
 $url: null;
 // $url:'http://cdn.studionclient.rocks/tanspire';
+
+// Usage Example:
 // url('#{$url}/
 
-// TYPOGRAPHY SETTINGS
+
+// ----------------------------------------------
+// |            Typography Variables            |
+// ----------------------------------------------
 $custom-body-font: 'Source Sans Pro';
 $custom-heading-font: 'Novecento Normal';
 $custom-heading-font-weight: 400;
@@ -10,7 +18,9 @@ $custom-title-font: 'Novecento Wide DemiBold';
 $custom-title-font-weight: 700;
 
 
-// BOX-SHADOW VALUES //
+// ----------------------------------------------------
+// |            box-shadow Variable Styles            |
+// ----------------------------------------------------
 $z-1: 0 rem-calc(1) rem-calc(4) 0 rgba(0,0,0,.37);
 $z-2: 0 rem-calc(2) rem-calc(2) 0 rgba(0,0,0,.20), 0 rem-calc(6) rem-calc(10) 0 rgba(0,0,0,.30);
 $z-3: 0 rem-calc(11) rem-calc(7) 0 rgba(0,0,0,.19), 0 rem-calc(13) rem-calc(25) 0 rgba(0,0,0,.30);
