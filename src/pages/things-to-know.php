@@ -21,7 +21,7 @@ body-class:
 		<div class="inner-container m-x">
 			<div class="row">
 				<div class="small-12 columns" id="question-accordion">
-					<ul class="accordion" data-accordion data-allow-all-closed="true" data-multi-expand="true"> 
+					<ul class="accordion" data-accordion data-allow-all-closed="true" data-multi-expand="true">
 						<li class="accordion-item" data-accordion-item>
 							<a class="accordion-title text-center heading" href="#">Before Your Visit</a>
 							<div class="accordion-content" data-tab-content>
@@ -35,7 +35,7 @@ body-class:
 									<li>Tie long hair up away from face and neck</li>
 									<li>Attire to wear for your session: Bring a dark-colored bathing suit (or a garment of preference) or you may use disposable garments that are available at TanSpire<span class="tmSymbol"><small>&trade;</small></span>.  The Infinity Sun cosmetic bronzer washes out of most clothing very easily, but can stain wool, silk, light nylon, and other light synthetic materials</li>
 									<li>Attire to bring for after your session: Bring dark-colored, loose fitting clothing as well as flip-flops or sandals to wear in order to avoid any possible contact with sweat on the feet</li>
-								</ul>	
+								</ul>
 							</div>
 						</li>
 						<li class="accordion-item" data-accordion-item>
@@ -54,7 +54,7 @@ body-class:
 									<li>Avoid spraying perfume/body sprays onto the tanned area of the skin </li>
 									<li>Avoid makeup removers </li>
 									<li>Use Infinity Sun Glow on the Go Sunless Tanner to touch up face, hands and feet between sessions.</li>
-								</ul>							
+								</ul>
 							</div>
 						</li>
 						<li class="accordion-item" data-accordion-item>

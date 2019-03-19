@@ -14,7 +14,7 @@
      * 3. Prevent adjustments of font size after orientation changes in
      *    IE on Windows Phone and in iOS.
      */
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300");
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400");
 html {
   font-family: sans-serif;
   /* 1 */
@@ -439,7 +439,7 @@ body {
   margin: 0;
   padding: 0;
   background: #fefefe;
-  font-family: "Source Sans Pro", Helvetica, Arial, sans-serif;
+  font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 300;
   line-height: 1.2;
   color: #0a0a0a;
@@ -507,8 +507,8 @@ pre {
     margin-left: -0.625rem; }
     @media print, screen and (min-width: 40em) {
       .row .row {
-        margin-right: -0.78125rem;
-        margin-left: -0.78125rem; } }
+        margin-right: -0.75rem;
+        margin-left: -0.75rem; } }
     @media print, screen and (min-width: 64em) {
       .row .row {
         margin-right: -0.9375rem;
@@ -527,8 +527,8 @@ pre {
     padding-right: 0.625rem;
     padding-left: 0.625rem; }
   .row.gutter-medium > .column, .row.gutter-medium > .columns {
-    padding-right: 0.78125rem;
-    padding-left: 0.78125rem; }
+    padding-right: 0.75rem;
+    padding-left: 0.75rem; }
   .row.gutter-large > .column, .row.gutter-large > .columns {
     padding-right: 0.9375rem;
     padding-left: 0.9375rem; }
@@ -540,8 +540,8 @@ pre {
   padding-left: 0.625rem; }
   @media print, screen and (min-width: 40em) {
     .column, .columns {
-      padding-right: 0.78125rem;
-      padding-left: 0.78125rem; } }
+      padding-right: 0.75rem;
+      padding-left: 0.75rem; } }
   @media print, screen and (min-width: 64em) {
     .column, .columns {
       padding-right: 0.9375rem;
@@ -1028,8 +1028,8 @@ pre {
     margin-right: 0;
     margin-left: 0; }
   .medium-uncollapse > .column, .medium-uncollapse > .columns {
-    padding-right: 0.78125rem;
-    padding-left: 0.78125rem; }
+    padding-right: 0.75rem;
+    padding-left: 0.75rem; }
   .medium-centered {
     margin-right: auto;
     margin-left: auto; }
@@ -1263,7 +1263,7 @@ pre {
     margin-bottom: 0; }
   @media print, screen and (min-width: 40em) {
     .column-block {
-      margin-bottom: 1.5625rem; }
+      margin-bottom: 1.5rem; }
       .column-block > :last-child {
         margin-bottom: 0; } }
   @media print, screen and (min-width: 64em) {
@@ -4967,10 +4967,9 @@ a.thumbnail {
 
 @font-face {
   font-family: 'tanspire';
-  src: url("/fonts/icons/tanspire.eot?64987084");
-  src: url("/fonts/icons/tanspire.eot?64987084#iefix") format("embedded-opentype"), url("/fonts/icons/tanspire.woff2?64987084") format("woff2"), url("/fonts/icons/tanspire.woff?64987084") format("woff"), url("/fonts/icons/tanspire.ttf?64987084") format("truetype"), url("/fonts/icons/tanspire.svg?64987084#tanspire") format("svg");
-  font-weight: normal;
-  font-style: normal; }
+  src: url("/fonts/icons/tanspire.woff2") format("woff2"), url("/fonts/icons/tanspire.woff") format("woff"), url("/fonts/icons/tanspire.otf") format("opentype");
+  font-style: normal;
+  font-weight: 400; }
 
 [class^='icon-']:before,
 [class*=' icon-']:before {
@@ -5014,19 +5013,13 @@ a.thumbnail {
 /* '' */
 @font-face {
   font-family: 'Novecento Normal';
-  src: url("/fonts/novecento/normal/novecento.eot");
-  /* IE9 Compat Modes */
-  src: url("/fonts/novecento/normal/novecento.eot?#iefix") format("embedded-opentype"), url("/fonts/novecento/normal/novecento.woff") format("woff"), url("/fonts/novecento/normal/novecento.ttf") format("truetype"), url("/fonts/novecento/normal/novecento.svg#76f2e31c7d10652785782dc2e65e77e1") format("svg");
-  /* Legacy iOS */
+  src: url("/fonts/novecento/normal/novecento.woff2") format("woff2"), url("/fonts/novecento/normal/novecento.woff") format("woff"), url("/fonts/novecento/normal/novecento.otf") format("opentype");
   font-style: normal;
   font-weight: 400; }
 
 @font-face {
   font-family: 'Novecento Wide DemiBold';
-  src: url("/fonts/novecento/wide/novecento_wide-demibold.eot");
-  /* IE9 Compat Modes */
-  src: url("/fonts/novecento/wide/novecento_wide-demibold.eot?#iefix") format("embedded-opentype"), url("/fonts/novecento/wide/novecento_wide-demibold.woff") format("woff"), url("/fonts/novecento/wide/novecento_wide-demibold.ttf") format("truetype"), url("/fonts/novecento/wide/novecento_wide-demibold.svg#2181a38877e29ea77015cbef17265b86") format("svg");
-  /* Legacy iOS */
+  src: url("/fonts/novecento/wide/novecento_wide-demibold.woff2") format("woff2"), url("/fonts/novecento/wide/novecento_wide-demibold.woff") format("woff"), url("/fonts/novecento/wide/novecento_wide-demibold.otf") format("opentype");
   font-style: normal;
   font-weight: 700; }
 
@@ -5065,7 +5058,7 @@ a.white-booking-button {
       font-size: 1.9375rem; } }
 
 .tmSymbol {
-  font-family: "Source Sans Pro", Helvetica, Arial, sans-serif;
+  font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 300;
   vertical-align: super; }
 
