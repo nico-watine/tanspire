@@ -6021,16 +6021,6 @@
 		"oAP": "/fonts/novecento/normal/novecento.woff2",
 		"oF": 0
 		},
-	"/fonts/novecento/wide/novecento_wide-demibold.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/fonts/novecento/wide/novecento_wide-demibold-min.css",
-		"oF": 0,
-		"oS": 1
-		},
 	"/fonts/novecento/wide/novecento_wide-demibold.ttf": {
 		"cB": 0,
 		"ft": 8192,
