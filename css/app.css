@@ -5019,7 +5019,7 @@ a.thumbnail {
 
 @font-face {
   font-family: 'Novecento Wide DemiBold';
-  src: url("/fonts/novecento/normal/novecento_wide-demibold.woff2") format("woff2"), url("/fonts/novecento/normal/novecento_wide-demibold.woff") format("woff"), url("/fonts/novecento/normal/novecento_wide-demibold.otf") format("opentype");
+  src: url("/fonts/novecento/wide/novecento_wide-demibold.woff2") format("woff2"), url("/fonts/novecento/wide/novecento_wide-demibold.woff") format("woff"), url("/fonts/novecento/wide/novecento_wide-demibold.otf") format("opentype");
   font-style: normal;
   font-weight: 700; }
 
