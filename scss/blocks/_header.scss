@@ -107,7 +107,7 @@ header {
 	}
 
 	.title-bar {
-		padding: 0 rem-calc(8);
+		padding: rem-calc(8);
 
 		.menu-icon {
 			height: rem-calc(37);
@@ -119,12 +119,12 @@ header {
 
 		.title-bar-title {
 			line-height: rem-calc(37);
-			font-size: rem-calc(20);
+			font-size: rem-calc(25);
 		}
 
 		a {
 			i {
-				font-size: rem-calc(30);
+				font-size: rem-calc(32);
 				color: #fff;
 			}
 		}
