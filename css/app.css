@@ -8066,12 +8066,10 @@ header {
   header .title-bar {
     padding: 0 0.5rem; }
     header .title-bar .menu-icon {
-      float: right;
       height: 2.3125rem; }
     header .title-bar .menu-icon::after {
       top: 26%; }
     header .title-bar .title-bar-title {
-      float: right;
       line-height: 2.3125rem;
       font-size: 1.25rem; }
     header .title-bar a i {
