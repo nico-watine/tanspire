@@ -7494,12 +7494,6 @@
 		"oF": 0,
 		"oS": 1
 		},
-	"/dist": {
-		"ft": 65536,
-		"oA": 1,
-		"oAP": "/build/dist",
-		"oF": 0
-		},
 	"/fonts/icons/tanspire.ttf": {
 		"cB": 0,
 		"ft": 8192,
@@ -7839,13 +7833,13 @@
 		"sC": 1,
 		"tS": 0
 		},
-	"/js/vendor/jquery/2-2-2/jquery.min.js": {
+	"/js/vendor/jquery/2-2-2/jquery-min.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 0,
 		"oA": 1,
-		"oAP": "/js/vendor/jquery/jquery.min-min.js",
+		"oAP": "/js/vendor/jquery/jquery-min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
