@@ -8064,18 +8064,16 @@ header {
         header ul.menu li {
           height: 7.8125rem; } }
   header .title-bar {
-    padding: 0 0.5rem; }
+    padding: 0.5rem; }
     header .title-bar .menu-icon {
-      float: right;
       height: 2.3125rem; }
     header .title-bar .menu-icon::after {
       top: 26%; }
     header .title-bar .title-bar-title {
-      float: right;
       line-height: 2.3125rem;
-      font-size: 1.25rem; }
+      font-size: 1.5625rem; }
     header .title-bar a i {
-      font-size: 1.875rem;
+      font-size: 2rem;
       color: #fff; }
   header #mobile-menu {
     padding: 0; }
