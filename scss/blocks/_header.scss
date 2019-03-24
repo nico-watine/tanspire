@@ -2,15 +2,15 @@ header {
 	box-shadow: $z-2;
 
 	@include breakpoint(large) {
-		height: rem-calc(145);
+		height: rem-calc(144);
 	}
 
 	.contact-info {
-		padding: 0 rem-calc(36);
+		padding: 0 rem-calc(40);
 		background: #2a2a2a;
 		color: #fff;
 		font-size: rem-calc(16);
-		line-height: rem-calc(20);
+		line-height: rem-calc(28);
 
 		address {
 			display: inline-block;
@@ -31,7 +31,7 @@ header {
 	}
 
 	.logo-container {
-		padding: rem-calc(20);
+		padding: rem-calc(24);
 		background: #fcfcfc url('#{$url}/img/header/golf-foil-bg/default.jpg') no-repeat left top;
 		background-size: cover;
 		position: relative;
@@ -39,7 +39,7 @@ header {
 
 		@include breakpoint(medium) {
 			text-align: left;
-			line-height: rem-calc(100);
+			// line-height: rem-calc(125);
 			padding-top: 0;
 			padding-bottom: 0;
 			padding-right: rem-calc(40);
@@ -84,7 +84,7 @@ header {
 
 		li {
 			// height: rem-calc(100);
-			padding: 0 rem-calc(18);
+			padding: 0 rem-calc(16);
 
 			a {
 				color: #000;
