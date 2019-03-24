@@ -51,7 +51,7 @@ header {
 		}
 
 		@include breakpoint(large) {
-			padding-left: rem-calc(40);
+			padding-left: rem-calc(40) !important;
 			line-height: rem-calc(125);
 		}
 
@@ -71,11 +71,11 @@ header {
 		background: #fff;
 
 		@include breakpoint(large) {
-			height: 125px;
+			// height: 125px;
 		}
 
 		@include breakpoint(large) {
-			padding-right: rem-calc(40);
+			padding-right: rem-calc(40) !important;
 		}
 	}
 
@@ -101,7 +101,7 @@ header {
 			}
 
 			@include breakpoint(large) {
-				height: rem-calc(125);
+				// height: rem-calc(125);
 			}
 		}
 	}

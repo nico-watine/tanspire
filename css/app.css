@@ -8028,7 +8028,7 @@ header {
           z-index: 5; } }
     @media print, screen and (min-width: 64em) {
       header .logo-container {
-        padding-left: 2.5rem;
+        padding-left: 2.5rem !important;
         line-height: 7.8125rem; } }
     header .logo-container .white-gradient {
       background: linear-gradient(-90deg, #fff 0%, rgba(255, 255, 255, 0) 50%);
@@ -8043,10 +8043,7 @@ header {
     background: #fff; }
     @media print, screen and (min-width: 64em) {
       header .nav-container {
-        height: 125px; } }
-    @media print, screen and (min-width: 64em) {
-      header .nav-container {
-        padding-right: 2.5rem; } }
+        padding-right: 2.5rem !important; } }
   header ul.menu {
     float: right; }
     header ul.menu li {
@@ -8059,9 +8056,6 @@ header {
           text-decoration: underline; }
       header ul.menu li a.active {
         text-decoration: underline; }
-      @media print, screen and (min-width: 64em) {
-        header ul.menu li {
-          height: 7.8125rem; } }
   header .title-bar {
     padding: 0.5rem; }
     header .title-bar .menu-icon {
