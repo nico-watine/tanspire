@@ -39,7 +39,6 @@ header {
 
 		@include breakpoint(medium) {
 			text-align: left;
-			// line-height: rem-calc(125);
 			padding-top: 0;
 			padding-bottom: 0;
 			padding-right: rem-calc(40);
@@ -71,10 +70,6 @@ header {
 		background: #fff;
 
 		@include breakpoint(large) {
-			// height: 125px;
-		}
-
-		@include breakpoint(large) {
 			padding-right: rem-calc(40) !important;
 		}
 	}
@@ -83,7 +78,6 @@ header {
 		float: right;
 
 		li {
-			// height: rem-calc(100);
 			padding: 0 rem-calc(16);
 
 			a {
@@ -98,10 +92,6 @@ header {
 
 			a.active {
 				text-decoration: underline;
-			}
-
-			@include breakpoint(large) {
-				// height: rem-calc(125);
 			}
 		}
 	}
