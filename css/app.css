@@ -8085,6 +8085,11 @@ header {
           background: #88c4dc;
           color: #fff; }
 
+@media print, screen and (min-width: 40em) {
+  .no-js .top-bar,
+  .no-js .title-bar {
+    display: none; } }
+
 footer {
   background: #2a2a2a;
   padding: 1rem 0 1.375rem; }
