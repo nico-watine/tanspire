@@ -14,7 +14,6 @@
 	"dependencies": {
 		"foundation-sites": "^6.5.3",
 		"motion-ui": "^2.0.3",
-		"normalize-css": "^4.1.1",
-		"bourbon": "4.3.4"
+		"normalize-css": "^4.1.1"
 	}
 }
