@@ -4,6 +4,10 @@ footer {
 
 	.menu {
 		margin-bottom: rem-calc(12);
+
+		> li {
+			display: table-cell;
+		}
 	}
 }
 
@@ -29,8 +33,4 @@ a#colophonLink {
 	&:hover {
 		text-decoration: underline;
 	}
-}
-
-.menu>li {
-	display: table-cell;
 }

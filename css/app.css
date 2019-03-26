@@ -8094,6 +8094,8 @@ footer {
   padding: 1rem 0 1.375rem; }
   footer .menu {
     margin-bottom: 0.75rem; }
+    footer .menu > li {
+      display: table-cell; }
 
 .footerProse * {
   color: #fff;
@@ -8109,9 +8111,6 @@ a#colophonLink {
     text-decoration: underline; }
   a#colophonLink:hover {
     text-decoration: underline; }
-
-.menu > li {
-  display: table-cell; }
 
 body#index {
   height: 100%; }
