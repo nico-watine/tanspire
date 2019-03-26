@@ -30,3 +30,7 @@ a#colophonLink {
 		text-decoration: underline;
 	}
 }
+
+.menu>li {
+	display: table-cell;
+}

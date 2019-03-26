@@ -8110,6 +8110,9 @@ a#colophonLink {
   a#colophonLink:hover {
     text-decoration: underline; }
 
+.menu > li {
+  display: table-cell; }
+
 body#index {
   height: 100%; }
   body#index section.splash {
