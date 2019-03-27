@@ -1,10 +1,6 @@
 header {
 	box-shadow: $z-2;
 
-	@include breakpoint(large) {
-		height: rem-calc(144);
-	}
-
 	.contact-info {
 		padding: 0 rem-calc(40);
 		background: #2a2a2a;
