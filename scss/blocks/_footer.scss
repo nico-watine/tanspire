@@ -4,6 +4,10 @@ footer {
 
 	.menu {
 		margin-bottom: rem-calc(12);
+
+		> li {
+			display: table-cell;
+		}
 	}
 }
 
