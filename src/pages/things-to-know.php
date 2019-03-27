@@ -91,6 +91,6 @@ body-class:
 	</div>
 </main>
 
-<!-- {{> footer}} -->
+{{> footer}}
 
 </div>
