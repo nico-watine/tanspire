@@ -20,7 +20,7 @@ body-class:
 		</section>
 		<div class="inner-container m-x">
 			<div class="row">
-				<div class="small-12 columns" id="question-accordion">
+				<div class="medium-10 medium-push-1 columns" id="question-accordion">
 					<ul class="accordion" data-accordion data-allow-all-closed="true" data-multi-expand="true">
 						<li class="accordion-item" data-accordion-item>
 							<a class="accordion-title text-center heading" href="#">Before Your Visit</a>
