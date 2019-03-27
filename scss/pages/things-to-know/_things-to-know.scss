@@ -58,7 +58,7 @@ body#things-to-know {
 			}
 
 			.inner-container {
-				border-radius: rem-calc(2);
+				border-radius: rem-calc(4);
 				background: #f7f7f7;
 				box-shadow: $z-4;
 				padding-top: rem-calc(60);
@@ -94,7 +94,7 @@ body#things-to-know {
 					box-shadow: $z-1;
 					background: #95c3d6;
 					border: rem-calc(2) solid #fff;
-					border-radius: rem-calc(2);
+					border-radius: rem-calc(4);
 					color: #fff;
 					text-shadow: 0 rem-calc(1) rem-calc(1) #000;
 					// @include transition(background-color .25s ease-out);
@@ -124,7 +124,7 @@ body#things-to-know {
 					margin-top: rem-calc(20);
 					border: rem-calc(1) solid #979797;
 					box-shadow: inset $z-1;
-					border-radius: 2px;
+					border-radius: rem-calc(4);
 
 					p {
 						font-size: rem-calc(18);

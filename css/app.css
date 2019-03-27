@@ -8518,7 +8518,7 @@ body#things-to-know main {
             body#things-to-know main .outer-container .page-title h1 span {
               font-size: 2.5625rem; } }
     body#things-to-know main .outer-container .inner-container {
-      border-radius: 0.125rem;
+      border-radius: 0.25rem;
       background: #f7f7f7;
       box-shadow: 0 0.875rem 0.75rem 0 rgba(0, 0, 0, 0.17), 0 1.25rem 2.5rem 0 rgba(0, 0, 0, 0.3);
       padding-top: 3.75rem;
@@ -8545,7 +8545,7 @@ body#things-to-know #question-accordion .accordion {
       box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
       background: #95c3d6;
       border: 0.125rem solid #fff;
-      border-radius: 0.125rem;
+      border-radius: 0.25rem;
       color: #fff;
       text-shadow: 0 0.0625rem 0.0625rem #000; }
       body#things-to-know #question-accordion .accordion .accordion-item .accordion-title:hover {
@@ -8566,7 +8566,7 @@ body#things-to-know #question-accordion .accordion {
       margin-top: 1.25rem;
       border: 0.0625rem solid #979797;
       box-shadow: inset 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
-      border-radius: 2px; }
+      border-radius: 0.25rem; }
       body#things-to-know #question-accordion .accordion .accordion-item .accordion-content p {
         font-size: 1.125rem; }
       body#things-to-know #question-accordion .accordion .accordion-item .accordion-content ul li {
