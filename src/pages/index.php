@@ -134,28 +134,7 @@ body-class:
 								</tr>
 							</tbody>
 						</table>
-						<!-- MULTI-SESSION PRICING -->
-						<p class="m-0"><strong>Multi-Session Spray Tan Packages</strong></p>
-						<!-- <p style="line-height: 1.2; margin-bottom: 8px; font-size: 18px;">All packages include full body spray tan services. <br> -->
-						<!-- Any individual session may be given to another guest.</p> -->
-						<table>
-							<thead>
-								<tr>
-									<th>&nbsp;</th>
-									<th>Package Pricing</th>
-								</tr>
-							</thead>
-							<tbody>
-								<tr>
-									<td><strong>5 Tans</strong></td>
-									<td><strong>$225</strong> ($45/session) <em>$50 Savings</em></td>
-								</tr>
-								<tr>
-									<td><strong>3 Tans</strong></td>
-									<td><strong>$150</strong> ($50/session) <em>$15 Savings</em></td>
-								</tr>
-							</tbody>
-						</table>
+						<!-- All Tans Include: -->
 						<p class="m-0"><strong>All Signature Tans include the following</strong></p>
 						<table>
 							<tr>
