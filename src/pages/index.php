@@ -173,9 +173,11 @@ body-class:
 						</div>
 					</div>
 				</div>
-				<div class="grid-x grid-padding-x">
+				<div class="grid-x grid-padding-x price-card-grid">
 					<div class="medium-6 large-4 cell">
+						<div class="price-card box-shadow-1 mb-20">
 
+						</div>
 					</div>
 					<div class="medium-6 large-4 cell">
 

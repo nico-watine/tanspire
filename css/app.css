@@ -8477,6 +8477,9 @@ body#index .savingsAccordion .accordion-content {
       .intro-prose .prose-wrap p {
         font-size: 1.125rem; } }
 
+.price-card-grid .price-card {
+  border-radius: 0.25rem; }
+
 body#things-to-know main {
   position: relative; }
   body#things-to-know main .splash-bg {
