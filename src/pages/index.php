@@ -193,40 +193,40 @@ body-class:
 					<div class="medium-6 large-3 cell">
 						<div class="price-card box-shadow-1 mb-32">
 							<div class="header text-uppercase">
-								<h4 class="h4 body-font m-0">Spire <span class="strong">Light</span></h4>
-								<h6 class="body-font m-0">Level 1</h6>
+								<h4 class="h4 body-font m-0">Spire <span class="strong">Medium</span></h4>
+								<h6 class="body-font m-0">Level 2</h6>
 							</div>
 							<div class="body grid-x align-middle">
 								<div class="cell">
-									<p class="p m-0">1 – 3 Shades darker than your natural skin tone</p>
+									<p class="p m-0">2 – 4 Shades darker than your natural skin tone</p>
 								</div>
 							</div>
 							<div class="footer">
-								<p class="p m-0 lead"><strong>$29.95/mo</strong></p>
+								<p class="p m-0 lead"><strong>$39.95/mo</strong></p>
 							</div>
 						</div>
 					</div>
 					<div class="medium-6 large-3 cell">
 						<div class="price-card box-shadow-1 mb-32">
 							<div class="header text-uppercase">
-								<h4 class="h4 body-font m-0">Spire <span class="strong">Light</span></h4>
-								<h6 class="body-font m-0">Level 1</h6>
+								<h4 class="h4 body-font m-0">Spire <span class="strong">Dark</span></h4>
+								<h6 class="body-font m-0">Level 3</h6>
 							</div>
 							<div class="body grid-x align-middle">
 								<div class="cell">
-									<p class="p m-0">1 – 3 Shades darker than your natural skin tone</p>
+									<p class="p m-0">3 – 5 Shades darker than your natural skin tone</p>
 								</div>
 							</div>
 							<div class="footer">
-								<p class="p m-0 lead"><strong>$29.95/mo</strong></p>
+								<p class="p m-0 lead"><strong>$49.95/mo</strong></p>
 							</div>
 						</div>
 					</div>
 					<div class="medium-6 large-3 cell">
 						<div class="price-card box-shadow-1 mb-32">
 							<div class="header text-uppercase">
-								<h4 class="h4 body-font m-0">Spire <span class="strong">Light</span></h4>
-								<h6 class="body-font m-0">Level 1</h6>
+								<h4 class="h4 body-font m-0">Spire <span class="strong">Rapid</span></h4>
+								<h6 class="body-font m-0">Ambassador's Club</h6>
 							</div>
 							<div class="body grid-x align-middle">
 								<div class="cell">
