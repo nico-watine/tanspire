@@ -177,7 +177,7 @@ body-class:
 					<div class="medium-6 large-3 cell">
 						<div class="price-card box-shadow-1 mb-20">
 							<div class="header text-uppercase">
-								<h4 class="body-font m-0">Spire <span class="strong">Light</span></h4>
+								<h4 class="h4 body-font m-0">Spire <span class="strong">Light</span></h4>
 								<h6 class="body-font m-0">Level 1</h6>
 							</div>
 							<div class="body grid-x align-middle">
