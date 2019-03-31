@@ -8493,7 +8493,7 @@ body#index .savingsAccordion .accordion-content {
     padding: 0.75rem 0.5rem;
     background: #88c4dc;
     color: #fff; }
-  .price-card-grid .price-card p {
+  .price-card-grid .price-card .p {
     font-size: 1.40625rem; }
 
 body#things-to-know main {

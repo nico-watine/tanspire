@@ -182,7 +182,7 @@ body-class:
 							</div>
 							<div class="body"></div>
 							<div class="footer">
-								<p class="m-0"><strong>$29.95/mo</strong></p>
+								<p class="p m-0"><strong>$29.95/mo</strong></p>
 							</div>
 						</div>
 					</div>
