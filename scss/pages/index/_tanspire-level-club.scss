@@ -9,7 +9,11 @@
 		}
 
 		@include breakpoint(medium) {
-			max-width: rem-calc(510);
+			max-width: rem-calc(520);
+
+			p {
+				font-size: rem-calc(18);
+			}
 		}
 	}
 }
