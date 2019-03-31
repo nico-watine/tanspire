@@ -175,7 +175,7 @@ body-class:
 				</div>
 				<div class="grid-x grid-padding-x price-card-grid">
 					<div class="medium-6 large-3 cell">
-						<div class="price-card box-shadow-1 mb-20">
+						<div class="price-card box-shadow-1 mb-32">
 							<div class="header text-uppercase">
 								<h4 class="h4 body-font m-0">Spire <span class="strong">Light</span></h4>
 								<h6 class="body-font m-0">Level 1</h6>
@@ -191,13 +191,52 @@ body-class:
 						</div>
 					</div>
 					<div class="medium-6 large-3 cell">
-
+						<div class="price-card box-shadow-1 mb-32">
+							<div class="header text-uppercase">
+								<h4 class="h4 body-font m-0">Spire <span class="strong">Light</span></h4>
+								<h6 class="body-font m-0">Level 1</h6>
+							</div>
+							<div class="body grid-x align-middle">
+								<div class="cell">
+									<p class="p m-0">1 – 3 Shades darker than your natural skin tone</p>
+								</div>
+							</div>
+							<div class="footer">
+								<p class="p m-0 lead"><strong>$29.95/mo</strong></p>
+							</div>
+						</div>
 					</div>
 					<div class="medium-6 large-3 cell">
-
+						<div class="price-card box-shadow-1 mb-32">
+							<div class="header text-uppercase">
+								<h4 class="h4 body-font m-0">Spire <span class="strong">Light</span></h4>
+								<h6 class="body-font m-0">Level 1</h6>
+							</div>
+							<div class="body grid-x align-middle">
+								<div class="cell">
+									<p class="p m-0">1 – 3 Shades darker than your natural skin tone</p>
+								</div>
+							</div>
+							<div class="footer">
+								<p class="p m-0 lead"><strong>$29.95/mo</strong></p>
+							</div>
+						</div>
 					</div>
 					<div class="medium-6 large-3 cell">
-
+						<div class="price-card box-shadow-1 mb-32">
+							<div class="header text-uppercase">
+								<h4 class="h4 body-font m-0">Spire <span class="strong">Light</span></h4>
+								<h6 class="body-font m-0">Level 1</h6>
+							</div>
+							<div class="body grid-x align-middle">
+								<div class="cell">
+									<p class="p m-0">1 – 3 Shades darker than your natural skin tone</p>
+								</div>
+							</div>
+							<div class="footer">
+								<p class="p m-0 lead"><strong>$29.95/mo</strong></p>
+							</div>
+						</div>
 					</div>
 				</div>
 			</section>
