@@ -6561,6 +6561,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/img/index/splash/bg/tanspire-index-splash.jpg": {
+		"ft": 16384,
+		"iS": 103771,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "/img/index/splash/bg/tanspire-index-splash.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/img/index/splash/logo/mark/tanspire-mark.png": {
 		"ft": 32768,
 		"iS": 140469,
