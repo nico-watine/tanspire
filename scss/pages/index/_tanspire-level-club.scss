@@ -1,0 +1,11 @@
+.intro-prose {
+	.prose-wrap {
+		max-width: rem-calc(520);
+		margin: 0 auto;
+		width: 100%;
+
+		p {
+			font-size: rem-calc(18);
+		}
+	}
+}

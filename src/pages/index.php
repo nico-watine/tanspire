@@ -165,9 +165,9 @@ body-class:
 				</div>
 			</div>
 			<section class="grid-x grid-padding-x tanspire-level-club-section">
-				<div class="cell">
+				<div class="cell intro-prose">
 					<h1 class="title text-center">Tanspire Level Club</h1>
-					<div class="prose-wrap" style="max-width: 510px; width: 100%; margin: 0 auto;">
+					<div class="prose-wrap text-left">
 						<p>The lowest-priced way to tan is always our <strong>TS Level Club membership</strong>. <br>Enjoy monthly unlimited tanning with beautiful benefits. <br><strong>Limited time only!</strong></p>
 					</div>
 				</div>
