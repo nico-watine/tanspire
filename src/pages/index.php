@@ -181,7 +181,9 @@ body-class:
 								<h6 class="body-font m-0">Level 1</h6>
 							</div>
 							<div class="body"></div>
-							<div class="footer"></div>
+							<div class="footer">
+								<p class="m-0"><strong>$29.95/mo</strong></p>
+							</div>
 						</div>
 					</div>
 					<div class="medium-6 large-3 cell">
