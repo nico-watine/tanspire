@@ -8130,17 +8130,16 @@ body#index {
       top: 0;
       left: 0;
       margin-bottom: 2.5rem;
-      color: #fff;
+      color: #000;
       width: 100%;
       font-size: 1.75rem;
       letter-spacing: 0.09375rem; }
-      body#index section.splash aside * {
-        color: #fff;
-        text-shadow: 0 0.125rem 0.125rem #000; }
       body#index section.splash aside address {
         display: inline-block; }
-        body#index section.splash aside address a:hover {
-          text-decoration: underline; }
+        body#index section.splash aside address a {
+          color: #000; }
+          body#index section.splash aside address a:hover {
+            text-decoration: underline; }
       body#index section.splash aside #phone {
         float: right; }
       @media screen and (max-width: 39.99875em) {

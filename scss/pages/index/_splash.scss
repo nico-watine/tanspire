@@ -27,20 +27,16 @@ body#index {
 			top: 0;
 			left: 0;
 			margin-bottom: rem-calc(40);
-			color: #fff;
+			color: #000;
 			width: 100%;
 			font-size: rem-calc(28);
 			letter-spacing: rem-calc(1.5);
-
-			* {
-				color: #fff;
-				text-shadow: 0 rem-calc(2) rem-calc(2) #000;
-			}
 
 			address {
 				display: inline-block;
 
 				a {
+					color: #000;
 					&:hover {
 						text-decoration: underline;
 					}
