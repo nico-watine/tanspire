@@ -180,9 +180,13 @@ body-class:
 								<h4 class="body-font m-0">Spire <span class="strong">Light</span></h4>
 								<h6 class="body-font m-0">Level 1</h6>
 							</div>
-							<div class="body"></div>
+							<div class="body grid-x align-middle">
+								<div class="cell">
+									<p class="p m-0">1 – 3 Shades darker than your natural skin tone</p>
+								</div>
+							</div>
 							<div class="footer">
-								<p class="p m-0"><strong>$29.95/mo</strong></p>
+								<p class="p m-0 lead"><strong>$29.95/mo</strong></p>
 							</div>
 						</div>
 					</div>

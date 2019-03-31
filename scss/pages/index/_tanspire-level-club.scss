@@ -21,6 +21,7 @@
 .price-card-grid {
 	.price-card {
 		border-radius: rem-calc(4);
+		overflow: hidden;
 		text-align: center;
 
 		.header {
@@ -40,6 +41,10 @@
 		}
 
 		.p {
+			font-size: rem-calc(18);
+		}
+
+		.p.lead {
 			font-size: rem-calc(18) * 1.25;
 		}
 	}

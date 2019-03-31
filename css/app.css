@@ -8482,6 +8482,7 @@ body#index .savingsAccordion .accordion-content {
 
 .price-card-grid .price-card {
   border-radius: 0.25rem;
+  overflow: hidden;
   text-align: center; }
   .price-card-grid .price-card .header {
     background: transparent url("/img/assets/bg/gold-foil/small/gold-foil.jpg") center/cover no-repeat;
@@ -8494,6 +8495,8 @@ body#index .savingsAccordion .accordion-content {
     background: #88c4dc;
     color: #fff; }
   .price-card-grid .price-card .p {
+    font-size: 1.125rem; }
+  .price-card-grid .price-card .p.lead {
     font-size: 1.40625rem; }
 
 body#things-to-know main {
