@@ -8464,6 +8464,19 @@ body#index .savingsAccordion .accordion-content {
     background: #e1e1e1;
     margin-bottom: 0; }
 
+.intro-prose .prose-wrap {
+  max-width: 18.75rem;
+  margin: 0 auto;
+  width: 100%; }
+  @media screen and (min-width: 30em) {
+    .intro-prose .prose-wrap {
+      max-width: 23.75rem; } }
+  @media print, screen and (min-width: 40em) {
+    .intro-prose .prose-wrap {
+      max-width: 32.5rem; }
+      .intro-prose .prose-wrap p {
+        font-size: 1.125rem; } }
+
 body#things-to-know main {
   position: relative; }
   body#things-to-know main .splash-bg {
