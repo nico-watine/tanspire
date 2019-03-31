@@ -174,7 +174,7 @@ body-class:
 					</div>
 				</div>
 				<div class="grid-x grid-padding-x price-card-grid">
-					<div class="medium-6 large-4 cell">
+					<div class="medium-6 large-3 cell">
 						<div class="price-card box-shadow-1 mb-20">
 							<div class="header text-uppercase">
 								<h4 class="body-font m-0">Spire <span class="strong">Light</span></h4>
@@ -184,13 +184,13 @@ body-class:
 							<div class="footer"></div>
 						</div>
 					</div>
-					<div class="medium-6 large-4 cell">
+					<div class="medium-6 large-3 cell">
 
 					</div>
-					<div class="medium-6 large-4 cell">
+					<div class="medium-6 large-3 cell">
 
 					</div>
-					<div class="medium-6 large-4 cell">
+					<div class="medium-6 large-3 cell">
 
 					</div>
 				</div>
