@@ -24,9 +24,18 @@
 		text-align: center;
 
 		.header {
-			background: transparent url("/img/assets/bg/gold-foil/small/gold-foil.jpg") center/cover no-repeat;
+			background: transparent url('/img/assets/bg/gold-foil/small/gold-foil.jpg') center/cover no-repeat;
 			padding: rem-calc(16) rem-calc(8);
+		}
+
+		.body {
+			height: rem-calc(130);
+			background: #fff;
+		}
+
+		.footer {
+			padding: rem-calc(12) rem-calc(8);
+			background: #88c4dc;
 		}
 	}
 }
-
