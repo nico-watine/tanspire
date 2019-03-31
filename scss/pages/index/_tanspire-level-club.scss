@@ -1,11 +1,15 @@
 .intro-prose {
 	.prose-wrap {
-		max-width: rem-calc(520);
+		max-width: rem-calc(300);
 		margin: 0 auto;
 		width: 100%;
 
-		p {
-			font-size: rem-calc(18);
+		@include breakpoint(480) {
+			max-width: rem-calc(380);
+		}
+
+		@include breakpoint(medium) {
+			max-width: rem-calc(510);
 		}
 	}
 }
