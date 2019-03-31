@@ -21,5 +21,12 @@
 .price-card-grid {
 	.price-card {
 		border-radius: rem-calc(4);
+		text-align: center;
+
+		.header {
+			background: transparent url("/img/assets/bg/gold-foil/small/gold-foil.jpg") center/cover no-repeat;
+			padding: rem-calc(16) rem-calc(8);
+		}
 	}
 }
+

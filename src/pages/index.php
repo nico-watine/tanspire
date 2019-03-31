@@ -176,7 +176,12 @@ body-class:
 				<div class="grid-x grid-padding-x price-card-grid">
 					<div class="medium-6 large-4 cell">
 						<div class="price-card box-shadow-1 mb-20">
-
+							<div class="header text-uppercase">
+								<h4 class="body-font m-0">Spire <span class="strong">Light</span></h4>
+								<h6 class="body-font m-0">Level 1</h6>
+							</div>
+							<div class="body"></div>
+							<div class="footer"></div>
 						</div>
 					</div>
 					<div class="medium-6 large-4 cell">

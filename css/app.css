@@ -5,7 +5,7 @@
  * foundation.zurb.com
  * Licensed under MIT Open Source
  */
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400");
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700");
 @media print, screen and (min-width: 40em) {
   .reveal, .reveal.tiny, .reveal.small, .reveal.large {
     right: auto;
@@ -7987,6 +7987,9 @@ h1 .tmSymbol {
     h1 .tmSymbol {
       font-size: 1.5rem; } }
 
+.strong {
+  font-weight: 700; }
+
 body {
   background: #aeceda url("/img/assets/bg/tufted-grid-blue.png") repeat top left; }
 
@@ -8478,7 +8481,11 @@ body#index .savingsAccordion .accordion-content {
         font-size: 1.125rem; } }
 
 .price-card-grid .price-card {
-  border-radius: 0.25rem; }
+  border-radius: 0.25rem;
+  text-align: center; }
+  .price-card-grid .price-card .header {
+    background: transparent url("/img/assets/bg/gold-foil/small/gold-foil.jpg") center/cover no-repeat;
+    padding: 1rem 0.5rem; }
 
 body#things-to-know main {
   position: relative; }
