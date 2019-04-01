@@ -164,6 +164,7 @@ body-class:
 					</div>
 				</div>
 			</div>
+			<!-- Tanspire Level Club Pricing Section -->
 			<section class="tanspire-level-club-section">
 				<div class="grid-x grid-padding-x">
 					<div class="cell intro-prose py-40">
