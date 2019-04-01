@@ -42,7 +42,7 @@ body-class:
 				</div>
 			</div> -->
 			<!-- Tanspire Level Club Pricing Section -->
-			<section class="tanspire-level-club-section">
+			<section class="tanspire-level-club-section mb-40">
 				<div class="grid-x grid-padding-x">
 					<div class="cell intro-prose py-40">
 						<h1 class="title text-center mb-16">Tanspire Level&nbsp;Club</h1>
@@ -118,7 +118,18 @@ body-class:
 					</div>
 				</div>
 			</section>
+			<!-- Schedule Button -->
 			<div class="row">
+				<div class="column text-center">
+					<hr>
+					<div class="prose">
+						<p style="font-size: 18px;"><strong>Schedule an appointment online.</strong></p>
+						<a style="font-size: 30px;" data-open="booking-modal" class="white-booking-button title button">Book Now</a>
+					</div>
+				</div>
+			</div>
+			<!-- TSVip Program Section -->
+			<!-- <div class="row">
 				<div class="medium-8 columns membership-info">
 					<div class="prose text-left">
 						<h3>TSVip program</h3>
@@ -167,9 +178,9 @@ body-class:
 						<a data-open="booking-modal" class="white-booking-button title button">Book Now</a>
 					</div>
 				</div>
-			</div>
+			</div> -->
 			<div class="row" id="welcome-text">
-				<div class="medium-9 columns vertical-wrapper">
+				<div class="medium-10 medium-push-1 columns vertical-wrapper">
 					<hr>
 					<div class="prose">
 						<h2>Pricing</h2>
@@ -235,6 +246,12 @@ body-class:
 						</table>
 					</div>
 				</div>
+				<!-- <div class="medium-3 columns booking-aside pt-40">
+					<div class="prose medium-text-center">
+						<p style="font-size: 18px;"><strong>Schedule an appointment online.</strong></p>
+						<a data-open="booking-modal" class="white-booking-button title button">Book Now</a>
+					</div>
+				</div> -->
 				<div class="medium-3 columns">
 					<div class="image show-for-medium">
 						<img id="model" src="{{ cdn }}/img/index/main/models/side-vertical.jpg" alt="TanSpire Model">
