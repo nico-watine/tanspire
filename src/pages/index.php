@@ -167,9 +167,9 @@ body-class:
 			<section class="tanspire-level-club-section">
 				<div class="grid-x grid-padding-x">
 					<div class="cell intro-prose py-40">
-						<h1 class="title text-center">Tanspire Level&nbsp;Club</h1>
+						<h1 class="title text-center mb-16">Tanspire Level&nbsp;Club</h1>
 						<div class="prose-wrap text-left">
-							<p>The lowest-priced way to tan is always our <strong>TS&nbsp;Level&nbsp;Club&nbsp;membership</strong>. <br>Enjoy monthly unlimited tanning with beautiful&nbsp;benefits. <br><strong>Limited time only!</strong></p>
+							<p class="m-0">The lowest-priced way to tan is always our <strong>TS&nbsp;Level&nbsp;Club&nbsp;membership</strong>. <br>Enjoy monthly unlimited tanning with beautiful&nbsp;benefits. <br><strong>Limited time only!</strong></p>
 						</div>
 					</div>
 				</div>
