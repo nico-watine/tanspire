@@ -8471,9 +8471,6 @@ body#index .savingsAccordion .accordion-content {
   max-width: 18.75rem;
   margin: 0 auto;
   width: 100%; }
-  @media screen and (min-width: 30em) {
-    .intro-prose .prose-wrap {
-      max-width: 23.75rem; } }
   @media print, screen and (min-width: 40em) {
     .intro-prose .prose-wrap {
       max-width: 32.5rem; }
