@@ -180,7 +180,7 @@ body-class:
 				</div>
 			</div> -->
 			<div class="row" id="welcome-text">
-				<div class="medium-10 medium-push-1 columns vertical-wrapper">
+				<div class="medium-10 medium-push-1 end columns vertical-wrapper">
 					<hr>
 					<div class="prose">
 						<h2>Pricing</h2>
@@ -252,11 +252,11 @@ body-class:
 						<a data-open="booking-modal" class="white-booking-button title button">Book Now</a>
 					</div>
 				</div> -->
-				<div class="medium-3 columns">
+				<!-- <div class="medium-3 columns">
 					<div class="image show-for-medium">
 						<img id="model" src="{{ cdn }}/img/index/main/models/side-vertical.jpg" alt="TanSpire Model">
 					</div>
-				</div>
+				</div> -->
 			</div>
 		</div>
 	</div>
