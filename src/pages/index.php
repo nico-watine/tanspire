@@ -36,11 +36,6 @@ body-class:
 <main id="services-summary" data-magellan-target="services-summary">
 	<div class="outer-container">
 		<div class="inner-container m-x">
-			<!-- <div class="row" id="tagline">
-				<div class="small-12 columns text-center">
-					<h1 class="title">Welcome to Tanspire<span class="tmSymbol">&trade;</span></h1>
-				</div>
-			</div> -->
 			<!-- Tanspire Level Club Pricing Section -->
 			<section class="tanspire-level-club-section mb-40">
 				<div class="grid-x grid-padding-x">
@@ -128,57 +123,6 @@ body-class:
 					</div>
 				</div>
 			</div>
-			<!-- TSVip Program Section -->
-			<!-- <div class="row">
-				<div class="medium-8 columns membership-info">
-					<div class="prose text-left">
-						<h3>TSVip program</h3>
-						<p>Want to save money on <strong><em>every</em></strong> tanning session? Then our new <strong>TSVIP program</strong> is for you. It's a fully customizable membership program that rewards you for your loyalty - the more you spray tan, the more you save!</p>
-						<p>With a $20 monthly fee, you only ever pay $25 per standard signature spray tan or $30 per signature rapid spray tan. Simple as that!</p>
-						<ul class="accordion savingsAccordion" data-accordion data-allow-all-closed="true">
-							<li class="accordion-item" data-accordion-item>
-								<a href="#" class="accordion-title">Your savings are HUGE with this deal...</a>
-								<div class="accordion-content" data-tab-content>
-									<table class="unstriped">
-										<thead>
-											<tr>
-												<th># Tans / Month</th>
-												<th>Standard Session Savings</th>
-												<th>Rapid Session Savings</th>
-											</tr>
-										</thead>
-										<tbody>
-											<tr>
-												<td>2 Tans/Month</td>
-												<td>$20 Saved / Session</td>
-												<td>$25 Saved / Session</td>
-											</tr>
-											<tr>
-												<td>3 Tans/Month</td>
-												<td>$23 Saved / Session</td>
-												<td>$28 Saved / Session</td>
-											</tr>
-											<tr>
-												<td>4 Tans/Month</td>
-												<td>$25 Saved / Session</td>
-												<td>$30 Saved / Session</td>
-											</tr>
-										</tbody>
-									</table>
-								</div>
-							</li>
-						</ul>
-						<p>Commitment problems? <span data-tooltip aria-haspopup="true" class="has-tip" data-disable-hover="false" tabindex="1" title="Cancel anytime. No termination fees. It really doesn't get any easier (or cheaper)!">Not an issue here.</span></p>
-						<p>We are continually looking for ways to say thank you for your loyalty, and we think this just might be our best one yet. <strong>We're only offering 30 of these,</strong> so push past the red ropes with a single $45 sign up fee and gain your VIP status today! </p>
-					</div>
-				</div>
-				<div class="medium-4 columns booking-aside">
-					<div class="prose medium-text-center">
-						<p><strong>Schedule an appointment online.</strong></p>
-						<a data-open="booking-modal" class="white-booking-button title button">Book Now</a>
-					</div>
-				</div>
-			</div> -->
 			<div class="row" id="welcome-text">
 				<div class="medium-10 medium-push-1 end columns vertical-wrapper">
 					<hr>
@@ -246,17 +190,6 @@ body-class:
 						</table>
 					</div>
 				</div>
-				<!-- <div class="medium-3 columns booking-aside pt-40">
-					<div class="prose medium-text-center">
-						<p style="font-size: 18px;"><strong>Schedule an appointment online.</strong></p>
-						<a data-open="booking-modal" class="white-booking-button title button">Book Now</a>
-					</div>
-				</div> -->
-				<!-- <div class="medium-3 columns">
-					<div class="image show-for-medium">
-						<img id="model" src="{{ cdn }}/img/index/main/models/side-vertical.jpg" alt="TanSpire Model">
-					</div>
-				</div> -->
 			</div>
 		</div>
 	</div>
