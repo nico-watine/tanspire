@@ -230,7 +230,7 @@ body-class:
 							</div>
 							<div class="body grid-x align-middle px-8">
 								<div class="cell">
-									<p class="p m-0">1 – 3 Shades darker than your natural skin tone</p>
+									<p class="p m-0">Unlimited VIP quality spray&nbsp;tans <br>Bring a friend for Level 1! <br>25% off all apparel</p>
 								</div>
 							</div>
 							<div class="footer">
