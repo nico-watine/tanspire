@@ -7059,6 +7059,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"/scss/pages/index/_tanspire-level-club.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/pages/css/_tanspire-level-club.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"/scss/pages/things-to-know/_things-to-know.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -7110,14 +7123,6 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/src/layouts/default.html",
-		"oF": 1
-		},
-	"/src/pages/index.php": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/src/pages/index.php",
 		"oF": 1
 		},
 	"/src/pages/things-to-know.php": {

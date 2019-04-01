@@ -36,63 +36,95 @@ body-class:
 <main id="services-summary" data-magellan-target="services-summary">
 	<div class="outer-container">
 		<div class="inner-container m-x">
-			<div class="row" id="tagline">
-				<div class="small-12 columns text-center">
-					<h1 class="title">Welcome to Tanspire<span class="tmSymbol">&trade;</span></h1>
-				</div>
-			</div>
-			<div class="row">
-				<div class="medium-8 columns membership-info">
-					<div class="prose text-left">
-						<h3>TSVip program</h3>
-						<p>Want to save money on <strong><em>every</em></strong> tanning session? Then our new <strong>TSVIP program</strong> is for you. It's a fully customizable membership program that rewards you for your loyalty - the more you spray tan, the more you save!</p>
-						<p>With a $20 monthly fee, you only ever pay $25 per standard signature spray tan or $30 per signature rapid spray tan. Simple as that!</p>
-						<ul class="accordion savingsAccordion" data-accordion data-allow-all-closed="true">
-							<li class="accordion-item" data-accordion-item>
-								<a href="#" class="accordion-title">Your savings are HUGE with this deal...</a>
-								<div class="accordion-content" data-tab-content>
-									<table class="unstriped">
-										<thead>
-											<tr>
-												<th># Tans / Month</th>
-												<th>Standard Session Savings</th>
-												<th>Rapid Session Savings</th>
-											</tr>
-										</thead>
-										<tbody>
-											<tr>
-												<td>2 Tans/Month</td>
-												<td>$20 Saved / Session</td>
-												<td>$25 Saved / Session</td>
-											</tr>
-											<tr>
-												<td>3 Tans/Month</td>
-												<td>$23 Saved / Session</td>
-												<td>$28 Saved / Session</td>
-											</tr>
-											<tr>
-												<td>4 Tans/Month</td>
-												<td>$25 Saved / Session</td>
-												<td>$30 Saved / Session</td>
-											</tr>
-										</tbody>
-									</table>
-								</div>
-							</li>
-						</ul>
-						<p>Commitment problems? <span data-tooltip aria-haspopup="true" class="has-tip" data-disable-hover="false" tabindex="1" title="Cancel anytime. No termination fees. It really doesn't get any easier (or cheaper)!">Not an issue here.</span></p>
-						<p>We are continually looking for ways to say thank you for your loyalty, and we think this just might be our best one yet. <strong>We're only offering 30 of these,</strong> so push past the red ropes with a single $45 sign up fee and gain your VIP status today! </p>
+			<!-- Tanspire Level Club Pricing Section -->
+			<section class="tanspire-level-club-section mb-40">
+				<div class="grid-x grid-padding-x">
+					<div class="cell intro-prose py-40">
+						<h1 class="title text-center mb-16">Tanspire Level&nbsp;Club</h1>
+						<div class="prose-wrap text-left">
+							<p class="m-0">The lowest-priced way to tan is always our <strong>TS&nbsp;Level&nbsp;Club&nbsp;membership</strong>. <br>For only a <span data-tooltip aria-haspopup="true" class="has-tip" tabindex="1" title="Pay $45 for the first month, and the subscription rate every month after." data-position="top" data-alignment="center">1-time fee of $45</span>, enjoy monthly unlimited tanning with beautiful&nbsp;benefits. <br><strong>Limited time only!</strong></p>
+						</div>
 					</div>
 				</div>
-				<div class="medium-4 columns booking-aside">
-					<div class="prose medium-text-center">
-						<p><strong>Schedule an appointment online.</strong></p>
-						<a data-open="booking-modal" class="white-booking-button title button">Book Now</a>
+				<div class="grid-x grid-padding-x price-card-grid">
+					<div class="medium-6 large-3 cell">
+						<div class="price-card box-shadow-1" id="spire-light">
+							<div class="header text-uppercase">
+								<h4 class="h4 body-font m-0">Spire <span class="strong">Light</span></h4>
+								<h6 class="body-font m-0">Level 1</h6>
+							</div>
+							<div class="body grid-x align-middle px-8">
+								<div class="cell">
+									<p class="p m-0">1 – 3 Shades darker than your natural skin tone</p>
+								</div>
+							</div>
+							<div class="footer">
+								<p class="p m-0 lead"><strong>$29.95/mo</strong></p>
+							</div>
+						</div>
+					</div>
+					<div class="medium-6 large-3 cell">
+						<div class="price-card box-shadow-1" id="spire-medium">
+							<div class="header text-uppercase">
+								<h4 class="h4 body-font m-0">Spire <span class="strong">Medium</span></h4>
+								<h6 class="body-font m-0">Level 2</h6>
+							</div>
+							<div class="body grid-x align-middle px-8">
+								<div class="cell">
+									<p class="p m-0">2 – 4 Shades darker than your natural skin tone</p>
+								</div>
+							</div>
+							<div class="footer">
+								<p class="p m-0 lead"><strong>$39.95/mo</strong></p>
+							</div>
+						</div>
+					</div>
+					<div class="medium-6 large-3 cell">
+						<div class="price-card box-shadow-1" id="spire-dark">
+							<div class="header text-uppercase">
+								<h4 class="h4 body-font m-0">Spire <span class="strong">Dark</span></h4>
+								<h6 class="body-font m-0">Level 3</h6>
+							</div>
+							<div class="body grid-x align-middle px-8">
+								<div class="cell">
+									<p class="p m-0">3 – 5 Shades darker than your natural skin tone</p>
+								</div>
+							</div>
+							<div class="footer">
+								<p class="p m-0 lead"><strong>$49.95/mo</strong></p>
+							</div>
+						</div>
+					</div>
+					<div class="medium-6 large-3 cell">
+						<div class="price-card box-shadow-1" id="spire-rapid">
+							<div class="header text-uppercase">
+								<h4 class="h4 body-font m-0">Spire <span class="strong">Rapid</span></h4>
+								<h6 class="body-font m-0">Ambassador's Club</h6>
+							</div>
+							<div class="body grid-x align-middle px-8">
+								<div class="cell">
+									<p class="p m-0">Unlimited VIP quality spray&nbsp;tans <br>Bring a friend for Level 1! <br>25% off all apparel</p>
+								</div>
+							</div>
+							<div class="footer">
+								<p class="p m-0 lead"><strong>$29.95/mo</strong></p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<!-- Schedule Button -->
+			<div class="row">
+				<div class="column text-center">
+					<hr>
+					<div class="prose">
+						<p style="font-size: 18px;"><strong>Schedule an appointment online.</strong></p>
+						<a style="font-size: 30px;" data-open="booking-modal" class="white-booking-button title button">Book Now</a>
 					</div>
 				</div>
 			</div>
 			<div class="row" id="welcome-text">
-				<div class="medium-9 columns vertical-wrapper">
+				<div class="medium-10 medium-push-1 end columns vertical-wrapper">
 					<hr>
 					<div class="prose">
 						<h2>Pricing</h2>
@@ -156,11 +188,6 @@ body-class:
 								<td>Post Tan sealer is applied to ensure optimal tan development and NO CRAZY SMELL! (typically a $5 - $10 up-charge at other salons)</td>
 							</tr>
 						</table>
-					</div>
-				</div>
-				<div class="medium-3 columns">
-					<div class="image show-for-medium">
-						<img id="model" src="{{ cdn }}/img/index/main/models/side-vertical.jpg" alt="TanSpire Model">
 					</div>
 				</div>
 			</div>
