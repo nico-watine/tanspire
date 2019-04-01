@@ -5,7 +5,7 @@
  * foundation.zurb.com
  * Licensed under MIT Open Source
  */
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400");
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700");
 @media print, screen and (min-width: 40em) {
   .reveal, .reveal.tiny, .reveal.small, .reveal.large {
     right: auto;
@@ -7987,6 +7987,9 @@ h1 .tmSymbol {
     h1 .tmSymbol {
       font-size: 1.5rem; } }
 
+.strong {
+  font-weight: 700; }
+
 body {
   background: #aeceda url("/img/assets/bg/tufted-grid-blue.png") repeat top left; }
 
@@ -8468,14 +8471,44 @@ body#index .savingsAccordion .accordion-content {
   max-width: 18.75rem;
   margin: 0 auto;
   width: 100%; }
-  @media screen and (min-width: 30em) {
-    .intro-prose .prose-wrap {
-      max-width: 23.75rem; } }
   @media print, screen and (min-width: 40em) {
     .intro-prose .prose-wrap {
       max-width: 32.5rem; }
       .intro-prose .prose-wrap p {
         font-size: 1.125rem; } }
+
+.price-card-grid {
+  text-align: center; }
+  .price-card-grid .price-card {
+    border-radius: 0.25rem;
+    overflow: hidden;
+    text-align: center;
+    max-width: 17.5rem;
+    width: 100%;
+    margin: 0 auto 2rem; }
+    .price-card-grid .price-card .header {
+      background: transparent url("/img/assets/bg/gold-foil/small/gold-foil.jpg") center/cover no-repeat;
+      padding: 1rem 0.5rem; }
+    .price-card-grid .price-card .body {
+      height: 8.125rem;
+      background: #fff; }
+    .price-card-grid .price-card .footer {
+      padding: 0.75rem 0.5rem;
+      background: #88c4dc;
+      color: #fff; }
+    .price-card-grid .price-card .h4 {
+      font-size: 1.5625rem; }
+    .price-card-grid .price-card .p {
+      font-size: 1.125rem; }
+    .price-card-grid .price-card .p.lead {
+      font-size: 1.40625rem; }
+  @media print, screen and (min-width: 40em) {
+    .price-card-grid .price-card#spire-light,
+    .price-card-grid .price-card#spire-dark {
+      margin-right: 0; }
+    .price-card-grid .price-card#spire-medium,
+    .price-card-grid .price-card#spire-rapid {
+      margin-left: 0; } }
 
 body#things-to-know main {
   position: relative; }
