@@ -36,135 +36,13 @@ body-class:
 <main id="services-summary" data-magellan-target="services-summary">
 	<div class="outer-container">
 		<div class="inner-container m-x">
-			<div class="row" id="tagline">
+			<!-- <div class="row" id="tagline">
 				<div class="small-12 columns text-center">
 					<h1 class="title">Welcome to Tanspire<span class="tmSymbol">&trade;</span></h1>
 				</div>
-			</div>
-			<div class="row">
-				<div class="medium-8 columns membership-info">
-					<div class="prose text-left">
-						<h3>TSVip program</h3>
-						<p>Want to save money on <strong><em>every</em></strong> tanning session? Then our new <strong>TSVIP program</strong> is for you. It's a fully customizable membership program that rewards you for your loyalty - the more you spray tan, the more you save!</p>
-						<p>With a $20 monthly fee, you only ever pay $25 per standard signature spray tan or $30 per signature rapid spray tan. Simple as that!</p>
-						<ul class="accordion savingsAccordion" data-accordion data-allow-all-closed="true">
-							<li class="accordion-item" data-accordion-item>
-								<a href="#" class="accordion-title">Your savings are HUGE with this deal...</a>
-								<div class="accordion-content" data-tab-content>
-									<table class="unstriped">
-										<thead>
-											<tr>
-												<th># Tans / Month</th>
-												<th>Standard Session Savings</th>
-												<th>Rapid Session Savings</th>
-											</tr>
-										</thead>
-										<tbody>
-											<tr>
-												<td>2 Tans/Month</td>
-												<td>$20 Saved / Session</td>
-												<td>$25 Saved / Session</td>
-											</tr>
-											<tr>
-												<td>3 Tans/Month</td>
-												<td>$23 Saved / Session</td>
-												<td>$28 Saved / Session</td>
-											</tr>
-											<tr>
-												<td>4 Tans/Month</td>
-												<td>$25 Saved / Session</td>
-												<td>$30 Saved / Session</td>
-											</tr>
-										</tbody>
-									</table>
-								</div>
-							</li>
-						</ul>
-						<p>Commitment problems? <span data-tooltip aria-haspopup="true" class="has-tip" data-disable-hover="false" tabindex="1" title="Cancel anytime. No termination fees. It really doesn't get any easier (or cheaper)!">Not an issue here.</span></p>
-						<p>We are continually looking for ways to say thank you for your loyalty, and we think this just might be our best one yet. <strong>We're only offering 30 of these,</strong> so push past the red ropes with a single $45 sign up fee and gain your VIP status today! </p>
-					</div>
-				</div>
-				<div class="medium-4 columns booking-aside">
-					<div class="prose medium-text-center">
-						<p><strong>Schedule an appointment online.</strong></p>
-						<a data-open="booking-modal" class="white-booking-button title button">Book Now</a>
-					</div>
-				</div>
-			</div>
-			<div class="row" id="welcome-text">
-				<div class="medium-9 columns vertical-wrapper">
-					<hr>
-					<div class="prose">
-						<h2>Pricing</h2>
-						<!-- SINGLE SESSION PRICING -->
-						<p class="m-0"><strong>Single Session Spray Tans</strong></p>
-						<table>
-							<thead>
-								<tr>
-									<th>Service</th>
-									<th>Description</th>
-									<th>Price</th>
-								</tr>
-							</thead>
-							<tbody>
-								<tr>
-									<td><strong>Signature Tan</strong></td>
-									<td>Our standard full-body session. Rinse solution in 8+ hours. 18-24 hours for color to fully develop.</td>
-									<td>$55</td>
-								</tr>
-								<tr>
-									<td><strong>Signature Rapid Rinse</strong></td>
-									<td>Standard full-body session. Rinse solution in 3-6 hours as directed by your spray tan specialist. <span data-tooltip aria-haspopup="true" class="has-tip" data-disable-hover="false" tabindex="1" title="Please Note - Actual tan does not develop any quicker than with a standard solution. It will still take 18-24 hours for the color to fully develop, you will simply be able to shower off the solution quicker than you can with a standard solution.">*Note*</span></td>
-									<td>$65</td>
-								</tr>
-								<tr>
-									<td><strong>Signature Vacation Session</strong></td>
-									<td>Standard full-body session. Includes travel size moisturizer, tan extender and body wash to help your tan last through your trip.</td>
-									<td>$75</td>
-								</tr>
-								<tr>
-									<td><strong>Signature Half Body</strong></td>
-									<td>Waist up or waist down.</td>
-									<td>$30</td>
-								</tr>
-								<tr>
-									<td><strong>Signature Face &amp; Decollete</strong></td>
-									<td>Face, Chest and Shoulders <strong><em>only</em></strong>. May choose 8 hour formula or Rapid Rinse.</td>
-									<td>$12</td>
-								</tr>
-							</tbody>
-						</table>
-						<!-- All Tans Include: -->
-						<p class="m-0"><strong>All Signature Tans include the following</strong></p>
-						<table>
-							<tr>
-								<td>TanSpire<span class="tmSymbol"><small>&trade;</small></span> Exclusive Vegan Tanning Formula</td>
-							</tr>
-							<tr>
-								<td>Alcohol Free/Paraben Free/Cruelty Free Formula</td>
-							</tr>
-							<tr>
-								<td>Custom Color Mixed per Client</td>
-							</tr>
-							<tr>
-								<td>Pre-tan skin hydrating and nourishing prep spray prior to color application (typically a $5-10 up-charge at other salons)</td>
-							</tr>
-							<tr>
-								<td>Each Client is detailed with light contouring</td>
-							</tr>
-							<tr>
-								<td>Post Tan sealer is applied to ensure optimal tan development and NO CRAZY SMELL! (typically a $5 - $10 up-charge at other salons)</td>
-							</tr>
-						</table>
-					</div>
-				</div>
-				<div class="medium-3 columns">
-					<div class="image show-for-medium">
-						<img id="model" src="{{ cdn }}/img/index/main/models/side-vertical.jpg" alt="TanSpire Model">
-					</div>
-				</div>
-			</div>
-			<section class="tanspire-level-club-section">
+			</div> -->
+			<!-- Tanspire Level Club Pricing Section -->
+			<section class="tanspire-level-club-section mb-40">
 				<div class="grid-x grid-padding-x">
 					<div class="cell intro-prose py-40">
 						<h1 class="title text-center mb-16">Tanspire Level&nbsp;Club</h1>
@@ -240,6 +118,146 @@ body-class:
 					</div>
 				</div>
 			</section>
+			<!-- Schedule Button -->
+			<div class="row">
+				<div class="column text-center">
+					<hr>
+					<div class="prose">
+						<p style="font-size: 18px;"><strong>Schedule an appointment online.</strong></p>
+						<a style="font-size: 30px;" data-open="booking-modal" class="white-booking-button title button">Book Now</a>
+					</div>
+				</div>
+			</div>
+			<!-- TSVip Program Section -->
+			<!-- <div class="row">
+				<div class="medium-8 columns membership-info">
+					<div class="prose text-left">
+						<h3>TSVip program</h3>
+						<p>Want to save money on <strong><em>every</em></strong> tanning session? Then our new <strong>TSVIP program</strong> is for you. It's a fully customizable membership program that rewards you for your loyalty - the more you spray tan, the more you save!</p>
+						<p>With a $20 monthly fee, you only ever pay $25 per standard signature spray tan or $30 per signature rapid spray tan. Simple as that!</p>
+						<ul class="accordion savingsAccordion" data-accordion data-allow-all-closed="true">
+							<li class="accordion-item" data-accordion-item>
+								<a href="#" class="accordion-title">Your savings are HUGE with this deal...</a>
+								<div class="accordion-content" data-tab-content>
+									<table class="unstriped">
+										<thead>
+											<tr>
+												<th># Tans / Month</th>
+												<th>Standard Session Savings</th>
+												<th>Rapid Session Savings</th>
+											</tr>
+										</thead>
+										<tbody>
+											<tr>
+												<td>2 Tans/Month</td>
+												<td>$20 Saved / Session</td>
+												<td>$25 Saved / Session</td>
+											</tr>
+											<tr>
+												<td>3 Tans/Month</td>
+												<td>$23 Saved / Session</td>
+												<td>$28 Saved / Session</td>
+											</tr>
+											<tr>
+												<td>4 Tans/Month</td>
+												<td>$25 Saved / Session</td>
+												<td>$30 Saved / Session</td>
+											</tr>
+										</tbody>
+									</table>
+								</div>
+							</li>
+						</ul>
+						<p>Commitment problems? <span data-tooltip aria-haspopup="true" class="has-tip" data-disable-hover="false" tabindex="1" title="Cancel anytime. No termination fees. It really doesn't get any easier (or cheaper)!">Not an issue here.</span></p>
+						<p>We are continually looking for ways to say thank you for your loyalty, and we think this just might be our best one yet. <strong>We're only offering 30 of these,</strong> so push past the red ropes with a single $45 sign up fee and gain your VIP status today! </p>
+					</div>
+				</div>
+				<div class="medium-4 columns booking-aside">
+					<div class="prose medium-text-center">
+						<p><strong>Schedule an appointment online.</strong></p>
+						<a data-open="booking-modal" class="white-booking-button title button">Book Now</a>
+					</div>
+				</div>
+			</div> -->
+			<div class="row" id="welcome-text">
+				<div class="medium-10 medium-push-1 end columns vertical-wrapper">
+					<hr>
+					<div class="prose">
+						<h2>Pricing</h2>
+						<!-- SINGLE SESSION PRICING -->
+						<p class="m-0"><strong>Single Session Spray Tans</strong></p>
+						<table>
+							<thead>
+								<tr>
+									<th>Service</th>
+									<th>Description</th>
+									<th>Price</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td><strong>Signature Tan</strong></td>
+									<td>Our standard full-body session. Rinse solution in 8+ hours. 18-24 hours for color to fully develop.</td>
+									<td>$55</td>
+								</tr>
+								<tr>
+									<td><strong>Signature Rapid Rinse</strong></td>
+									<td>Standard full-body session. Rinse solution in 3-6 hours as directed by your spray tan specialist. <span data-tooltip aria-haspopup="true" class="has-tip" data-disable-hover="false" tabindex="1" title="Please Note - Actual tan does not develop any quicker than with a standard solution. It will still take 18-24 hours for the color to fully develop, you will simply be able to shower off the solution quicker than you can with a standard solution.">*Note*</span></td>
+									<td>$65</td>
+								</tr>
+								<tr>
+									<td><strong>Signature Vacation Session</strong></td>
+									<td>Standard full-body session. Includes travel size moisturizer, tan extender and body wash to help your tan last through your trip.</td>
+									<td>$75</td>
+								</tr>
+								<tr>
+									<td><strong>Signature Half Body</strong></td>
+									<td>Waist up or waist down.</td>
+									<td>$30</td>
+								</tr>
+								<tr>
+									<td><strong>Signature Face &amp; Decollete</strong></td>
+									<td>Face, Chest and Shoulders <strong><em>only</em></strong>. May choose 8 hour formula or Rapid Rinse.</td>
+									<td>$12</td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- All Tans Include: -->
+						<p class="m-0"><strong>All Signature Tans include the following</strong></p>
+						<table>
+							<tr>
+								<td>TanSpire<span class="tmSymbol"><small>&trade;</small></span> Exclusive Vegan Tanning Formula</td>
+							</tr>
+							<tr>
+								<td>Alcohol Free/Paraben Free/Cruelty Free Formula</td>
+							</tr>
+							<tr>
+								<td>Custom Color Mixed per Client</td>
+							</tr>
+							<tr>
+								<td>Pre-tan skin hydrating and nourishing prep spray prior to color application (typically a $5-10 up-charge at other salons)</td>
+							</tr>
+							<tr>
+								<td>Each Client is detailed with light contouring</td>
+							</tr>
+							<tr>
+								<td>Post Tan sealer is applied to ensure optimal tan development and NO CRAZY SMELL! (typically a $5 - $10 up-charge at other salons)</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+				<!-- <div class="medium-3 columns booking-aside pt-40">
+					<div class="prose medium-text-center">
+						<p style="font-size: 18px;"><strong>Schedule an appointment online.</strong></p>
+						<a data-open="booking-modal" class="white-booking-button title button">Book Now</a>
+					</div>
+				</div> -->
+				<!-- <div class="medium-3 columns">
+					<div class="image show-for-medium">
+						<img id="model" src="{{ cdn }}/img/index/main/models/side-vertical.jpg" alt="TanSpire Model">
+					</div>
+				</div> -->
+			</div>
 		</div>
 	</div>
 </main>
