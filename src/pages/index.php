@@ -103,11 +103,11 @@ body-class:
 							</div>
 							<div class="body grid-x align-middle px-8">
 								<div class="cell">
-									<p class="p m-0">Unlimited VIP quality spray&nbsp;tans <br>Bring a friend for Level 1! <br>25% off all apparel</p>
+									<p class="p m-0">Unlimited VIP quality spray&nbsp;tans <br>Bring a friend for Level 1! <br>25% off all products</p>
 								</div>
 							</div>
 							<div class="footer">
-								<p class="p m-0 lead"><strong>$29.95/mo</strong></p>
+								<p class="p m-0 lead"><strong>$69.95/mo</strong></p>
 							</div>
 						</div>
 					</div>
