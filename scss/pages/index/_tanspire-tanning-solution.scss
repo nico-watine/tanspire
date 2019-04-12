@@ -6,6 +6,7 @@
 	.custom-callout {
 		border-radius: rem-calc(4);
 		border: rem-calc(2) solid #88c4dc;
+		max-width: rem-calc(480);
 
 		.callout-heading {
 			font-size: rem-calc(18);
@@ -21,7 +22,7 @@
 			content: '';
 			position: absolute;
 			margin-left: 12px;
-			width: 300px;
+			width: 200px;
 			border-bottom: 4px solid #88C4DC;
 			top: 50%;
 		}

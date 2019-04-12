@@ -176,7 +176,7 @@ body-class:
 				<p class="mb-32"><strong>We apply our own unique tanning solution, developed in-house and available exclusively for TanSpire clients.</strong> The solution is infused with naturally-rich antioxidants, nourishing your skin while providing a healthy tan that is slow-fading. This is skin treatment in a personalized airbrush tan.</p>
 				<img class="overflow-hidden mb-32" style="border-radius: 8px;" src="/img/index/tanspire-solution/tanspire-solution-feature-image.jpg" alt="">
 				<div class="callout custom-callout p-16 box-shadow-1">
-					<div class="content">
+					<div class="content float-right">
 						<p class="overflow-hidden callout-heading strong mb-8"><span>Beneficial Attributes</span></p>
 						<ul class="mb-0 float-right">
 							<li>pH Balanced for optimal color development</li>
@@ -185,8 +185,8 @@ body-class:
 							<li>No Alcohol, No Parabens and No Formaldehyde odors</li>
 							<li>Vegan and Cruelty Free</li>
 						</ul>
-						<div class="cf"></div>
 					</div>
+					<div class="cf"></div>
 				</div>
 			</section>
 		</div>
