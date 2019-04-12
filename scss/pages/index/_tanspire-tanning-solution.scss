@@ -7,17 +7,17 @@
 		border-radius: rem-calc(4);
 		border: rem-calc(2) solid #88c4dc;
 
-		.cell-heading {
+		.callout-heading {
 			font-size: rem-calc(18);
 			max-width: rem-calc(400);
 		}
 
-		.cell-heading span {
+		.callout-heading span {
 			display: inline-block;
 			position: relative;
 		}
 
-		.cell-heading span:after {
+		.callout-heading span:after {
 			content: '';
 			position: absolute;
 			margin-left: 12px;

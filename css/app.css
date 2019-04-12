@@ -8515,13 +8515,13 @@ body#index .savingsAccordion .accordion-content {
 .tanspire-solution-section .custom-callout {
   border-radius: 0.25rem;
   border: 0.125rem solid #88c4dc; }
-  .tanspire-solution-section .custom-callout .cell-heading {
+  .tanspire-solution-section .custom-callout .callout-heading {
     font-size: 1.125rem;
     max-width: 25rem; }
-  .tanspire-solution-section .custom-callout .cell-heading span {
+  .tanspire-solution-section .custom-callout .callout-heading span {
     display: inline-block;
     position: relative; }
-  .tanspire-solution-section .custom-callout .cell-heading span:after {
+  .tanspire-solution-section .custom-callout .callout-heading span:after {
     content: '';
     position: absolute;
     margin-left: 12px;
