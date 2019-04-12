@@ -169,8 +169,9 @@ body-class:
 					</div>
 				</div>
 			</div>
-			<section class="tanspire-solution-section pb-40">
-				<h3 class="title text-center">The TanSpire Solution</h3>
+			<section class="tanspire-solution-section pb-40 px-8">
+				<h3 class="mb-32 title text-center">The TanSpire Solution</h3>
+				<p class="lead"><strong>All Signature Tans are applied with our custom tanning solution.</strong></p>
 			</section>
 		</div>
 	</div>

@@ -8234,8 +8234,7 @@ body#index main .outer-container {
   body#index main .outer-container .inner-container {
     background: #f7f7f7;
     box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
-    min-height: 400px;
-    text-align: center; }
+    min-height: 400px; }
     @media print, screen and (min-width: 40em) {
       body#index main .outer-container .inner-container {
         min-height: 0;
@@ -8509,6 +8508,9 @@ body#index .savingsAccordion .accordion-content {
     .price-card-grid .price-card#spire-medium,
     .price-card-grid .price-card#spire-rapid {
       margin-left: 0; } }
+
+.tanspire-solution-section h3 {
+  font-size: 25px; }
 
 body#things-to-know main {
   position: relative; }
