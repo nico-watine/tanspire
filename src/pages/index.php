@@ -166,28 +166,6 @@ body-class:
 								</tr>
 							</tbody>
 						</table>
-						<!-- All Tans Include: -->
-						<p class="m-0"><strong>All Signature Tans include the following</strong></p>
-						<table>
-							<tr>
-								<td>TanSpire<span class="tmSymbol"><small>&trade;</small></span> Exclusive Vegan Tanning Formula</td>
-							</tr>
-							<tr>
-								<td>Alcohol Free/Paraben Free/Cruelty Free Formula</td>
-							</tr>
-							<tr>
-								<td>Custom Color Mixed per Client</td>
-							</tr>
-							<tr>
-								<td>Pre-tan skin hydrating and nourishing prep spray prior to color application (typically a $5-10 up-charge at other salons)</td>
-							</tr>
-							<tr>
-								<td>Each Client is detailed with light contouring</td>
-							</tr>
-							<tr>
-								<td>Post Tan sealer is applied to ensure optimal tan development and NO CRAZY SMELL! (typically a $5 - $10 up-charge at other salons)</td>
-							</tr>
-						</table>
 					</div>
 				</div>
 			</div>
