@@ -53,3 +53,7 @@
 .inline-block {
 	display: inline-block;
 }
+
+.cf {
+	@include clearfix;
+}

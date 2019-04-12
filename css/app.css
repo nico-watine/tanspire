@@ -9139,3 +9139,12 @@ table {
 
 .inline-block {
   display: inline-block; }
+
+.cf::before, .cf::after {
+  display: table;
+  content: ' ';
+  flex-basis: 0;
+  order: 1; }
+
+.cf::after {
+  clear: both; }

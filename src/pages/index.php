@@ -178,13 +178,14 @@ body-class:
 				<div class="callout custom-callout p-16 box-shadow-1">
 					<div class="content">
 						<p class="overflow-hidden callout-heading strong mb-8"><span>Beneficial Attributes</span></p>
-						<ul class="mb-0">
+						<ul class="mb-0 float-right">
 							<li>pH Balanced for optimal color development</li>
 							<li>Provides your skin with a Vitamin E boost</li>
 							<li>Completely odorless and non-sticky</li>
 							<li>No Alcohol, No Parabens and No Formaldehyde odors</li>
 							<li>Vegan and Cruelty Free</li>
 						</ul>
+						<div class="cf"></div>
 					</div>
 				</div>
 			</section>
