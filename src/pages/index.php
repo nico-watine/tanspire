@@ -171,7 +171,8 @@ body-class:
 			</div>
 			<section class="tanspire-solution-section pb-40 px-8">
 				<h3 class="mb-32 title text-center">The TanSpire Solution</h3>
-				<p class="lead"><strong>All Signature Tans are applied with our custom tanning solution.</strong></p>
+				<p class="lead mb-16"><strong>All Signature Tans are applied with our custom tanning solution.</strong></p>
+				<p><strong>We apply our own unique tanning solution, developed in-house and available exclusively for TanSpire clients.</strong> The solution is infused with naturally-rich antioxidants, nourishing your skin while providing a healthy tan that is slow-fading. This is skin treatment in a personalized airbrush tan.</p>
 			</section>
 		</div>
 	</div>
