@@ -8512,6 +8512,10 @@ body#index .savingsAccordion .accordion-content {
 .tanspire-solution-section .h3 {
   font-size: 25px; }
 
+.tanspire-solution-section .custom-callout {
+  border-radius: 0.25rem;
+  border: 0.125rem solid #88c4dc; }
+
 body#things-to-know main {
   position: relative; }
   body#things-to-know main .splash-bg {

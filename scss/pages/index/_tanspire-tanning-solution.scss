@@ -2,4 +2,9 @@
 	.h3 {
 		font-size: 25px;
 	}
+
+	.custom-callout {
+		border-radius: rem-calc(4);
+		border: rem-calc(2) solid #88c4dc;
+	}
 }
