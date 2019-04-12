@@ -169,6 +169,9 @@ body-class:
 					</div>
 				</div>
 			</div>
+			<section class="tanspire-solution-section pb-40">
+				<h3 class="title text-center">The TanSpire Solution</h3>
+			</section>
 		</div>
 	</div>
 </main>
