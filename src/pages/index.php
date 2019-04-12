@@ -172,22 +172,26 @@ body-class:
 			<!-- Tanspire Solution -->
 			<section class="tanspire-solution-section pb-40 px-8">
 				<h3 class="h3 mb-32 title text-center">The TanSpire Solution</h3>
-				<p class="lead mb-16"><strong>All Signature Tans are applied with our custom tanning solution.</strong></p>
-				<p class="mb-32"><strong>We apply our own unique tanning solution, developed in-house and available exclusively for TanSpire clients.</strong> The solution is infused with naturally-rich antioxidants, nourishing your skin while providing a healthy tan that is slow-fading. This is skin treatment in a personalized airbrush tan.</p>
-				<img class="overflow-hidden mb-32" style="border-radius: 8px;" src="/img/index/tanspire-solution/tanspire-solution-feature-image.jpg" alt="">
-				<div class="callout custom-callout p-16 box-shadow-1">
-					<div class="content float-right">
-						<p class="overflow-hidden callout-heading strong mb-8"><span>Beneficial Attributes</span></p>
-						<ul class="mb-0 float-right">
-							<li>pH Balanced for optimal color development</li>
-							<li>Provides your skin with a Vitamin E boost</li>
-							<li>Completely odorless and non-sticky</li>
-							<li>No Alcohol, No Parabens and No Formaldehyde odors</li>
-							<li>Vegan and Cruelty Free</li>
-						</ul>
-					</div>
-					<div class="cf"></div>
+				<div class="bounding-box" style="max-width: 440px; margin: 0 auto;">
+					<p class="lead mb-16"><strong>All Signature Tans are applied with our custom tanning solution.</strong></p>
+					<p class="mb-32"><strong>We apply our own unique tanning solution, developed in-house and available exclusively for TanSpire clients.</strong> The solution is infused with naturally-rich antioxidants, nourishing your skin while providing a healthy tan that is slow-fading. This is skin treatment in a personalized airbrush tan.</p>
 				</div>
+				<div class="img-block text-center">
+					<img class="overflow-hidden mb-32" style="border-radius: 8px;" src="/img/index/tanspire-solution/tanspire-solution-feature-image.jpg" alt="">
+				</div>
+					<div class="callout custom-callout p-16 box-shadow-1">
+						<div class="content float-right">
+							<p class="overflow-hidden callout-heading strong mb-8"><span>Beneficial Attributes</span></p>
+							<ul class="mb-0 float-right">
+								<li>pH Balanced for optimal color development</li>
+								<li>Provides your skin with a Vitamin E boost</li>
+								<li>Completely odorless and non-sticky</li>
+								<li>No Alcohol, No Parabens and No Formaldehyde odors</li>
+								<li>Vegan and Cruelty Free</li>
+							</ul>
+						</div>
+						<div class="cf"></div>
+					</div>
 			</section>
 		</div>
 	</div>
