@@ -167,6 +167,7 @@ body-class:
 							</tbody>
 						</table>
 					</div>
+					<hr>
 				</div>
 			</div>
 			<!-- Tanspire Solution -->
