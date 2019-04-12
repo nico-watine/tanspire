@@ -179,10 +179,10 @@ body-class:
 				<div class="img-block text-center">
 					<img class="overflow-hidden mb-32" style="border-radius: 8px;" src="/img/index/tanspire-solution/tanspire-solution-feature-image.jpg" alt="">
 				</div>
-					<div class="callout custom-callout p-16 box-shadow-1">
-						<div class="content float-right">
+					<div class="callout custom-callout p-16 box-shadow-1 text-center">
+						<div class="content text-left display-inline-block">
 							<p class="overflow-hidden callout-heading strong mb-8"><span>Beneficial Attributes</span></p>
-							<ul class="mb-0 float-right">
+							<ul class="mb-0">
 								<li>pH Balanced for optimal color development</li>
 								<li>Provides your skin with a Vitamin E boost</li>
 								<li>Completely odorless and non-sticky</li>
