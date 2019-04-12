@@ -123,12 +123,12 @@ body-class:
 					</div>
 				</div>
 			</div>
+			<!-- Single Session Pricing -->
 			<div class="row" id="welcome-text">
 				<div class="medium-10 medium-push-1 end columns vertical-wrapper">
 					<hr>
 					<div class="prose">
 						<h2>Pricing</h2>
-						<!-- SINGLE SESSION PRICING -->
 						<p class="m-0"><strong>Single Session Spray Tans</strong></p>
 						<table>
 							<thead>
