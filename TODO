@@ -16,3 +16,7 @@ Design:
 
 Code:
 	☐	Telephone meta tag, is it active / how does the phone number show on phones (blue highlight?)
+
+Variables:
+	☐	Create font-size variables, include *-medium
+		This is, currently, specifically for TanSpire Solution heading

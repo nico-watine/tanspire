@@ -1,6 +1,8 @@
 .tanspire-solution-section {
 	.h3 {
-		font-size: 25px;
+		@include breakpoint(small only) {
+			font-size: rem-calc(25);
+		}
 	}
 
 	.custom-callout {
@@ -24,7 +26,7 @@
 			position: absolute;
 			margin-left: 12px;
 			width: 200px;
-			border-bottom: 4px solid #88C4DC;
+			border-bottom: 4px solid #88c4dc;
 			top: 50%;
 		}
 	}
