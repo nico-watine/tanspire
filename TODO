@@ -17,7 +17,25 @@ Design:
 Code:
 	☐	Telephone meta tag, is it active / how does the phone number show on phones (blue highlight?)
 
-SCSS:
+index:
+	☐	Locate/Replace .p-x
+	☐	Locate/Replace .p-y
+	☐	Locate/Replace .m-x
+	☐	Locate/Replace .m-y
+	☐	Locate/Replace .inline-block
+FAQ:
+	☐	Locate/Replace .p-x
+	☐	Locate/Replace .p-y
+	☐	Locate/Replace .m-x
+	☐	Locate/Replace .m-y
+	☐	Locate/Replace .inline-block
+Footer:
+	☐	Locate/Replace .p-x
+	☐	Locate/Replace .p-y
+	☐	Locate/Replace .m-x
+	☐	Locate/Replace .m-y
+	☐	Locate/Replace .inline-block
+Header:
 	☐	Locate/Replace .p-x
 	☐	Locate/Replace .p-y
 	☐	Locate/Replace .m-x

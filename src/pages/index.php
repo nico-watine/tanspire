@@ -15,7 +15,7 @@ body-class:
 	</aside>
 	<div id="logo" class="text-center absolute-wrapper">
 		<div class="vertical-wrapper">
-			<img class="p-x" src="{{ cdn }}/img/index/splash/logo/stacked/white/tanspire-logo.png" srcset="{{ cdn }}/img/index/splash/logo/stacked/white/tanspire-logo@2x.png 2x" alt="Tanspire Houston Logo">
+			<img class="mb-8 px-16" src="{{ cdn }}/img/index/splash/logo/stacked/white/tanspire-logo.png" srcset="{{ cdn }}/img/index/splash/logo/stacked/white/tanspire-logo@2x.png 2x" alt="Tanspire Houston Logo">
 			<div class="row">
 				<div class="small-6 columns" id="services" data-magellan>
 					<a href="#services-summary" class="title button">Services</a>
@@ -209,7 +209,7 @@ body-class:
 				<address><a href="https://goo.gl/maps/CW2Ws4mZY6E2" target="_blank">1511 N Durham Dr <br>Houston, TX 77008</a></address>
 			</div>
 		</div>
-		<div class="row p-x" id="digits-row">
+		<div class="row" id="digits-row">
 			<h4>Schedule An Appointment</h4>
 			<a data-open="booking-modal" class="title button">Book Online Now</a>
 			<!-- <a href="https://tanspire.phorest.me/book#/" target="_blank" id="book-link" class="title button">Book Online Now</a> -->
