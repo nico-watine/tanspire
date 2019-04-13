@@ -16,3 +16,10 @@ Design:
 
 Code:
 	☐	Telephone meta tag, is it active / how does the phone number show on phones (blue highlight?)
+
+SCSS:
+	☐	Locate/Replace .p-x
+	☐	Locate/Replace .p-y
+	☐	Locate/Replace .m-x
+	☐	Locate/Replace .m-y
+	☐	Locate/Replace .inline-block
