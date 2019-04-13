@@ -8563,21 +8563,6 @@ table {
   border-collapse: initial;
   background: #e1e1e1; }
 
-.p-x {
-  padding: 0 1.25rem; }
-
-.p-y {
-  padding: 1.25rem 0; }
-
-.m-x {
-  margin: 0 1.25rem; }
-
-.m-y {
-  margin: 1.25rem 0; }
-
-.inline-block {
-  display: inline-block; }
-
 body {
   background: #aeceda url("/img/assets/bg/tufted-grid-blue.png") repeat top left; }
 
