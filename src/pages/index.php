@@ -35,7 +35,7 @@ body-class:
 
 <main id="services-summary" data-magellan-target="services-summary">
 	<div class="outer-container">
-		<div class="inner-container m-x">
+		<div class="inner-container mx-16">
 			<!-- Tanspire Level Club Pricing Section -->
 			<section class="tanspire-level-club-section mb-40">
 				<div class="grid-x grid-padding-x">
@@ -199,7 +199,7 @@ body-class:
 	<div id="cta-tag">
 		<div class="row">
 			<div class="small-12 columns">
-				<h2 class="title m-0">Come Get Your <span class="inline-block">Tan On!</span></h2>
+				<h2 class="title m-0">Come Get Your Tan&nbsp;On!</h2>
 			</div>
 		</div>
 	</div>

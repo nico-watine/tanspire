@@ -4,7 +4,7 @@ Product Highlights:
 
 
 FAQ Page:
-	Will need an updated splash image (since no longer using Skinfinity media)
+	Will need an updated splash image (si`nce no longer using Skinfinity media)
 	☐	Update splash image
 			Reference stock photos archived in Eagle library
 	☐	Add a "Book Now" link button
@@ -18,11 +18,11 @@ Code:
 	☐	Telephone meta tag, is it active / how does the phone number show on phones (blue highlight?)
 
 index:
-	☐	Locate/Replace .p-x
-	☐	Locate/Replace .p-y
-	☐	Locate/Replace .m-x
-	☐	Locate/Replace .m-y
-	☐	Locate/Replace .inline-block
+	✔	Locate/Replace .p-x @done (19-04-13 12:56)
+	✔	Locate/Replace .p-y @done (19-04-13 12:56)
+	✔	Locate/Replace .m-x @done (19-04-13 12:58)
+	✔	Locate/Replace .m-y @done (19-04-13 12:58)
+	✔	Locate/Replace .inline-block @done (19-04-13 12:59)
 FAQ:
 	☐	Locate/Replace .p-x
 	☐	Locate/Replace .p-y
