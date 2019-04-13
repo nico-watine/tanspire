@@ -15,7 +15,7 @@ body-class:
 	</aside>
 	<div id="logo" class="text-center absolute-wrapper">
 		<div class="vertical-wrapper">
-			<img class="p-x" src="{{ cdn }}/img/index/splash/logo/stacked/white/tanspire-logo.png" srcset="{{ cdn }}/img/index/splash/logo/stacked/white/tanspire-logo@2x.png 2x" alt="Tanspire Houston Logo">
+			<img class="mb-8 px-16" src="{{ cdn }}/img/index/splash/logo/stacked/white/tanspire-logo.png" srcset="{{ cdn }}/img/index/splash/logo/stacked/white/tanspire-logo@2x.png 2x" alt="Tanspire Houston Logo">
 			<div class="row">
 				<div class="small-6 columns" id="services" data-magellan>
 					<a href="#services-summary" class="title button">Services</a>
@@ -35,7 +35,7 @@ body-class:
 
 <main id="services-summary" data-magellan-target="services-summary">
 	<div class="outer-container">
-		<div class="inner-container m-x">
+		<div class="inner-container mx-16">
 			<!-- Tanspire Level Club Pricing Section -->
 			<section class="tanspire-level-club-section mb-40">
 				<div class="grid-x grid-padding-x">
@@ -199,7 +199,7 @@ body-class:
 	<div id="cta-tag">
 		<div class="row">
 			<div class="small-12 columns">
-				<h2 class="title m-0">Come Get Your <span class="inline-block">Tan On!</span></h2>
+				<h2 class="title m-0">Come Get Your Tan&nbsp;On!</h2>
 			</div>
 		</div>
 	</div>
@@ -209,7 +209,7 @@ body-class:
 				<address><a href="https://goo.gl/maps/CW2Ws4mZY6E2" target="_blank">1511 N Durham Dr <br>Houston, TX 77008</a></address>
 			</div>
 		</div>
-		<div class="row p-x" id="digits-row">
+		<div class="row" id="digits-row">
 			<h4>Schedule An Appointment</h4>
 			<a data-open="booking-modal" class="title button">Book Online Now</a>
 			<!-- <a href="https://tanspire.phorest.me/book#/" target="_blank" id="book-link" class="title button">Book Online Now</a> -->

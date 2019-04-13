@@ -18,7 +18,7 @@ body-class:
 		<section class="page-title text-center">
 			<h1 class="title">Things To Know <span>About Your Spray Tan</span></h1>
 		</section>
-		<div class="inner-container m-x">
+		<div class="inner-container mx-16">
 			<div class="row">
 				<div class="medium-10 medium-push-1 columns" id="question-accordion">
 					<ul class="accordion" data-accordion data-allow-all-closed="true" data-multi-expand="true">
