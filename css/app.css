@@ -8051,6 +8051,15 @@ h1 .tmSymbol {
 .box-shadow-5 {
   box-shadow: 0 1.0625rem 1.0625rem 0 rgba(0, 0, 0, 0.15), 0 1.6875rem 3.4375rem 0 rgba(0, 0, 0, 0.3); }
 
+.cf::before, .cf::after {
+  display: table;
+  content: ' ';
+  flex-basis: 0;
+  order: 1; }
+
+.cf::after {
+  clear: both; }
+
 @media screen and (min-width: 40em) and (max-width: 63.99875em) {
   .medium-only-align-center {
     justify-content: center; } }
@@ -8075,508 +8084,6 @@ h1 .tmSymbol {
   .medium-align-left {
     justify-content: flex-start; } }
 
-<<<<<<< HEAD
-.absolute-wrapper {
-  position: absolute;
-  width: 100%;
-  left: 0;
-  top: 0;
-  height: 100%; }
-  @media screen and (min-width: 40em) and (min-height: 37.5em) {
-    .absolute-wrapper .vertical-wrapper {
-      width: 100%;
-      position: absolute;
-      top: 50%;
-      transform: translateY(-50%); } }
-
-.absolute-wrapper#logo {
-  z-index: 10; }
-  .absolute-wrapper#logo a {
-    background: #fff;
-    border: 0.125rem solid #88c4dc;
-    box-shadow: 0 0.125rem 0.125rem 0 rgba(0, 0, 0, 0.2), 0 0.375rem 0.625rem 0 rgba(0, 0, 0, 0.3);
-    letter-spacing: 0.09375rem;
-    width: 8.75rem;
-    padding: 1rem 0;
-    border-radius: 0.3125rem;
-    color: #88c4dc;
-    font-size: 1.125rem;
-    margin-bottom: 1.75rem; }
-    .absolute-wrapper#logo a:hover {
-      background: #a2d0e3;
-      box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
-      color: #fff;
-      border: 0.125rem solid #fff; }
-    @media print, screen and (min-width: 40em) {
-      .absolute-wrapper#logo a {
-        width: 11.25rem;
-        font-size: 1.5625rem; } }
-  .absolute-wrapper#logo #services,
-  .absolute-wrapper#logo #faq {
-    text-align: center;
-    padding: 0; }
-  @media print, screen and (min-width: 40em) {
-    .absolute-wrapper#logo #services {
-      text-align: right;
-      padding-right: 3.125rem; }
-    .absolute-wrapper#logo #faq {
-      text-align: left;
-      padding-left: 3.125rem; } }
-  @media screen and (max-width: 39.99875em) {
-    .absolute-wrapper#logo {
-      top: 7.5rem; } }
-  @media screen and (min-width: 40em) and (max-height: 37.5em) {
-    .absolute-wrapper#logo {
-      top: 7.5rem; } }
-
-.absolute-wrapper#ts-bg {
-  z-index: 5; }
-  .absolute-wrapper#ts-bg .vertical-wrapper {
-    width: 100%;
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%); }
-  .absolute-wrapper#ts-bg img {
-    height: auto;
-    width: 50.9375rem; }
-
-body#index main .outer-container {
-  max-width: 75rem;
-  margin-right: auto;
-  margin-left: auto; }
-  body#index main .outer-container::before, body#index main .outer-container::after {
-    display: table;
-    content: ' ';
-    flex-basis: 0;
-    order: 1; }
-  body#index main .outer-container::after {
-    clear: both; }
-  body#index main .outer-container .inner-container {
-    background: #f7f7f7;
-    box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
-    min-height: 400px; }
-    @media print, screen and (min-width: 40em) {
-      body#index main .outer-container .inner-container {
-        min-height: 0;
-        text-align: left; } }
-
-body#index main .row#tagline {
-  padding: 1.875rem 0 0.625rem; }
-  @media print, screen and (min-width: 40em) {
-    body#index main .row#tagline {
-      padding-top: 2.8125rem; } }
-
-body#index main .row#welcome-text .prose {
-  margin-bottom: 1.875rem; }
-  body#index main .row#welcome-text .prose p {
-    font-size: 1.125rem; }
-  body#index main .row#welcome-text .prose a {
-    background: #fff;
-    border: 0.125rem solid #88c4dc;
-    box-shadow: 0 0.125rem 0.125rem 0 rgba(0, 0, 0, 0.2), 0 0.375rem 0.625rem 0 rgba(0, 0, 0, 0.3);
-    letter-spacing: 0.09375rem;
-    padding: 1rem 1.875rem;
-    border-radius: 0.3125rem;
-    color: #88c4dc;
-    font-size: 1.125rem;
-    margin-bottom: 1.75rem; }
-    body#index main .row#welcome-text .prose a:hover {
-      background: #a2d0e3;
-      box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
-      color: #fff;
-      border: 0.125rem solid #fff; }
-  body#index main .row#welcome-text .prose table thead tr,
-  body#index main .row#welcome-text .prose table tbody tr {
-    background: #fff; }
-
-@media print, screen and (min-width: 40em) {
-  body#index main .row#welcome-text {
-    position: relative; }
-    body#index main .row#welcome-text .prose h2 {
-      margin-bottom: 1rem; }
-    body#index main .row#welcome-text .prose p {
-      font-size: 1.5625rem; }
-    body#index main .row#welcome-text .prose a {
-      font-size: 1.9375rem;
-      margin-bottom: 2rem; }
-    body#index main .row#welcome-text .image #model {
-      display: none;
-      visibility: hidden; } }
-    @media screen and (min-width: 40em) and (min-width: 52.5em) {
-      body#index main .row#welcome-text .image #model {
-        display: block;
-        visibility: visible;
-        position: absolute;
-        bottom: 0;
-        max-width: 180px;
-        height: auto;
-        width: 100%; } }
-
-@media print, screen and (min-width: 64em) {
-  body#index main .row#welcome-text .image #model {
-    max-width: 200px; } }
-
-body#index section.contact-banner {
-  background: #dfca78 url("/img/assets/bg/gold-foil/medium/gold-foil.jpg") no-repeat center top;
-  background-size: cover; }
-  body#index section.contact-banner #cta-tag {
-    border: 0 solid #fff;
-    border-width: 0.375rem 0;
-    padding: 2.25rem 0; }
-    body#index section.contact-banner #cta-tag h2 {
-      color: #fff;
-      font-size: 1.875rem;
-      text-shadow: 0 0.125rem 0.125rem #000; }
-  body#index section.contact-banner #contact-deets {
-    background: rgba(73, 73, 73, 0.65);
-    color: #fff;
-    border-bottom: 0.375rem solid #fff; }
-    body#index section.contact-banner #contact-deets * {
-      color: #fff; }
-    body#index section.contact-banner #contact-deets .row {
-      padding: 1.875rem 0; }
-    body#index section.contact-banner #contact-deets .row#address-row {
-      border-bottom: 0.375rem solid #fff; }
-    body#index section.contact-banner #contact-deets address {
-      font-size: 1.5rem; }
-      body#index section.contact-banner #contact-deets address a {
-        text-decoration: underline; }
-    body#index section.contact-banner #contact-deets .row#digits-row h4 {
-      font-size: 1.75rem;
-      margin-bottom: 0.875rem; }
-    body#index section.contact-banner #contact-deets .row#digits-row header a.button#mobile-menu, header body#index section.contact-banner #contact-deets .row#digits-row a.button#mobile-menu, body#index section.contact-banner #contact-deets .row#digits-row a.button.title {
-      background: #a2d0e3;
-      box-shadow: 0 0.125rem 0.125rem 0 rgba(0, 0, 0, 0.2), 0 0.375rem 0.625rem 0 rgba(0, 0, 0, 0.3);
-      color: #fff;
-      border: 0.125rem solid #fff;
-      letter-spacing: 0.09375rem;
-      padding: 1rem 1.875rem;
-      border-radius: 0.3125rem;
-      font-size: 1.125rem; }
-      body#index section.contact-banner #contact-deets .row#digits-row header a.button#mobile-menu:hover, header body#index section.contact-banner #contact-deets .row#digits-row a.button#mobile-menu:hover, body#index section.contact-banner #contact-deets .row#digits-row a.button.title:hover {
-        background: #fff;
-        border: 0.125rem solid #88c4dc;
-        box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
-        color: #88c4dc; }
-    body#index section.contact-banner #contact-deets .row#digits-row p {
-      margin-bottom: 0.875rem;
-      font-size: 1.5625rem; }
-      body#index section.contact-banner #contact-deets .row#digits-row p a {
-        line-height: 1; }
-        body#index section.contact-banner #contact-deets .row#digits-row p a span {
-          display: block; }
-  @media print, screen and (min-width: 40em) {
-    body#index section.contact-banner {
-      background: #dfca78 url("/img/assets/bg/gold-foil/gold-foil.jpg") no-repeat center top;
-      background-size: cover; }
-      body#index section.contact-banner #cta-tag h2 {
-        font-size: 2.5rem; }
-      body#index section.contact-banner #contact-deets address {
-        font-size: 1.875rem; }
-        body#index section.contact-banner #contact-deets address a {
-          text-decoration: none; }
-          body#index section.contact-banner #contact-deets address a:hover {
-            text-decoration: underline; }
-      body#index section.contact-banner #contact-deets .row#digits-row h4 {
-        font-size: 2.5rem; }
-      body#index section.contact-banner #contact-deets .row#digits-row header a.button#mobile-menu, header body#index section.contact-banner #contact-deets .row#digits-row a.button#mobile-menu, body#index section.contact-banner #contact-deets .row#digits-row a.button.title {
-        font-size: 1.9375rem; }
-      body#index section.contact-banner #contact-deets .row#digits-row p a span {
-        display: initial; }
-      body#index section.contact-banner #contact-deets .row#digits-row p a:hover {
-        text-decoration: underline; } }
-
-#booking-modal {
-  background: #fff;
-  box-shadow: 0 0.875rem 0.75rem 0 rgba(0, 0, 0, 0.17), 0 1.25rem 2.5rem 0 rgba(0, 0, 0, 0.3);
-  border-radius: 0.4375rem; }
-  #booking-modal h2 {
-    font-size: 2rem; }
-  #booking-modal p {
-    font-size: 1.25rem;
-    line-height: 1.3;
-    margin-bottom: 1.625rem; }
-  #booking-modal p#payment-note {
-    font-size: 1.25rem;
-    margin-bottom: 1.25rem; }
-  #booking-modal a {
-    background: #a2d0e3;
-    box-shadow: 0 0.125rem 0.125rem 0 rgba(0, 0, 0, 0.2), 0 0.375rem 0.625rem 0 rgba(0, 0, 0, 0.3);
-    color: #fff;
-    border: 0.125rem solid #fff;
-    padding: 0.75rem 1.25rem;
-    border-radius: 0.3125rem;
-    font-size: 1.25rem;
-    line-height: 1.1; }
-    #booking-modal a:hover {
-      background: #fff;
-      border: 0.125rem solid #88c4dc;
-      box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
-      color: #88c4dc; }
-  #booking-modal a#waiver {
-    margin-bottom: 3.125rem; }
-  #booking-modal button.close-button {
-    color: #000; }
-    #booking-modal button.close-button span {
-      font-size: 2.875rem; }
-  @media print, screen and (min-width: 40em) {
-    #booking-modal {
-      width: 48.125rem;
-      max-width: 95%;
-      padding: 2.5rem; }
-      #booking-modal p {
-        font-size: 1.625rem; }
-      #booking-modal a {
-        font-size: 1.5rem;
-        padding: 1rem 1.875rem;
-        line-height: 1; } }
-
-#booking-modal .cancellationAccordion {
-  margin-top: 1.25rem; }
-  #booking-modal .cancellationAccordion .accordion-title {
-    font-size: 1.125rem;
-    font-weight: 400;
-    border: 0.125rem solid #95c3d6;
-    border-radius: 0.125rem;
-    color: #000;
-    background: #fff;
-    box-shadow: none;
-    text-decoration: underline; }
-    #booking-modal .cancellationAccordion .accordion-title:hover, #booking-modal .cancellationAccordion .accordion-title:focus {
-      box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
-    #booking-modal .cancellationAccordion .accordion-title::before {
-      font-size: 2.5rem;
-      top: 0;
-      margin-top: 0.375rem; }
-  #booking-modal .cancellationAccordion .accordion-content p {
-    font-size: 1rem;
-    line-height: 1.6; }
-
-#index .tooltip {
-  max-width: 25rem;
-  font-weight: 400;
-  font-size: 1rem;
-  line-height: 1.4;
-  background-color: #fefefe;
-  color: #0a0a0a;
-  border: 3px solid #0a0a0a; }
-
-body#index .membership-info p {
-  font-size: 1.125rem; }
-
-body#index .savingsAccordion .accordion-title {
-  font-size: 1.125rem;
-  font-weight: 400;
-  border: 0.125rem solid #95c3d6;
-  border-radius: 0.125rem;
-  color: #000;
-  background: #fff; }
-  body#index .savingsAccordion .accordion-title:hover, body#index .savingsAccordion .accordion-title:focus {
-    box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
-  body#index .savingsAccordion .accordion-title::before {
-    font-size: 2.5rem;
-    top: 0;
-    margin-top: 0.625rem; }
-
-body#index .savingsAccordion .accordion-content {
-  padding: 0;
-  border: 0;
-  background: none; }
-  body#index .savingsAccordion .accordion-content table {
-    background: #e1e1e1;
-    margin-bottom: 0; }
-
-.intro-prose .prose-wrap {
-  max-width: 18.75rem;
-  margin: 0 auto;
-  width: 100%; }
-  @media print, screen and (min-width: 40em) {
-    .intro-prose .prose-wrap {
-      max-width: 32.5rem; }
-      .intro-prose .prose-wrap p {
-        font-size: 1.125rem; } }
-
-.price-card-grid {
-  text-align: center; }
-  .price-card-grid .price-card {
-    border-radius: 0.25rem;
-    overflow: hidden;
-    text-align: center;
-    max-width: 17.5rem;
-    width: 100%;
-    margin: 0 auto 2rem; }
-    .price-card-grid .price-card .header {
-      background: transparent url("/img/assets/bg/gold-foil/small/gold-foil.jpg") center/cover no-repeat;
-      padding: 1rem 0.5rem; }
-    .price-card-grid .price-card .body {
-      height: 8.125rem;
-      background: #fff; }
-    .price-card-grid .price-card .footer {
-      padding: 0.75rem 0.5rem;
-      background: #88c4dc;
-      color: #fff; }
-    .price-card-grid .price-card .h4 {
-      font-size: 1.5625rem; }
-    .price-card-grid .price-card .p {
-      font-size: 1.125rem; }
-    .price-card-grid .price-card .p.lead {
-      font-size: 1.40625rem; }
-  @media print, screen and (min-width: 40em) {
-    .price-card-grid .price-card#spire-light,
-    .price-card-grid .price-card#spire-dark {
-      margin-right: 0; }
-    .price-card-grid .price-card#spire-medium,
-    .price-card-grid .price-card#spire-rapid {
-      margin-left: 0; } }
-
-@media screen and (max-width: 39.99875em) {
-  .tanspire-solution-section .h3 {
-    font-size: 1.5625rem; } }
-
-.tanspire-solution-section .custom-callout {
-  border-radius: 0.25rem;
-  border: 0.125rem solid #88c4dc;
-  max-width: 30rem;
-  margin: 0 auto; }
-  .tanspire-solution-section .custom-callout .callout-heading {
-    font-size: 1.125rem;
-    max-width: 25rem; }
-  .tanspire-solution-section .custom-callout .callout-heading span {
-    display: inline-block;
-    position: relative; }
-  .tanspire-solution-section .custom-callout .callout-heading span:after {
-    content: '';
-    position: absolute;
-    margin-left: 12px;
-    width: 200px;
-    border-bottom: 4px solid #88c4dc;
-    top: 50%; }
-
-body#things-to-know main {
-  position: relative; }
-  body#things-to-know main .splash-bg {
-    position: absolute;
-    z-index: -5;
-    width: 100%; }
-    body#things-to-know main .splash-bg img {
-      width: 100%;
-      box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
-      border-bottom: 0.25rem solid #fff; }
-  body#things-to-know main .outer-container {
-    position: relative;
-    max-width: 75rem;
-    margin-right: auto;
-    margin-left: auto; }
-    body#things-to-know main .outer-container::before, body#things-to-know main .outer-container::after {
-      display: table;
-      content: ' ';
-      flex-basis: 0;
-      order: 1; }
-    body#things-to-know main .outer-container::after {
-      clear: both; }
-    body#things-to-know main .outer-container .page-title {
-      padding: 3.75rem 0 0; }
-      @media print, screen and (min-width: 40em) {
-        body#things-to-know main .outer-container .page-title {
-          padding: 5.625rem 0; } }
-      @media print, screen and (min-width: 64em) {
-        body#things-to-know main .outer-container .page-title {
-          padding: 9.375rem 0; } }
-      body#things-to-know main .outer-container .page-title h1 {
-        font-size: 1.875rem;
-        padding: 0 0.625rem;
-        line-height: 1.2;
-        color: #fff;
-        text-shadow: 0 0.125rem 0.25rem #000; }
-        body#things-to-know main .outer-container .page-title h1 span {
-          letter-spacing: 0;
-          font-weight: 400;
-          text-shadow: none;
-          color: #000;
-          font-size: 1.75rem;
-          display: block;
-          text-shadow: 0 0.0625rem 0.125rem #fff; }
-        @media print, screen and (min-width: 40em) {
-          body#things-to-know main .outer-container .page-title h1 {
-            font-size: 4.0625rem; }
-            body#things-to-know main .outer-container .page-title h1 span {
-              font-size: 2.5625rem; } }
-    body#things-to-know main .outer-container .inner-container {
-      border-radius: 0.25rem;
-      background: #f7f7f7;
-      box-shadow: 0 0.125rem 0.125rem 0 rgba(0, 0, 0, 0.2), 0 0.375rem 0.625rem 0 rgba(0, 0, 0, 0.3);
-      padding-top: 3.75rem;
-      border: 0.0625rem solid #ddd; }
-      @media print, screen and (min-width: 40em) {
-        body#things-to-know main .outer-container .inner-container {
-          min-height: 0;
-          text-align: left; } }
-
-body#things-to-know #question-accordion .accordion {
-  background: none;
-  border: 0; }
-  body#things-to-know #question-accordion .accordion * {
-    border: 0; }
-  body#things-to-know #question-accordion .accordion .accordion-item {
-    padding-bottom: 20px; }
-    body#things-to-know #question-accordion .accordion .accordion-item .accordion-title {
-      width: 35.625rem;
-      max-width: 100%;
-      display: block;
-      margin: 0 auto;
-      padding: 0.875rem 0.5rem;
-      font-size: 1.75rem;
-      box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
-      background: #95c3d6;
-      border: 0.125rem solid #fff;
-      border-radius: 0.25rem;
-      color: #fff;
-      text-shadow: 0 0.0625rem 0.0625rem #000; }
-      body#things-to-know #question-accordion .accordion .accordion-item .accordion-title:hover {
-        background: #b4dff1;
-        box-shadow: 0 0.125rem 0.125rem 0 rgba(0, 0, 0, 0.2), 0 0.375rem 0.625rem 0 rgba(0, 0, 0, 0.3); }
-      @media print, screen and (min-width: 40em) {
-        body#things-to-know #question-accordion .accordion .accordion-item .accordion-title {
-          font-size: 2.1875rem; } }
-    body#things-to-know #question-accordion .accordion .accordion-item .accordion-title::before {
-      visibility: hidden; }
-      @media print, screen and (min-width: 40em) {
-        body#things-to-know #question-accordion .accordion .accordion-item .accordion-title::before {
-          visibility: visible;
-          top: 0;
-          margin-top: 0;
-          line-height: 4.0625rem; } }
-    body#things-to-know #question-accordion .accordion .accordion-item .accordion-content {
-      margin-top: 1.25rem;
-      border: 0.0625rem solid #979797;
-      box-shadow: inset 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
-      border-radius: 0.25rem; }
-      body#things-to-know #question-accordion .accordion .accordion-item .accordion-content p {
-        font-size: 1.125rem; }
-      body#things-to-know #question-accordion .accordion .accordion-item .accordion-content ul li {
-        margin-bottom: 0.5rem; }
-  body#things-to-know #question-accordion .accordion .accordion-item.is-active .accordion-title {
-    background: #fff;
-    border: 0.125rem solid #88c4dc;
-    color: #000;
-    text-shadow: none; }
-    body#things-to-know #question-accordion .accordion .accordion-item.is-active .accordion-title:hover {
-      box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
-
-html,
-body {
-  height: 100%; }
-
-.height-wrapper {
-  min-height: 100%;
-  position: relative; }
-  .height-wrapper main {
-    padding-bottom: 16.25rem; }
-  .height-wrapper footer {
-    position: absolute;
-    bottom: 0;
-    width: 100%; }
-=======
 @media screen and (min-width: 64em) and (max-width: 74.99875em) {
   .large-only-align-left {
     justify-content: flex-start; } }
@@ -8600,7 +8107,6 @@ body {
 @media print, screen and (min-width: 64em) {
   .large-align-right {
     justify-content: flex-end; } }
->>>>>>> develop
 
 .h-25 {
   height: 25%; }
@@ -9306,8 +8812,7 @@ body#index main .outer-container {
   body#index main .outer-container .inner-container {
     background: #f7f7f7;
     box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
-    min-height: 400px;
-    text-align: center; }
+    min-height: 400px; }
     @media print, screen and (min-width: 40em) {
       body#index main .outer-container .inner-container {
         min-height: 0;
@@ -9582,6 +9087,29 @@ body#index .savingsAccordion .accordion-content {
     .price-card-grid .price-card#spire-rapid {
       margin-left: 0; } }
 
+@media screen and (max-width: 39.99875em) {
+  .tanspire-solution-section .h3 {
+    font-size: 1.5625rem; } }
+
+.tanspire-solution-section .custom-callout {
+  border-radius: 0.25rem;
+  border: 0.125rem solid #88c4dc;
+  max-width: 30rem;
+  margin: 0 auto; }
+  .tanspire-solution-section .custom-callout .callout-heading {
+    font-size: 1.125rem;
+    max-width: 25rem; }
+  .tanspire-solution-section .custom-callout .callout-heading span {
+    display: inline-block;
+    position: relative; }
+  .tanspire-solution-section .custom-callout .callout-heading span:after {
+    content: '';
+    position: absolute;
+    margin-left: 12px;
+    width: 200px;
+    border-bottom: 4px solid #88c4dc;
+    top: 50%; }
+
 body#things-to-know main {
   position: relative; }
   body#things-to-know main .splash-bg {
@@ -9642,19 +9170,6 @@ body#things-to-know main {
           min-height: 0;
           text-align: left; } }
 
-<<<<<<< HEAD
-.inline-block {
-  display: inline-block; }
-
-.cf::before, .cf::after {
-  display: table;
-  content: ' ';
-  flex-basis: 0;
-  order: 1; }
-
-.cf::after {
-  clear: both; }
-=======
 body#things-to-know #question-accordion .accordion {
   background: none;
   border: 0; }
@@ -9705,4 +9220,3 @@ body#things-to-know #question-accordion .accordion {
     text-shadow: none; }
     body#things-to-know #question-accordion .accordion .accordion-item.is-active .accordion-title:hover {
       box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
->>>>>>> develop
