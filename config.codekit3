@@ -6605,6 +6605,28 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/img/index/tanspire-solution/tanspire-solution-feature-image.jpg": {
+		"ft": 16384,
+		"iS": 22538,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "/img/index/tanspire-solution/tanspire-solution-feature-image.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/index/tanspire-solution/tanspire-solution-feature-image_2x.jpg": {
+		"ft": 16384,
+		"iS": 60987,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "/img/index/tanspire-solution/tanspire-solution-feature-image_2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/img/things-to-know/splash-bg/default.jpg": {
 		"ft": 16384,
 		"iS": 97137,
@@ -6942,6 +6964,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"/scss/components/utilities/_clearfix.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/components/css/_clearfix.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"/scss/components/utilities/_flexbox.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -7107,6 +7142,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/scss/pages/css/_tanspire-level-club.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/scss/pages/index/_tanspire-tanning-solution.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/pages/css/_tanspire-tanning-solution.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
