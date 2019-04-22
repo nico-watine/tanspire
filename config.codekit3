@@ -6638,28 +6638,6 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/img/index/tanspire-solution/tanspire-solution-feature-image.jpg": {
-		"ft": 16384,
-		"iS": 22538,
-		"jF": 0,
-		"oA": 1,
-		"oAP": "/img/index/tanspire-solution/tanspire-solution-feature-image.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/img/index/tanspire-solution/tanspire-solution-feature-image_2x.jpg": {
-		"ft": 16384,
-		"iS": 60987,
-		"jF": 0,
-		"oA": 1,
-		"oAP": "/img/index/tanspire-solution/tanspire-solution-feature-image_2x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"/img/things-to-know/splash-bg/default.jpg": {
 		"ft": 16384,
 		"iS": 97137,

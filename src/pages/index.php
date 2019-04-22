@@ -195,7 +195,7 @@ body-class:
 					</div>
 					<div class="cell img-block large-6 large-order-1 align-self-top text-center">
 						<img class="show-for-large" src="/img/index/tanspire-glow-solution/tanspire-glow-solution-feature-model-large.jpg" alt="">
-						<img class="hide-for-large mb-32" src="/img/index/tanspire-solution/tanspire-solution-feature-image.jpg" alt="">
+						<img class="hide-for-large mb-32" src="/img/index/tanspire-glow-solution/tanspire-glow-solution-feature-model_2x.jpg" alt="">
 					</div>
 					<div class="cell hide-for-large">
 						<div class="callout custom-callout p-16 box-shadow-1 text-center">
