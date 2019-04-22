@@ -36,7 +36,7 @@ body-class:
 					</div>
 					<div class="cell large-6 large-order-1">
 						<div class="img-block text-center">
-							<img class="overflow-hidden mb-32" style="border-radius: 8px;" src="/img/index/tanspire-solution/tanspire-solution-feature-image.jpg" alt="">
+							<img class="overflow-hidden mb-32" style="border-radius: 8px;" src="/img/index/tanspire-glow-solution/tanspire-glow-solution-feature-model-large.jpg" alt="">
 						</div>
 					</div>
 				</div>
