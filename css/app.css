@@ -9087,9 +9087,11 @@ body#index .savingsAccordion .accordion-content {
     .price-card-grid .price-card#spire-rapid {
       margin-left: 0; } }
 
-@media screen and (max-width: 39.99875em) {
-  .tanspire-glow-solution-section .h3 {
-    font-size: 1.5625rem; } }
+.tanspire-glow-solution-section .h3 {
+  margin-bottom: 2rem; }
+  @media screen and (max-width: 39.99875em) {
+    .tanspire-glow-solution-section .h3 {
+      font-size: 1.5625rem; } }
 
 .tanspire-glow-solution-section .text-block .bounding-box {
   max-width: 27.5rem;
@@ -9100,10 +9102,6 @@ body#index .savingsAccordion .accordion-content {
   border: 0.125rem solid #88c4dc;
   max-width: 30rem;
   margin: 0 auto; }
-  @media print, screen and (min-width: 64em) {
-    .tanspire-glow-solution-section .custom-callout {
-      margin: 0;
-      display: inline-block; } }
   .tanspire-glow-solution-section .custom-callout .callout-heading {
     font-size: 1.125rem;
     max-width: 25rem; }
@@ -9117,6 +9115,15 @@ body#index .savingsAccordion .accordion-content {
     width: 200px;
     border-bottom: 4px solid #88c4dc;
     top: 50%; }
+
+@media print, screen and (min-width: 64em) {
+  .tanspire-glow-solution-section .h3 {
+    margin-bottom: 1rem; }
+  .tanspire-glow-solution-section .text-block .bounding-box {
+    margin: initial; }
+  .tanspire-glow-solution-section .custom-callout {
+    margin: 0;
+    display: inline-block; } }
 
 body#things-to-know main {
   position: relative; }

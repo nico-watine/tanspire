@@ -15,9 +15,9 @@ body-class:
 			<section class="tanspire-glow-solution-section py-40 px-8">
 				<div class="grid-x grid-padding-x align-middle">
 					<div class="cell text-block large-6 large-order-2">
-						<h3 class="h3 mb-16 title">The TanSpire Glow&nbsp;Solution</h3>
+						<h3 class="h3 title text-center large-text-left">The TanSpire Glow&nbsp;Solution</h3>
 						<div class="bounding-box">
-							<p class="lead"><strong>All Signature Tans are applied with our custom tanning&nbsp;solution.</strong></p>
+							<p class="lead"><strong>All Signature Tans are applied with our custom tanning solution.</strong></p>
 							<p><strong>We apply our own unique tanning solution, developed in-house and available exclusively for TanSpire clients.</strong> The solution is infused with naturally-rich antioxidants, nourishing your skin while providing a healthy tan that is slow-fading. This is skin treatment in a personalized airbrush&nbsp;tan.</p>
 						</div>
 						<div class="show-for-large callout custom-callout p-16 box-shadow-1 text-center">

@@ -3,6 +3,8 @@
 		@include breakpoint(small only) {
 			font-size: rem-calc(25);
 		}
+
+		margin-bottom: rem-calc(32);
 	}
 
 	.text-block {
@@ -17,11 +19,6 @@
 		border: rem-calc(2) solid #88c4dc;
 		max-width: rem-calc(480);
 		margin: 0 auto;
-
-		@include breakpoint(large) {
-			margin: 0;
-			display: inline-block;
-		}
 
 		.callout-heading {
 			font-size: rem-calc(18);
@@ -40,6 +37,23 @@
 			width: 200px;
 			border-bottom: 4px solid #88c4dc;
 			top: 50%;
+		}
+	}
+
+	@include breakpoint(large) {
+		.h3 {
+			margin-bottom: rem-calc(16);
+		}
+
+		.text-block {
+			.bounding-box {
+				margin: initial;
+			}
+		}
+
+		.custom-callout {
+			margin: 0;
+			display: inline-block;
 		}
 	}
 }
