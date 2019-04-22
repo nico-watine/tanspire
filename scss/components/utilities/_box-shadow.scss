@@ -22,34 +22,3 @@
 .box-shadow-5 {
 	box-shadow: $z-5;
 }
-
-// ---------------------------------------------------------------------- //
-
-
-.p-0 {
-	padding: 0;
-}
-
-.m-0 {
-	margin: 0;
-}
-
-.p-x {
-	padding: 0 rem-calc(20);
-}
-
-.p-y {
-	padding: rem-calc(20) 0;
-}
-
-.m-x {
-	margin: 0 rem-calc(20);
-}
-
-.m-y {
-	margin: rem-calc(20) 0;
-}
-
-.inline-block {
-	display: inline-block;
-}

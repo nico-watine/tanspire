@@ -7,7 +7,7 @@ body#index {
 				background: #f7f7f7;
 				box-shadow: $z-1;
 				min-height: 400px;
-				text-align: center;
+				// text-align: center;
 
 				@include breakpoint(medium) {
 					min-height: 0;

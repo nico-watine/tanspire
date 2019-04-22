@@ -15,7 +15,7 @@ body-class:
 	</aside>
 	<div id="logo" class="text-center absolute-wrapper">
 		<div class="vertical-wrapper">
-			<img class="p-x" src="{{ cdn }}/img/index/splash/logo/stacked/white/tanspire-logo.png" srcset="{{ cdn }}/img/index/splash/logo/stacked/white/tanspire-logo@2x.png 2x" alt="Tanspire Houston Logo">
+			<img class="mb-8 px-16" src="{{ cdn }}/img/index/splash/logo/stacked/white/tanspire-logo.png" srcset="{{ cdn }}/img/index/splash/logo/stacked/white/tanspire-logo@2x.png 2x" alt="Tanspire Houston Logo">
 			<div class="row">
 				<div class="small-6 columns" id="services" data-magellan>
 					<a href="#services-summary" class="title button">Services</a>
@@ -35,7 +35,7 @@ body-class:
 
 <main id="services-summary" data-magellan-target="services-summary">
 	<div class="outer-container">
-		<div class="inner-container m-x">
+		<div class="inner-container mx-16">
 			<!-- Tanspire Level Club Pricing Section -->
 			<section class="tanspire-level-club-section mb-40">
 				<div class="grid-x grid-padding-x">
@@ -123,12 +123,12 @@ body-class:
 					</div>
 				</div>
 			</div>
+			<!-- Single Session Pricing -->
 			<div class="row" id="welcome-text">
 				<div class="medium-10 medium-push-1 end columns vertical-wrapper">
 					<hr>
 					<div class="prose">
 						<h2>Pricing</h2>
-						<!-- SINGLE SESSION PRICING -->
 						<p class="m-0"><strong>Single Session Spray Tans</strong></p>
 						<table>
 							<thead>
@@ -166,31 +166,54 @@ body-class:
 								</tr>
 							</tbody>
 						</table>
-						<!-- All Tans Include: -->
-						<p class="m-0"><strong>All Signature Tans include the following</strong></p>
-						<table>
-							<tr>
-								<td>TanSpire<span class="tmSymbol"><small>&trade;</small></span> Exclusive Vegan Tanning Formula</td>
-							</tr>
-							<tr>
-								<td>Alcohol Free/Paraben Free/Cruelty Free Formula</td>
-							</tr>
-							<tr>
-								<td>Custom Color Mixed per Client</td>
-							</tr>
-							<tr>
-								<td>Pre-tan skin hydrating and nourishing prep spray prior to color application (typically a $5-10 up-charge at other salons)</td>
-							</tr>
-							<tr>
-								<td>Each Client is detailed with light contouring</td>
-							</tr>
-							<tr>
-								<td>Post Tan sealer is applied to ensure optimal tan development and NO CRAZY SMELL! (typically a $5 - $10 up-charge at other salons)</td>
-							</tr>
-						</table>
 					</div>
+					<hr>
 				</div>
 			</div>
+			<!-- Tanspire Glow Solution -->
+			<section class="tanspire-glow-solution-section py-40 px-8">
+				<div class="grid-x grid-padding-x align-middle">
+					<div class="cell text-block large-6 large-order-2">
+						<h3 class="h3 title text-center large-text-left">The TanSpire Glow&nbsp;Solution</h3>
+						<div class="bounding-box mb-32">
+							<p class="lead"><strong>All Signature Tans are applied with our custom tanning solution.</strong></p>
+							<p><strong>We apply our own unique tanning solution, developed in-house and available exclusively for TanSpire clients.</strong> The solution is infused with naturally-rich antioxidants, nourishing your skin while providing a healthy tan that is slow-fading. This is skin treatment in a personalized airbrush&nbsp;tan.</p>
+						</div>
+						<div class="show-for-large callout custom-callout p-16 box-shadow-1 text-center">
+							<div class="content text-left display-inline-block">
+								<p class="overflow-hidden callout-heading strong mb-8"><span>Beneficial Attributes</span></p>
+								<ul class="mb-0">
+									<li>pH Balanced for optimal color development</li>
+									<li>Provides your skin with a Vitamin E boost</li>
+									<li>Completely odorless and non-sticky</li>
+									<li>No Alcohol, No Parabens and No Formaldehyde odors</li>
+									<li>Vegan and Cruelty Free</li>
+								</ul>
+							</div>
+							<div class="cf"></div>
+						</div>
+					</div>
+					<div class="cell img-block large-6 large-order-1 align-self-top text-center">
+						<img class="show-for-large" src="/img/index/tanspire-glow-solution/tanspire-glow-solution-feature-model-large.jpg" title="TanSpire Glow Solution" alt="TanSpire Glow Solution Feature Image">
+						<img class="hide-for-large mb-32" src="/img/index/tanspire-glow-solution/tanspire-glow-solution-feature-model_2x.jpg" title="TanSpire Glow Solution" alt="TanSpire Glow Solution Feature Image">
+					</div>
+					<div class="cell hide-for-large">
+						<div class="callout custom-callout p-16 box-shadow-1 text-center">
+							<div class="content text-left display-inline-block">
+								<p class="overflow-hidden callout-heading strong mb-8"><span>Beneficial Attributes</span></p>
+								<ul class="mb-0">
+									<li>pH Balanced for optimal color development</li>
+									<li>Provides your skin with a Vitamin E boost</li>
+									<li>Completely odorless and non-sticky</li>
+									<li>No Alcohol, No Parabens and No Formaldehyde odors</li>
+									<li>Vegan and Cruelty Free</li>
+								</ul>
+							</div>
+							<div class="cf"></div>
+						</div>
+					</div>
+				</div>
+			</section>
 		</div>
 	</div>
 </main>
@@ -199,7 +222,7 @@ body-class:
 	<div id="cta-tag">
 		<div class="row">
 			<div class="small-12 columns">
-				<h2 class="title m-0">Come Get Your <span class="inline-block">Tan On!</span></h2>
+				<h2 class="title m-0">Come Get Your Tan&nbsp;On!</h2>
 			</div>
 		</div>
 	</div>
@@ -209,7 +232,7 @@ body-class:
 				<address><a href="https://goo.gl/maps/CW2Ws4mZY6E2" target="_blank">1511 N Durham Dr <br>Houston, TX 77008</a></address>
 			</div>
 		</div>
-		<div class="row p-x" id="digits-row">
+		<div class="row" id="digits-row">
 			<h4>Schedule An Appointment</h4>
 			<a data-open="booking-modal" class="title button">Book Online Now</a>
 			<!-- <a href="https://tanspire.phorest.me/book#/" target="_blank" id="book-link" class="title button">Book Online Now</a> -->

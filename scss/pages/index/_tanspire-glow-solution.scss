@@ -1,0 +1,68 @@
+.tanspire-glow-solution-section {
+	.h3 {
+		@include breakpoint(small only) {
+			font-size: rem-calc(25);
+		}
+
+		margin-bottom: rem-calc(32);
+	}
+
+	.text-block {
+		.bounding-box {
+			max-width: rem-calc(440);
+			margin: 0 auto;
+		}
+	}
+
+	.img-block {
+		img {
+			border-radius: rem-calc(8);
+		}
+
+		img.hide-for-large {
+			width: 560px;
+		}
+	}
+
+	.custom-callout {
+		border-radius: rem-calc(4);
+		border: rem-calc(2) solid #88c4dc;
+		max-width: rem-calc(480);
+		margin: 0 auto;
+
+		.callout-heading {
+			font-size: rem-calc(18);
+			max-width: rem-calc(400);
+		}
+
+		.callout-heading span {
+			display: inline-block;
+			position: relative;
+		}
+
+		.callout-heading span:after {
+			content: '';
+			position: absolute;
+			margin-left: 12px;
+			width: 200px;
+			border-bottom: 4px solid #88c4dc;
+			top: 50%;
+		}
+	}
+
+	@include breakpoint(large) {
+		.h3 {
+			margin-bottom: rem-calc(16);
+		}
+
+		.text-block {
+			.bounding-box {
+				margin: initial;
+			}
+		}
+
+		.custom-callout {
+			display: inline-block;
+		}
+	}
+}
