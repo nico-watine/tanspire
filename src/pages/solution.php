@@ -34,11 +34,9 @@ body-class:
 							<div class="cf"></div>
 						</div>
 					</div>
-					<div class="cell large-6 large-order-1 align-self-top">
-						<div class="img-block text-center mb-32">
-							<img class="show-for-large" style="border-radius: 8px;" src="/img/index/tanspire-glow-solution/tanspire-glow-solution-feature-model-large.jpg" alt="">
-							<img class="hide-for-large" style="border-radius: 8px;" src="/img/index/tanspire-solution/tanspire-solution-feature-image.jpg" alt="">
-						</div>
+					<div class="cell img-block large-6 large-order-1 align-self-top text-center mb-32">
+						<img class="show-for-large" src="/img/index/tanspire-glow-solution/tanspire-glow-solution-feature-model-large.jpg" alt="">
+						<img class="hide-for-large" src="/img/index/tanspire-solution/tanspire-solution-feature-image.jpg" alt="">
 					</div>
 					<div class="cell hide-for-large">
 						<div class="callout custom-callout p-16 box-shadow-1 text-center">

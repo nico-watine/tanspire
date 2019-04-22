@@ -9097,6 +9097,9 @@ body#index .savingsAccordion .accordion-content {
   max-width: 27.5rem;
   margin: 0 auto; }
 
+.tanspire-glow-solution-section .img-block img {
+  border-radius: 0.5rem; }
+
 .tanspire-glow-solution-section .custom-callout {
   border-radius: 0.25rem;
   border: 0.125rem solid #88c4dc;
