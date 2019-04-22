@@ -5,6 +5,13 @@
 		}
 	}
 
+	.text-block {
+		.bounding-box {
+			max-width: rem-calc(440);
+			margin: 0 auto;
+		}
+	}
+
 	.custom-callout {
 		border-radius: rem-calc(4);
 		border: rem-calc(2) solid #88c4dc;
