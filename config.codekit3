@@ -6605,6 +6605,39 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/img/index/tanspire-glow-solution/tanspire-glow-solution-feature-model-large.jpg": {
+		"ft": 16384,
+		"iS": 49536,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "/img/index/tanspire-glow-solution/tanspire-glow-solution-feature-model-large.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/index/tanspire-glow-solution/tanspire-glow-solution-feature-model.jpg": {
+		"ft": 16384,
+		"iS": 22538,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "/img/index/tanspire-glow-solution/tanspire-glow-solution-feature-model.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/index/tanspire-glow-solution/tanspire-glow-solution-feature-model_2x.jpg": {
+		"ft": 16384,
+		"iS": 60987,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "/img/index/tanspire-glow-solution/tanspire-glow-solution-feature-model_2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/img/index/tanspire-solution/tanspire-solution-feature-image.jpg": {
 		"ft": 16384,
 		"iS": 22538,
@@ -7133,6 +7166,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"/scss/pages/index/_tanspire-glow-solution.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/pages/css/_tanspire-glow-solution.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"/scss/pages/index/_tanspire-level-club.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -7142,19 +7188,6 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/scss/pages/css/_tanspire-level-club.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"/scss/pages/index/_tanspire-tanning-solution.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/scss/pages/css/_tanspire-tanning-solution.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -7218,6 +7251,14 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/src/pages/index.php",
+		"oF": 0
+		},
+	"/src/pages/solution.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/src/pages/solution.php",
 		"oF": 0
 		},
 	"/src/pages/things-to-know.php": {

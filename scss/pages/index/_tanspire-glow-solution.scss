@@ -1,7 +1,22 @@
-.tanspire-solution-section {
+.tanspire-glow-solution-section {
 	.h3 {
 		@include breakpoint(small only) {
 			font-size: rem-calc(25);
+		}
+
+		margin-bottom: rem-calc(32);
+	}
+
+	.text-block {
+		.bounding-box {
+			max-width: rem-calc(440);
+			margin: 0 auto;
+		}
+	}
+
+	.img-block {
+		img {
+			border-radius: rem-calc(8);
 		}
 	}
 
@@ -28,6 +43,23 @@
 			width: 200px;
 			border-bottom: 4px solid #88c4dc;
 			top: 50%;
+		}
+	}
+
+	@include breakpoint(large) {
+		.h3 {
+			margin-bottom: rem-calc(16);
+		}
+
+		.text-block {
+			.bounding-box {
+				margin: initial;
+			}
+		}
+
+		.custom-callout {
+			margin: 0;
+			display: inline-block;
 		}
 	}
 }
