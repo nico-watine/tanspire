@@ -7166,19 +7166,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"/scss/pages/index/_tanspire-glow-solution-large.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/scss/pages/css/_tanspire-glow-solution-large.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
 	"/scss/pages/index/_tanspire-glow-solution.scss": {
 		"aP": 0,
 		"bl": 0,

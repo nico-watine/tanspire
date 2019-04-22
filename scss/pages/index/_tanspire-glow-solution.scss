@@ -11,6 +11,11 @@
 		max-width: rem-calc(480);
 		margin: 0 auto;
 
+		@include breakpoint(large) {
+			margin: 0;
+			display: inline-block;
+		}
+
 		.callout-heading {
 			font-size: rem-calc(18);
 			max-width: rem-calc(400);

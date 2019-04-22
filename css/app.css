@@ -9088,25 +9088,24 @@ body#index .savingsAccordion .accordion-content {
       margin-left: 0; } }
 
 @media screen and (max-width: 39.99875em) {
-  .tanspire-solution-section .h3,
   .tanspire-glow-solution-section .h3 {
     font-size: 1.5625rem; } }
 
-.tanspire-solution-section .custom-callout,
 .tanspire-glow-solution-section .custom-callout {
   border-radius: 0.25rem;
   border: 0.125rem solid #88c4dc;
   max-width: 30rem;
   margin: 0 auto; }
-  .tanspire-solution-section .custom-callout .callout-heading,
+  @media print, screen and (min-width: 64em) {
+    .tanspire-glow-solution-section .custom-callout {
+      margin: 0;
+      display: inline-block; } }
   .tanspire-glow-solution-section .custom-callout .callout-heading {
     font-size: 1.125rem;
     max-width: 25rem; }
-  .tanspire-solution-section .custom-callout .callout-heading span,
   .tanspire-glow-solution-section .custom-callout .callout-heading span {
     display: inline-block;
     position: relative; }
-  .tanspire-solution-section .custom-callout .callout-heading span:after,
   .tanspire-glow-solution-section .custom-callout .callout-heading span:after {
     content: '';
     position: absolute;
@@ -9114,11 +9113,6 @@ body#index .savingsAccordion .accordion-content {
     width: 200px;
     border-bottom: 4px solid #88c4dc;
     top: 50%; }
-
-@media print, screen and (min-width: 64em) {
-  .tanspire-glow-solution-section .custom-callout {
-    margin: 0;
-    display: inline-block; } }
 
 body#things-to-know main {
   position: relative; }
