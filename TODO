@@ -17,27 +17,6 @@ Design:
 Code:
 	☐	Telephone meta tag, is it active / how does the phone number show on phones (blue highlight?)
 
-index:
-	✔	Locate/Replace .p-x @done (19-04-13 12:56)
-	✔	Locate/Replace .p-y @done (19-04-13 12:56)
-	✔	Locate/Replace .m-x @done (19-04-13 12:58)
-	✔	Locate/Replace .m-y @done (19-04-13 12:58)
-	✔	Locate/Replace .inline-block @done (19-04-13 12:59)
-FAQ:
-	✔	Locate/Replace .p-x @done (19-04-13 12:59)
-	✔	Locate/Replace .p-y @done (19-04-13 13:00)
-	✔	Locate/Replace .m-x @done (19-04-13 13:00)
-	✔	Locate/Replace .m-y @done (19-04-13 13:00)
-	✔	Locate/Replace .inline-block @done (19-04-13 13:00)
-Footer:
-	✔	Locate/Replace .p-x @done (19-04-13 13:01)
-	✔	Locate/Replace .p-y @done (19-04-13 13:01)
-	✔	Locate/Replace .m-x @done (19-04-13 13:01)
-	✔	Locate/Replace .m-y @done (19-04-13 13:01)
-	✔	Locate/Replace .inline-block @done (19-04-13 13:01)
-Header:
-	✔	Locate/Replace .p-x @done (19-04-13 13:01)
-	✔	Locate/Replace .p-y @done (19-04-13 13:01)
-	✔	Locate/Replace .m-x @done (19-04-13 13:01)
-	✔	Locate/Replace .m-y @done (19-04-13 13:01)
-	✔	Locate/Replace .inline-block @done (19-04-13 13:01)
+<<<<<<< HEAD
+Variables:
+	☐	Create font-size variables, include *-medium
