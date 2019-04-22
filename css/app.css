@@ -9100,6 +9100,9 @@ body#index .savingsAccordion .accordion-content {
 .tanspire-glow-solution-section .img-block img {
   border-radius: 0.5rem; }
 
+.tanspire-glow-solution-section .img-block img.hide-for-large {
+  width: 560px; }
+
 .tanspire-glow-solution-section .custom-callout {
   border-radius: 0.25rem;
   border: 0.125rem solid #88c4dc;

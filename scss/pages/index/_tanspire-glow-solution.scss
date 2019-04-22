@@ -18,6 +18,10 @@
 		img {
 			border-radius: rem-calc(8);
 		}
+
+		img.hide-for-large {
+			width: 560px;
+		}
 	}
 
 	.custom-callout {
