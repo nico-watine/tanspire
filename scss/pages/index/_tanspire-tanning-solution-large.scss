@@ -1,0 +1,12 @@
+@include breakpoint(large) {
+	.tanspire-glow-solution-section {
+		.bounding-box {
+			// max-width: 440px;
+		}
+
+		.custom-callout {
+			margin: 0;
+			display: inline-block;
+		}
+	}
+}

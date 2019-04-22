@@ -1,4 +1,5 @@
-.tanspire-solution-section {
+.tanspire-solution-section,
+.tanspire-glow-solution-section {
 	.h3 {
 		@include breakpoint(small only) {
 			font-size: rem-calc(25);
