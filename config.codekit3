@@ -4451,17 +4451,6 @@
 		"sC": 0,
 		"tS": 0
 		},
-	"/bower_components/jquery/src/core/isAttached.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 0,
-		"oA": 2,
-		"oAP": "/bower_components/jquery/src/core/isAttached.js",
-		"oF": 0,
-		"sC": 0,
-		"tS": 0
-		},
 	"/bower_components/jquery/src/core/nodeName.js": {
 		"bF": 0,
 		"ft": 64,
@@ -4601,17 +4590,6 @@
 		"mi": 0,
 		"oA": 2,
 		"oAP": "/bower_components/jquery/src/css/curCSS.js",
-		"oF": 0,
-		"sC": 0,
-		"tS": 0
-		},
-	"/bower_components/jquery/src/css/finalPropName.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 0,
-		"oA": 2,
-		"oAP": "/bower_components/jquery/src/css/finalPropName.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -5012,6 +4990,17 @@
 		"sC": 0,
 		"tS": 0
 		},
+	"/bower_components/jquery/src/manipulation/var/rcheckableType.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "/bower_components/jquery/src/manipulation/var/rcheckableType.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
 	"/bower_components/jquery/src/manipulation/var/rscriptType.js": {
 		"bF": 0,
 		"ft": 64,
@@ -5327,17 +5316,6 @@
 		"mi": 0,
 		"oA": 2,
 		"oAP": "/bower_components/jquery/src/var/push.js",
-		"oF": 0,
-		"sC": 0,
-		"tS": 0
-		},
-	"/bower_components/jquery/src/var/rcheckableType.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 0,
-		"oA": 2,
-		"oAP": "/bower_components/jquery/src/var/rcheckableType.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
