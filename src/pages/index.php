@@ -59,7 +59,7 @@ body-class:
 								</div>
 							</div>
 							<div class="footer">
-								<p class="p m-0 lead"><strong>$29.95/mo</strong></p>
+								<p class="p m-0 lead"><strong>$49.95/mo</strong></p>
 							</div>
 						</div>
 					</div>
@@ -75,7 +75,7 @@ body-class:
 								</div>
 							</div>
 							<div class="footer">
-								<p class="p m-0 lead"><strong>$39.95/mo</strong></p>
+								<p class="p m-0 lead"><strong>$59.95/mo</strong></p>
 							</div>
 						</div>
 					</div>
@@ -91,7 +91,7 @@ body-class:
 								</div>
 							</div>
 							<div class="footer">
-								<p class="p m-0 lead"><strong>$49.95/mo</strong></p>
+								<p class="p m-0 lead"><strong>$69.95/mo</strong></p>
 							</div>
 						</div>
 					</div>
@@ -107,7 +107,7 @@ body-class:
 								</div>
 							</div>
 							<div class="footer">
-								<p class="p m-0 lead"><strong>$69.95/mo</strong></p>
+								<p class="p m-0 lead"><strong>$79.95/mo</strong></p>
 							</div>
 						</div>
 					</div>
