@@ -1,3 +1,4 @@
+$minWidth-500: "only screen and (min-width : 500px)";
 $min-height-500: '(min-height : 31.250em)';
 $max-height-500: '(max-height : 31.250em)';
 $min-height-600: '(min-height : 37.500em)';
@@ -15,6 +16,10 @@ body#index {
 		overflow: hidden;
 		position: relative;
 		box-shadow: $z-2;
+
+		@media #{$minWidth-500} {
+			min-height: rem-calc(730);
+		}
 
 		@media screen and #{breakpoint(medium)} and #{$max-height-600} {
 			min-height: rem-calc(600);
