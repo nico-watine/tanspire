@@ -25,6 +25,17 @@
 		"oAP": "/.gitignore",
 		"oF": 0
 		},
+	"/_ignores/codekit-icon.png": {
+		"ft": 32768,
+		"iS": 141256,
+		"oA": 1,
+		"oAP": "/_ignores/codekit-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/_ignores/htaccess-https.txt": {
 		"cB": 0,
 		"ft": 8192,
@@ -7296,8 +7307,8 @@
 	"creationDate": 519840819,
 	"displayValue": "tanspire",
 	"displayValueWasSetByUser": 1,
-	"iconImageName": "/assets/apple-touch-icon.png",
-	"iconImageWasSetByUser": 0
+	"iconImageName": "/_ignores/codekit-icon.png",
+	"iconImageWasSetByUser": 1
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
