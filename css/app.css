@@ -9040,13 +9040,15 @@ body#index .savingsAccordion .accordion-content {
     .price-card-grid .price-card .footer {
       padding: 0.75rem 0.5rem;
       background: #88c4dc;
-      color: #fff; }
+      color: #fff;
+      font-weight: normal; }
     .price-card-grid .price-card .h4 {
       font-size: 1.5625rem; }
     .price-card-grid .price-card .p {
       font-size: 1.125rem; }
     .price-card-grid .price-card .p.lead {
-      font-size: 1.40625rem; }
+      font-size: 1.40625rem;
+      line-height: 1.25; }
   @media print, screen and (min-width: 40em) {
     .price-card-grid #spire-light.price-card,
     .price-card-grid #spire-dark.price-card {

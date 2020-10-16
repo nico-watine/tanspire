@@ -60,6 +60,7 @@ body-class:
 							</div>
 							<div class="footer">
 								<p class="p m-0 lead"><strong>$49.95/mo</strong></p>
+								<p class="m-0">$30 Sign-up</p>
 							</div>
 						</div>
 					</div>
@@ -76,6 +77,7 @@ body-class:
 							</div>
 							<div class="footer">
 								<p class="p m-0 lead"><strong>$59.95/mo</strong></p>
+								<p class="m-0">$30 Sign-up</p>
 							</div>
 						</div>
 					</div>
@@ -92,6 +94,7 @@ body-class:
 							</div>
 							<div class="footer">
 								<p class="p m-0 lead"><strong>$69.95/mo</strong></p>
+								<p class="m-0">$30 Sign-up</p>
 							</div>
 						</div>
 					</div>
@@ -108,6 +111,7 @@ body-class:
 							</div>
 							<div class="footer">
 								<p class="p m-0 lead"><strong>$79.95/mo</strong></p>
+								<p class="m-0">$19 Sign-up</p>
 							</div>
 						</div>
 					</div>
