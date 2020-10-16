@@ -24,7 +24,7 @@ body-class:
 					<a href="/things-to-know" class="title button">FAQ</a>
 				</div>
 				<div class="medium-4 columns medium-text-left">
-					<a href="/things-to-know" class="title button">Shop</a>
+					<a href="http://tanspiretx.tan-link.com/shop/" class="title button">Shop</a>
 				</div>
 			</div>
 		</div>
