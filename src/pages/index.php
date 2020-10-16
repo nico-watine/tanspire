@@ -42,7 +42,8 @@ body-class:
 					<div class="cell intro-prose py-40">
 						<h1 class="title text-center mb-16">Tanspire Level&nbsp;Club</h1>
 						<div class="prose-wrap text-left">
-							<p class="m-0">The lowest-priced way to tan is always our <strong>TS&nbsp;Level&nbsp;Club&nbsp;membership</strong>. <br>For only a <span data-tooltip aria-haspopup="true" class="has-tip" tabindex="1" title="Pay $45 for the first month, and the subscription rate every month after." data-position="top" data-alignment="center">1-time fee of $45</span>, enjoy monthly unlimited tanning with beautiful&nbsp;benefits. <br><strong>Limited time only!</strong></p>
+							<!-- <p class="m-0">The lowest-priced way to tan is always our <strong>TS&nbsp;Level&nbsp;Club&nbsp;membership</strong>. <br>For only a <span data-tooltip aria-haspopup="true" class="has-tip" tabindex="1" title="Pay $45 for the first month, and the subscription rate every month after." data-position="top" data-alignment="center">1-time fee of $45</span>, enjoy monthly unlimited tanning with beautiful&nbsp;benefits. <br><strong>Limited time only!</strong></p> -->
+							<p class="m-0">The lowest-priced way to tan is always our <strong>TS&nbsp;Level&nbsp;Club&nbsp;membership</strong>. We have no commitment contracts, and you can freeze or cancel your membership at any time.</p>
 						</div>
 					</div>
 				</div>
@@ -60,6 +61,7 @@ body-class:
 							</div>
 							<div class="footer">
 								<p class="p m-0 lead"><strong>$49.95/mo</strong></p>
+								<p class="m-0">$30 Sign-up</p>
 							</div>
 						</div>
 					</div>
@@ -76,6 +78,7 @@ body-class:
 							</div>
 							<div class="footer">
 								<p class="p m-0 lead"><strong>$59.95/mo</strong></p>
+								<p class="m-0">$30 Sign-up</p>
 							</div>
 						</div>
 					</div>
@@ -92,6 +95,7 @@ body-class:
 							</div>
 							<div class="footer">
 								<p class="p m-0 lead"><strong>$69.95/mo</strong></p>
+								<p class="m-0">$30 Sign-up</p>
 							</div>
 						</div>
 					</div>
@@ -108,6 +112,7 @@ body-class:
 							</div>
 							<div class="footer">
 								<p class="p m-0 lead"><strong>$79.95/mo</strong></p>
+								<p class="m-0">$19 Sign-up</p>
 							</div>
 						</div>
 					</div>
