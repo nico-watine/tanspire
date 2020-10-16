@@ -124,7 +124,8 @@ body-class:
 					<hr>
 					<div class="prose">
 						<p style="font-size: 18px;"><strong>Schedule an appointment online.</strong></p>
-						<a style="font-size: 30px;" data-open="booking-modal" class="white-booking-button title button">Book Now</a>
+						<!-- <a style="font-size: 30px;" data-open="booking-modal" class="white-booking-button title button">Book Now</a> -->
+						<a href="https://tanspiretx.tan-link.com/appt.php" style="font-size: 30px;" class="white-booking-button title button">Book Now</a>
 					</div>
 				</div>
 			</div>
@@ -239,7 +240,8 @@ body-class:
 		</div>
 		<div class="row" id="digits-row">
 			<h4>Schedule An Appointment</h4>
-			<a data-open="booking-modal" class="title button">Book Online Now</a>
+			<!-- <a data-open="booking-modal" class="title button">Book Online Now</a> -->
+			<a href="https://tanspiretx.tan-link.com/appt.php" class="title button">Book Online Now</a>
 			<!-- <a href="https://tanspire.phorest.me/book#/" target="_blank" id="book-link" class="title button">Book Online Now</a> -->
 			<p><a href="mailto:info@tanspire.com" class="email">info@tanspire.com</a></p>
 			<p>713-955-1232</p>
