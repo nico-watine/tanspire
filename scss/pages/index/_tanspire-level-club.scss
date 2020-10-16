@@ -39,6 +39,7 @@
 			padding: rem-calc(12) rem-calc(8);
 			background: #88c4dc;
 			color: #fff;
+			font-weight: normal;
 		}
 
 		.h4 {
@@ -51,6 +52,7 @@
 
 		.p.lead {
 			font-size: rem-calc(18) * 1.25;
+			line-height: 1.25;
 		}
 	}
 
