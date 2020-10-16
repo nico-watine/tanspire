@@ -17,11 +17,14 @@ body-class:
 		<div class="vertical-wrapper">
 			<img class="mb-8 px-16" src="{{ cdn }}/img/index/splash/logo/stacked/white/tanspire-logo.png" srcset="{{ cdn }}/img/index/splash/logo/stacked/white/tanspire-logo@2x.png 2x" alt="Tanspire Houston Logo">
 			<div class="row">
-				<div class="small-6 columns" id="services" data-magellan>
+				<div class="medium-4 columns" id="" data-magellan>
 					<a href="#services-summary" class="title button">Services</a>
 				</div>
-				<div class="small-6 columns" id="faq">
+				<div class="medium-4 columns" id="">
 					<a href="/things-to-know" class="title button">FAQ</a>
+				</div>
+				<div class="medium-4 columns">
+					<a href="/things-to-know" class="title button">Shop</a>
 				</div>
 			</div>
 		</div>
