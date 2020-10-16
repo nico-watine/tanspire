@@ -236,7 +236,7 @@ body-class:
 			<h4>Schedule An Appointment</h4>
 			<a data-open="booking-modal" class="title button">Book Online Now</a>
 			<!-- <a href="https://tanspire.phorest.me/book#/" target="_blank" id="book-link" class="title button">Book Online Now</a> -->
-			<p><a href="mailto:tanspirehouston@gmail.com" class="email">tanspirehouston<span>@gmail.com</span></a></p>
+			<p><a href="mailto:info@tanspire.com" class="email">info@tanspire.com</a></p>
 			<p>713-955-1232</p>
 		</div>
 	</div>
