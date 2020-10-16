@@ -8912,8 +8912,6 @@ body#index section.contact-banner {
         font-size: 2.5rem; }
       body#index section.contact-banner #contact-deets #digits-row.row a.title.button, body#index section.contact-banner #contact-deets #digits-row.row header a#mobile-menu.button, header body#index section.contact-banner #contact-deets #digits-row.row a#mobile-menu.button {
         font-size: 1.9375rem; }
-      body#index section.contact-banner #contact-deets #digits-row.row p a span {
-        display: initial; }
       body#index section.contact-banner #contact-deets #digits-row.row p a:hover {
         text-decoration: underline; } }
 #booking-modal {
