@@ -13,15 +13,18 @@ body-class:
 		<address><a href="https://goo.gl/maps/CW2Ws4mZY6E2" target="_blank">1511 N Durham Dr <br>Houston, TX 77008</a></address>
 		<span id="phone">713-955-1232</span>
 	</aside>
-	<div id="logo" class="text-center absolute-wrapper">
+	<div id="logo" class=" text-center absolute-wrapper">
 		<div class="vertical-wrapper">
 			<img class="mb-8 px-16" src="{{ cdn }}/img/index/splash/logo/stacked/white/tanspire-logo.png" srcset="{{ cdn }}/img/index/splash/logo/stacked/white/tanspire-logo@2x.png 2x" alt="Tanspire Houston Logo">
 			<div class="row">
-				<div class="small-6 columns" id="services" data-magellan>
+				<div class="medium-4 columns medium-text-right" data-magellan>
 					<a href="#services-summary" class="title button">Services</a>
 				</div>
-				<div class="small-6 columns" id="faq">
+				<div class="medium-4 columns">
 					<a href="/things-to-know" class="title button">FAQ</a>
+				</div>
+				<div class="medium-4 columns medium-text-left">
+					<a href="http://tanspiretx.tan-link.com/shop/" class="title button">Shop</a>
 				</div>
 			</div>
 		</div>
