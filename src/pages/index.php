@@ -245,9 +245,9 @@ body-class:
 		</div>
 		<div class="row" id="digits-row">
 			<h4>Schedule An Appointment</h4>
-			<!-- <a data-open="booking-modal" class="title button">Book Online Now</a> -->
 			<a href="http://tanspiretx.tan-link.com/shop/" class="title button">Shop Services</a><br>
-			<a href="https://tanspiretx.tan-link.com/appt.php" class="title button">Book Now</a>
+			<a data-open="booking-modal" class="title button">Book Now</a>
+			<!-- <a href="https://tanspiretx.tan-link.com/appt.php" class="title button">Book Now</a> -->
 			<!-- <a href="https://tanspire.phorest.me/book#/" target="_blank" id="book-link" class="title button">Book Online Now</a> -->
 			<p><a href="mailto:info@tanspire.com" class="email">info@tanspire.com</a></p>
 			<p>713-955-1232</p>
@@ -274,12 +274,12 @@ body-class:
 			</div>
 		</li>
 	</ul>
-	<h2>New Customers</h2>
-	<p>If you have never booked with us before, please read and sign our digital Consent Waiver prior to scheduling your appointment.</p>
-	<a href="https://www.smartwaiver.com/v/tanspirehouston/" target="_blank" class="title button" id="waiver">View Digital Consent Waiver</a>
-	<h2>Returning Customers</h2>
-	<p>If you are a returning customer and have already signed our Consent Waiver, schedule your appointment now!</p>
-	<a href="https://tanspire.phorest.me/book#/" target="_blank" class="title button" id="book">Book Online Now</a>
+	<!-- <h2>New Customers</h2> -->
+	<!-- <p>If you have never booked with us before, please read and sign our digital Consent Waiver prior to scheduling your appointment.</p> -->
+	<!-- <a href="https://www.smartwaiver.com/v/tanspirehouston/" target="_blank" class="title button" id="waiver">View Digital Consent Waiver</a> -->
+	<!-- <h2>Returning Customers</h2> -->
+	<!-- <p>If you are a returning customer and have already signed our Consent Waiver, schedule your appointment now!</p> -->
+	<a href="https://tanspiretx.tan-link.com/appt.php" class="title button" id="book">Book Online Now</a>
 
 	<button class="close-button" data-close aria-label="Close modal" type="button">
 		<span aria-hidden="true">&times;</span>
