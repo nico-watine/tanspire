@@ -130,7 +130,8 @@ body-class:
 						<!-- <a style="font-size: 30px;" data-open="booking-modal" class="white-booking-button title button">Book Now</a> -->
 						<br>
 						<a href="http://tanspiretx.tan-link.com/shop/" style="font-size: 30px;" class="white-booking-button title button">Shop Services</a><br>
-						<a href="https://tanspiretx.tan-link.com/appt.php" style="font-size: 30px;" class="white-booking-button title button">Book Now</a>
+						<a style="font-size: 30px;" data-open="booking-modal" class="white-booking-button title button">Book Now</a>
+						<!-- <a href="https://tanspiretx.tan-link.com/appt.php" style="font-size: 30px;" class="white-booking-button title button">Book Now</a> -->
 					</div>
 				</div>
 			</div>
