@@ -46,24 +46,41 @@ body-class:
 						<h1 class="title text-center mb-16">Tanspire Level&nbsp;Club</h1>
 						<div class="prose-wrap text-left">
 							<!-- <p class="m-0">The lowest-priced way to tan is always our <strong>TS&nbsp;Level&nbsp;Club&nbsp;membership</strong>. <br>For only a <span data-tooltip aria-haspopup="true" class="has-tip" tabindex="1" title="Pay $45 for the first month, and the subscription rate every month after." data-position="top" data-alignment="center">1-time fee of $45</span>, enjoy monthly unlimited tanning with beautiful&nbsp;benefits. <br><strong>Limited time only!</strong></p> -->
-							<p class="m-0">The lowest-priced way to tan is always our <strong>TS&nbsp;Level&nbsp;Club&nbsp;membership</strong>. We have no commitment contracts, and you can freeze or cancel your membership at any time.</p>
+							<p class="m-0">The lowest-priced way to tan is always our <strong>TS&nbsp;Level&nbsp;Club&nbsp;membership</strong>. There are no commitment contracts, and you can freeze or cancel your membership at any time. <strong>We are by appointment only.</strong></p>
 						</div>
 					</div>
 				</div>
 				<div class="grid-x grid-padding-x price-card-grid">
 					<div class="medium-6 large-3 cell">
-						<div class="price-card box-shadow-1" id="spire-light">
+						<div class="price-card box-shadow-1" id="spire-rapid">
 							<div class="header text-uppercase">
-								<h4 class="h4 body-font m-0">Spire <span class="strong">Light</span></h4>
-								<h6 class="body-font m-0">Level 1</h6>
+								<h4 class="h4 body-font m-0">Spire <span class="strong">Rapid</span></h4>
+								<h6 class="body-font m-0">Ambassador's Club</h6>
 							</div>
 							<div class="body grid-x align-middle px-8">
 								<div class="cell">
-									<p class="p m-0">1 – 3 Shades darker than your natural skin tone</p>
+									<p class="p m-0">Unlimited VIP quality spray&nbsp;tans <br>Bring a friend for Level 1! <br>25% off all products</p>
 								</div>
 							</div>
 							<div class="footer">
-								<p class="p m-0 lead"><strong>$49.95/mo</strong></p>
+								<p class="p m-0 lead"><strong>$79.95/mo</strong></p>
+								<p class="m-0">$19 Sign-up</p>
+							</div>
+						</div>
+					</div>
+					<div class="medium-6 large-3 cell">
+						<div class="price-card box-shadow-1" id="spire-dark">
+							<div class="header text-uppercase">
+								<h4 class="h4 body-font m-0">Spire <span class="strong">Dark</span></h4>
+								<h6 class="body-font m-0">Level 3</h6>
+							</div>
+							<div class="body grid-x align-middle px-8">
+								<div class="cell">
+									<p class="p m-0">3 – 5 Shades darker than your natural skin tone</p>
+								</div>
+							</div>
+							<div class="footer">
+								<p class="p m-0 lead"><strong>$69.95/mo</strong></p>
 								<p class="m-0">$30 Sign-up</p>
 							</div>
 						</div>
@@ -86,36 +103,19 @@ body-class:
 						</div>
 					</div>
 					<div class="medium-6 large-3 cell">
-						<div class="price-card box-shadow-1" id="spire-dark">
+						<div class="price-card box-shadow-1" id="spire-light">
 							<div class="header text-uppercase">
-								<h4 class="h4 body-font m-0">Spire <span class="strong">Dark</span></h4>
-								<h6 class="body-font m-0">Level 3</h6>
+								<h4 class="h4 body-font m-0">Spire <span class="strong">Light</span></h4>
+								<h6 class="body-font m-0">Level 1</h6>
 							</div>
 							<div class="body grid-x align-middle px-8">
 								<div class="cell">
-									<p class="p m-0">3 – 5 Shades darker than your natural skin tone</p>
+									<p class="p m-0">1 – 3 Shades darker than your natural skin tone</p>
 								</div>
 							</div>
 							<div class="footer">
-								<p class="p m-0 lead"><strong>$69.95/mo</strong></p>
+								<p class="p m-0 lead"><strong>$49.95/mo</strong></p>
 								<p class="m-0">$30 Sign-up</p>
-							</div>
-						</div>
-					</div>
-					<div class="medium-6 large-3 cell">
-						<div class="price-card box-shadow-1" id="spire-rapid">
-							<div class="header text-uppercase">
-								<h4 class="h4 body-font m-0">Spire <span class="strong">Rapid</span></h4>
-								<h6 class="body-font m-0">Ambassador's Club</h6>
-							</div>
-							<div class="body grid-x align-middle px-8">
-								<div class="cell">
-									<p class="p m-0">Unlimited VIP quality spray&nbsp;tans <br>Bring a friend for Level 1! <br>25% off all products</p>
-								</div>
-							</div>
-							<div class="footer">
-								<p class="p m-0 lead"><strong>$79.95/mo</strong></p>
-								<p class="m-0">$19 Sign-up</p>
 							</div>
 						</div>
 					</div>
@@ -157,7 +157,7 @@ body-class:
 								</tr>
 								<tr>
 									<td><strong>Signature Rapid Rinse</strong></td>
-									<td>Standard full-body session. Rinse solution in 3-6 hours as directed by your spray tan specialist. <span data-tooltip aria-haspopup="true" class="has-tip" data-disable-hover="false" tabindex="1" title="Please Note - Actual tan does not develop any quicker than with a standard solution. It will still take 18-24 hours for the color to fully develop, you will simply be able to shower off the solution quicker than you can with a standard solution.">*Note*</span></td>
+									<td>Standard full-body session. Rinse solution in 2-4 hours as directed by your spray tan specialist. <span data-tooltip aria-haspopup="true" class="has-tip" data-disable-hover="false" tabindex="1" title="Please Note - Actual tan does not develop any quicker than with a standard solution. It will still take 18-24 hours for the color to fully develop, you will simply be able to shower off the solution quicker than you can with a standard solution.">*Note*</span></td>
 									<td>$65</td>
 								</tr>
 								<tr>
