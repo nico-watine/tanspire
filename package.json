@@ -1,6 +1,6 @@
 {
-  "name": "zurb-f6-boilerplate-yarn",
-  "description": "macOS-optimized boilerplate built on ZURB's 'Advanced' Foundation 6 framework and for use with Yarn",
+  "name": "tanspire-yarn",
+  "description": "Repo for tanspire.com, this one built with Yarn",
   "scripts": {
     "start": "gulp",
     "build": "gulp build --production"
@@ -25,7 +25,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nico-watine/zurb-f6-boilerplate-yarn"
+    "url": "https://github.com/nico-watine/tanspire-yarn.git"
   },
   "babel": {
     "presets": [
