@@ -9,6 +9,14 @@
   ],
   "creatorBuild" : "34127",
   "files" : {
+    "\/_ignores\/appointment-iframe.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/_ignores\/appointment-iframe.html",
+      "oF" : 0
+    },
     "\/_ignores\/autoprefixer-browser-string.txt" : {
       "cB" : 0,
       "ft" : 8192,
@@ -30,12 +38,44 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/_ignores\/htaccess-https.txt" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/_ignores\/htaccess-https.txt",
+      "oF" : 0
+    },
     "\/_ignores\/htaccess\/force-https.txt" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 2,
       "oAP" : "\/_ignores\/htaccess\/force-https.txt",
+      "oF" : 0
+    },
+    "\/_ignores\/new-pricing-message.txt" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/_ignores\/new-pricing-message.txt",
+      "oF" : 0
+    },
+    "\/_ignores\/socialMediaLinks.txt" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/_ignores\/socialMediaLinks.txt",
+      "oF" : 0
+    },
+    "\/_ignores\/tanspireBAK.zip" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/_ignores\/tanspireBAK.zip",
       "oF" : 0
     },
     "\/.editorconfig" : {
@@ -74,7 +114,7 @@
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
-      "oA" : 0,
+      "oA" : 2,
       "oAP" : "\/assets\/403.html",
       "oF" : 0
     },
@@ -82,8 +122,102 @@
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
-      "oA" : 0,
+      "oA" : 2,
       "oAP" : "\/assets\/404.html",
+      "oF" : 0
+    },
+    "\/assets\/apple-touch-icon-76x76-precomposed.png" : {
+      "ft" : 32768,
+      "iS" : 745,
+      "oA" : 1,
+      "oAP" : "\/assets\/apple-touch-icon-76x76-precomposed.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/apple-touch-icon-120x120-precomposed.png" : {
+      "ft" : 32768,
+      "iS" : 1034,
+      "oA" : 1,
+      "oAP" : "\/assets\/apple-touch-icon-120x120-precomposed.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/apple-touch-icon-152x152-precomposed.png" : {
+      "ft" : 32768,
+      "iS" : 1303,
+      "oA" : 1,
+      "oAP" : "\/assets\/apple-touch-icon-152x152-precomposed.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/apple-touch-icon-180x180-precomposed.png" : {
+      "ft" : 32768,
+      "iS" : 1538,
+      "oA" : 1,
+      "oAP" : "\/assets\/apple-touch-icon-180x180-precomposed.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/apple-touch-icon.png" : {
+      "ft" : 32768,
+      "iS" : 1538,
+      "oA" : 1,
+      "oAP" : "\/assets\/apple-touch-icon.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/favicon.ico" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/assets\/favicon.ico",
+      "oF" : 0
+    },
+    "\/assets\/favicon.png" : {
+      "ft" : 32768,
+      "iS" : 354,
+      "oA" : 1,
+      "oAP" : "\/assets\/favicon.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/googlea536b0ce9879dae9.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/assets\/googlea536b0ce9879dae9.html",
       "oF" : 0
     },
     "\/assets\/humans.txt" : {
@@ -98,7 +232,7 @@
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
-      "oA" : 0,
+      "oA" : 2,
       "oAP" : "\/assets\/php\/autoVer.php",
       "oF" : 0
     },
@@ -109,6 +243,53 @@
       "oA" : 2,
       "oAP" : "\/assets\/robots.txt",
       "oF" : 0
+    },
+    "\/assets\/sitemap.xml" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/assets\/sitemap.xml",
+      "oF" : 0
+    },
+    "\/assets\/tile-wide.png" : {
+      "ft" : 32768,
+      "iS" : 2321,
+      "oA" : 1,
+      "oAP" : "\/assets\/tile-wide.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/tile.png" : {
+      "ft" : 32768,
+      "iS" : 4424,
+      "oA" : 1,
+      "oAP" : "\/assets\/tile.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/touch-icon-192x192.png" : {
+      "ft" : 32768,
+      "iS" : 1621,
+      "oA" : 1,
+      "oAP" : "\/assets\/touch-icon-192x192.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
     },
     "\/config.yml" : {
       "cB" : 0,
@@ -129,6 +310,84 @@
       "oAP" : "\/css\/app-min.css",
       "oF" : 0,
       "pg" : 0
+    },
+    "\/dist" : {
+      "ft" : 65536,
+      "oA" : 1,
+      "oAP" : "\/dist",
+      "oF" : 0
+    },
+    "\/fonts\/icons\/tanspire.ttf" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/fonts\/icons\/tanspire.ttf",
+      "oF" : 0
+    },
+    "\/fonts\/icons\/tanspire.woff" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/fonts\/icons\/tanspire.woff",
+      "oF" : 0
+    },
+    "\/fonts\/icons\/tanspire.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/fonts\/icons\/tanspire.woff2",
+      "oF" : 0
+    },
+    "\/fonts\/novecento\/normal\/novecento.ttf" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/fonts\/novecento\/normal\/novecento.ttf",
+      "oF" : 0
+    },
+    "\/fonts\/novecento\/normal\/novecento.woff" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/fonts\/novecento\/normal\/novecento.woff",
+      "oF" : 0
+    },
+    "\/fonts\/novecento\/normal\/novecento.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/fonts\/novecento\/normal\/novecento.woff2",
+      "oF" : 0
+    },
+    "\/fonts\/novecento\/wide\/novecento_wide-demibold.ttf" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/fonts\/novecento\/wide\/novecento_wide-demibold.ttf",
+      "oF" : 0
+    },
+    "\/fonts\/novecento\/wide\/novecento_wide-demibold.woff" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/fonts\/novecento\/wide\/novecento_wide-demibold.woff",
+      "oF" : 0
+    },
+    "\/fonts\/novecento\/wide\/novecento_wide-demibold.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/fonts\/novecento\/wide\/novecento_wide-demibold.woff2",
+      "oF" : 0
     },
     "\/gulpfile.babel.js" : {
       "bF" : 0,
