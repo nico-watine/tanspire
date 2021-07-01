@@ -70,6 +70,22 @@
       "oAP" : "\/_ignores\/socialMediaLinks.txt",
       "oF" : 0
     },
+    "\/_ignores\/tanspire-yarn.sublime-project" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/_ignores\/tanspire-yarn.sublime-project",
+      "oF" : 0
+    },
+    "\/_ignores\/tanspire-yarn.sublime-workspace" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/_ignores\/tanspire-yarn.sublime-workspace",
+      "oF" : 0
+    },
     "\/_ignores\/tanspireBAK.zip" : {
       "cB" : 0,
       "ft" : 8192,
