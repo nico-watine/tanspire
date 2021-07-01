@@ -1,0 +1,155 @@
+$minWidth-500: "only screen and (min-width : 500px)";
+$min-height-500: '(min-height : 31.250em)';
+$max-height-500: '(max-height : 31.250em)';
+$min-height-600: '(min-height : 37.500em)';
+$max-height-600: '(max-height : 37.500em)';
+
+body#index {
+	height: 100%;
+
+	section.splash {
+		width: 100%;
+		height: 100%;
+		min-height: rem-calc(500);
+		background: #fff url('#{$url}/img/index/splash/bg/tanspire-index-splash.jpg') no-repeat center top;
+		background-size: cover;
+		overflow: hidden;
+		position: relative;
+		box-shadow: $z-2;
+
+		@media #{$minWidth-500} {
+			min-height: rem-calc(730);
+		}
+
+		@media screen and #{breakpoint(medium)} and #{$max-height-600} {
+			min-height: rem-calc(600);
+		}
+
+		aside {
+			padding: rem-calc(25) rem-calc(30) 0;
+			position: absolute;
+			z-index: 20;
+			top: 0;
+			left: 0;
+			margin-bottom: rem-calc(40);
+			color: #000;
+			width: 100%;
+			font-size: rem-calc(28);
+			letter-spacing: rem-calc(1.5);
+
+			address {
+				display: inline-block;
+
+				a {
+					color: #000;
+					&:hover {
+						text-decoration: underline;
+					}
+				}
+			}
+
+			#phone {
+				float: right;
+			}
+
+			@include breakpoint(small only) {
+				padding: rem-calc(18) 0 0;
+				font-size: rem-calc(18);
+				text-align: center;
+
+				address {
+					display: block;
+					margin-bottom: rem-calc(8);
+				}
+
+				#phone {
+					float: none;
+				}
+			}
+		}
+	}
+}
+
+.absolute-wrapper {
+	position: absolute;
+	width: 100%;
+	left: 0;
+	top: 0;
+	height: 100%;
+
+	@media screen and #{breakpoint(medium)} and #{$min-height-600} {
+		.vertical-wrapper {
+			width: 100%;
+			@include vertical-center;
+		}
+	}
+}
+
+.absolute-wrapper#logo {
+	z-index: 10;
+
+	a {
+		background: #fff;
+		border: rem-calc(2) solid #88c4dc;
+		box-shadow: $z-2;
+		letter-spacing: rem-calc(1.5);
+		width: rem-calc(140);
+		padding: rem-calc(16) 0;
+		border-radius: rem-calc(5);
+		color: #88c4dc;
+		font-size: rem-calc(18);
+		margin-bottom: rem-calc(28);
+
+		&:hover {
+			background: #a2d0e3;
+			box-shadow: $z-1;
+			color: #fff;
+			border: rem-calc(2) solid #fff;
+		}
+
+		@include breakpoint(medium) {
+			width: rem-calc(180);
+			font-size: rem-calc(25);
+		}
+	}
+
+	#services,
+	#faq {
+		text-align: center;
+		padding: 0;
+	}
+
+	@include breakpoint(medium) {
+		#services {
+			text-align: right;
+			padding-right: rem-calc(50);
+		}
+
+		#faq {
+			text-align: left;
+			padding-left: rem-calc(50);
+		}
+	}
+
+	@media screen and #{breakpoint(small only)} {
+		top: rem-calc(120);
+	}
+
+	@media screen and #{breakpoint(medium)} and #{$max-height-600} {
+		top: rem-calc(120);
+	}
+}
+
+.absolute-wrapper#ts-bg {
+	z-index: 5;
+
+	.vertical-wrapper {
+		width: 100%;
+		@include vertical-center;
+	}
+
+	img {
+		height: auto;
+		width: rem-calc(815);
+	}
+}

@@ -6,6 +6,11 @@ UNCSS_OPTIONS:
   ignore:
     - !!js/regexp .foundation-mq
     - !!js/regexp ^\.is-.*
+    - ".is-reveal-open"
+    - ".reveal-overlay"
+    - ".is-reveal-open .reveal-overlay"
+    - ".tooltip"
+    - "#index .tooltip"
 
 # Gulp will reference these paths when it copies files
 PATHS:
@@ -27,7 +32,7 @@ PATHS:
 
     # Core Foundation files
     - "node_modules/foundation-sites/dist/js/plugins/foundation.core.js"
-    # - "node_modules/foundation-sites/dist/js/plugins/foundation.util.*.js"
+    - "node_modules/foundation-sites/dist/js/plugins/foundation.util.*.js"
 
     # Individual util files
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.util.box.js"
@@ -42,26 +47,26 @@ PATHS:
 
     # Individual Foundation components
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.abide.js"
-    # - "node_modules/foundation-sites/dist/js/plugins/foundation.accordion.js" # keyboard
+    - "node_modules/foundation-sites/dist/js/plugins/foundation.accordion.js" # keyboard
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.accordionMenu.js" # keyboard / nest
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.drilldown.js" # box / keyboard / nest
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.dropdown.js" # box / keyboard / triggers
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.dropdownMenu.js" # box / keyboard / nest
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.equalizer.js" # imageLoader / mediaQuery
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.interchange.js" # mediaQuery
-    # - "node_modules/foundation-sites/dist/js/plugins/foundation.smoothScroll.js"
-    # - "node_modules/foundation-sites/dist/js/plugins/foundation.magellan.js" # smoothScroll
+    - "node_modules/foundation-sites/dist/js/plugins/foundation.smoothScroll.js"
+    - "node_modules/foundation-sites/dist/js/plugins/foundation.magellan.js" # smoothScroll
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.offcanvas.js" # keyboard / mediaQuery / triggers
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.orbit.js" # imageLoader / keyboard / motion / timer / touch
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.responsiveAccordionTabs.js" # accordion / motion / tabs
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.responsiveMenu.js" # mediaQuery / triggers
-    # - "node_modules/foundation-sites/dist/js/plugins/foundation.responsiveToggle.js" # mediaQuery / motion
-    # - "node_modules/foundation-sites/dist/js/plugins/foundation.reveal.js" # keyboard / mediaQuery / motion / triggers
+    - "node_modules/foundation-sites/dist/js/plugins/foundation.responsiveToggle.js" # mediaQuery / motion
+    - "node_modules/foundation-sites/dist/js/plugins/foundation.reveal.js" # keyboard / mediaQuery / motion / triggers
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.slider.js" # keyboard / motion / touch / triggers
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.sticky.js" # mediaQuery / triggers
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.tabs.js" # imageLoader / keyboard
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.toggler.js" # motion / triggers
-    # - "node_modules/foundation-sites/dist/js/plugins/foundation.tooltip.js" # box / mediaQuery / triggers
+    - "node_modules/foundation-sites/dist/js/plugins/foundation.tooltip.js" # box / mediaQuery / triggers
 
     # Main JS file (imports everything above)
     - "js/app-min.js"

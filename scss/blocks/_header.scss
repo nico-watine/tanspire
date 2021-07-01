@@ -1,0 +1,147 @@
+header {
+	box-shadow: $z-2;
+
+	.contact-info {
+		padding: 0 rem-calc(40);
+		background: #2a2a2a;
+		color: #fff;
+		font-size: rem-calc(16);
+		line-height: rem-calc(28);
+
+		address {
+			display: inline-block;
+
+			a {
+				color: #fff;
+
+				&:hover {
+					color: #fff;
+					text-decoration: underline;
+				}
+			}
+		}
+
+		span.phone {
+			float: right;
+		}
+	}
+
+	.logo-container {
+		padding: rem-calc(24);
+		background: #fcfcfc url('#{$url}/img/header/golf-foil-bg/default.jpg') no-repeat left top;
+		background-size: cover;
+		position: relative;
+		text-align: center;
+
+		@include breakpoint(medium) {
+			text-align: left;
+			padding-top: 0;
+			padding-bottom: 0;
+			padding-right: rem-calc(40);
+
+			img {
+				position: relative;
+				z-index: 5;
+			}
+		}
+
+		@include breakpoint(large) {
+			padding-left: rem-calc(40) !important;
+			line-height: rem-calc(125);
+		}
+
+		.white-gradient {
+			background: linear-gradient(-90deg, #fff 0%, rgba(255,255,255,.00) 50%);
+			width: 30%;
+			height: 100%;
+			position: absolute;
+			z-index: 0;
+			right: 0;
+			top: 0;
+		}
+	}
+
+	.nav-container {
+		padding-right: rem-calc(20);
+		background: #fff;
+
+		@include breakpoint(large) {
+			padding-right: rem-calc(40) !important;
+		}
+	}
+
+	ul.menu {
+		float: right;
+
+		li {
+			padding: 0 rem-calc(16);
+
+			a {
+				color: #000;
+				font-size: rem-calc(25);
+				padding: 0;
+
+				&:hover {
+					text-decoration: underline;
+				}
+			}
+
+			a.active {
+				text-decoration: underline;
+			}
+		}
+	}
+
+	.title-bar {
+		padding: rem-calc(8);
+
+		.menu-icon {
+			height: rem-calc(37);
+		}
+
+		.menu-icon::after {
+			top: 26%;
+		}
+
+		.title-bar-title {
+			line-height: rem-calc(37);
+			font-size: rem-calc(25);
+		}
+
+		a {
+			i {
+				font-size: rem-calc(32);
+				color: #fff;
+			}
+		}
+	}
+
+	#mobile-menu {
+		@extend .title;
+		padding: 0;
+
+		ul {
+			width: 100%;
+			padding: 0;
+			background: #fff;
+
+			li {
+				height: auto;
+				border-bottom: rem-calc(2) solid #000;
+
+				a {
+					line-height: rem-calc(46);
+				}
+			}
+
+			li.active {
+				background: #88c4dc;
+
+				a {
+					background: #88c4dc;
+					color: #fff;
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,65 @@
+@import 'typography/_fonts.scss';
+@import 'typography/_icon-font.scss';
+
+.body-font {
+	font-family: $custom-body-font;
+}
+
+.title {
+	font-family: $custom-title-font;
+	font-weight: $custom-title-font-weight;
+	letter-spacing: rem-calc(1);
+}
+
+.heading {
+	font-family: $custom-heading-font;
+	font-weight: $custom-heading-font-weight;
+	letter-spacing: rem-calc(1.5);
+}
+
+address {
+	font-style: normal;
+}
+
+a.white-booking-button {
+	background: #fff;
+	border: rem-calc(2) solid #88c4dc;
+	box-shadow: $z-2;
+	letter-spacing: rem-calc(1.5);
+	padding: rem-calc(16) rem-calc(30);
+	border-radius: rem-calc(5);
+	color: #88c4dc;
+	// font-size: rem-calc(18);
+	margin-bottom: rem-calc(28);
+
+	&:hover {
+		background: #a2d0e3;
+		box-shadow: $z-1;
+		color: #fff;
+		border: rem-calc(2) solid #fff;
+	}
+
+	@include breakpoint(medium) {
+		font-size: rem-calc(31);
+	}
+}
+
+.tmSymbol {
+	font-family: $body-font-family;
+	font-weight: 300;
+	vertical-align: super;
+}
+
+h1 {
+	.tmSymbol {
+		font-size: rem-calc(14);
+
+		@include breakpoint(medium) {
+			font-size: rem-calc(24);
+		}
+	}
+}
+
+.strong {
+	font-weight: 700;
+}

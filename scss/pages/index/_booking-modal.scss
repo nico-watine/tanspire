@@ -1,0 +1,101 @@
+#booking-modal {
+	background: #fff;
+	box-shadow: $z-4;
+	border-radius: rem-calc(7);
+
+	h2 {
+		font-size: rem-calc(32);
+	}
+
+	p {
+		font-size: rem-calc(20);
+		line-height: 1.3;
+		margin-bottom: rem-calc(26);
+	}
+
+	p#payment-note {
+		font-size: rem-calc(20);
+		margin-bottom: rem-calc(20);
+	}
+
+	a {
+		background: #a2d0e3;
+		box-shadow: $z-2;
+		color: #fff;
+		border: rem-calc(2) solid #fff;
+		padding: rem-calc(12) rem-calc(20);
+		border-radius: rem-calc(5);
+		font-size: rem-calc(20);
+		line-height: 1.1;
+
+		&:hover {
+			background: #fff;
+			border: rem-calc(2) solid #88c4dc;
+			box-shadow: $z-1;
+			color: #88c4dc;
+		}
+	}
+
+	a#waiver {
+		margin-bottom: rem-calc(50);
+	}
+
+	button.close-button {
+		color: #000;
+
+		span {
+			font-size: rem-calc(46);
+		}
+	}
+
+	@include breakpoint(medium) {
+		width: rem-calc(770);
+		max-width: 95%;
+		padding: rem-calc(40);
+
+		p {
+			font-size: rem-calc(26);
+		}
+
+		a {
+			font-size: rem-calc(24);
+			padding: rem-calc(16) rem-calc(30);
+			line-height: 1;
+		}
+	}
+}
+
+#booking-modal {
+	.cancellationAccordion {
+		margin-top: rem-calc(20);
+
+		.accordion-title {
+			font-size: rem-calc(18);
+			font-weight: 400;
+			border: rem-calc(2) solid #95c3d6;
+			border-radius: rem-calc(2);
+			color: #000;
+			background: #fff;
+			box-shadow: none;
+			text-decoration: underline;
+
+			&:hover,
+			&:focus {
+				box-shadow: $z-1;
+			}
+
+			&::before {
+				font-size: rem-calc(40);
+				top: 0;
+				margin-top: rem-calc(6);
+			}
+		}
+
+		.accordion-content {
+			p {
+				font-size: rem-calc(16);
+				line-height: 1.6;
+			}
+		}
+	}
+}
