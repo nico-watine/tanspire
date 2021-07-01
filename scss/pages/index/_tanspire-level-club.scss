@@ -1,0 +1,70 @@
+.intro-prose {
+	.prose-wrap {
+		max-width: rem-calc(300);
+		margin: 0 auto;
+		width: 100%;
+
+		@include breakpoint(medium) {
+			max-width: rem-calc(520);
+
+			p {
+				font-size: rem-calc(18);
+			}
+		}
+	}
+}
+
+.price-card-grid {
+	text-align: center;
+
+	.price-card {
+		border-radius: rem-calc(4);
+		overflow: hidden;
+		text-align: center;
+		max-width: rem-calc(280);
+		width: 100%;
+		margin: 0 auto rem-calc(32);
+
+		.header {
+			background: transparent url('/img/assets/bg/gold-foil/small/gold-foil.jpg') center/cover no-repeat;
+			padding: rem-calc(16) rem-calc(8);
+		}
+
+		.body {
+			height: rem-calc(130);
+			background: #fff;
+		}
+
+		.footer {
+			padding: rem-calc(12) rem-calc(8);
+			background: #88c4dc;
+			color: #fff;
+			font-weight: normal;
+		}
+
+		.h4 {
+			font-size: rem-calc(25);
+		}
+
+		.p {
+			font-size: rem-calc(18);
+		}
+
+		.p.lead {
+			font-size: rem-calc(18) * 1.25;
+			line-height: 1.25;
+		}
+	}
+
+	@include breakpoint(medium) {
+		.price-card#spire-light,
+		.price-card#spire-dark {
+			margin-right: 0;
+		}
+
+		.price-card#spire-medium,
+		.price-card#spire-rapid {
+			margin-left: 0;
+		}
+	}
+}

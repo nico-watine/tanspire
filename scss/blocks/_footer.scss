@@ -1,0 +1,36 @@
+footer {
+	background: #2a2a2a;
+	padding: rem-calc(16) 0 rem-calc(22);
+
+	.menu {
+		margin-bottom: rem-calc(12);
+
+		> li {
+			display: table-cell;
+		}
+	}
+}
+
+
+.footerProse {
+	* {
+		color: #fff;
+		font-weight: normal;
+	}
+}
+
+a#colophonLink {
+	font-size: rem-calc(14);
+	letter-spacing: rem-calc(1.2);
+	text-transform: uppercase;
+	text-decoration: none;
+	color: #fff;
+
+	span {
+		text-decoration: underline;
+	}
+
+	&:hover {
+		text-decoration: underline;
+	}
+}

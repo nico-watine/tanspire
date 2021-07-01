@@ -1,0 +1,13 @@
+// -------------------------------------------------
+// |            Prevent FOUC @medium up            |
+// -------------------------------------------------
+
+
+.no-js {
+	@include breakpoint(medium) {
+		.top-bar,
+		.title-bar {
+			display: none;
+		}
+	}
+}

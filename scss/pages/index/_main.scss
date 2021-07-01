@@ -1,0 +1,122 @@
+body#index {
+	main {
+		.outer-container {
+			@include grid-row;
+
+			.inner-container {
+				background: #f7f7f7;
+				box-shadow: $z-1;
+				min-height: 400px;
+				// text-align: center;
+
+				@include breakpoint(medium) {
+					min-height: 0;
+					text-align: left;
+				}
+			}
+		}
+
+		.row#tagline {
+			padding: rem-calc(30) 0 rem-calc(10);
+
+			@include breakpoint(medium) {
+				padding-top: rem-calc(45);
+			}
+		}
+
+		.row#welcome-text {
+			.prose {
+				margin-bottom: rem-calc(30);
+
+				p {
+					font-size: rem-calc(18);
+					// line-height: 1.8;
+					// margin-bottom: rem-calc(30);
+				}
+
+				a {
+					background: #fff;
+					border: rem-calc(2) solid #88c4dc;
+					// box-shadow: $z-3;
+					box-shadow: $z-2;
+					letter-spacing: rem-calc(1.5);
+					padding: rem-calc(16) rem-calc(30);
+					border-radius: rem-calc(5);
+					color: #88c4dc;
+					font-size: rem-calc(18);
+					margin-bottom: rem-calc(28);
+
+					&:hover {
+						background: #a2d0e3;
+						box-shadow: $z-1;
+						color: #fff;
+						border: rem-calc(2) solid #fff;
+					}
+				}
+
+				table {
+					thead tr,
+					tbody tr {
+						background: #fff;
+					}
+				}
+			}
+
+			@include breakpoint(medium) {
+				// height: 560px;
+				position: relative;
+
+				.vertical-wrapper {
+					// @include vertical-center;
+				}
+
+				.prose {
+					// max-width: rem-calc(640);
+					// padding-left: rem-calc(20);
+					// width: 100%;
+					// float: right;
+
+					h2 {
+						margin-bottom: rem-calc(16);
+					}
+
+					p {
+						font-size: rem-calc(25);
+						// line-height: 2.2;
+						// margin-bottom: rem-calc(50);
+					}
+
+					a {
+						font-size: rem-calc(31);
+						margin-bottom: rem-calc(32);
+					}
+				}
+
+				.image {
+					#model {
+						display: none;
+						visibility: hidden;
+
+						@include breakpoint(840px) {
+							display: block;
+							visibility: visible;
+							position: absolute;
+							bottom: 0;
+							max-width: 180px;
+							height: auto;
+							width: 100%;
+						}
+					}
+				}
+			}
+
+			@include breakpoint(large) {
+				.image {
+					#model {
+						max-width: 200px;
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,124 @@
+body#index {
+	section.contact-banner {
+		background: #dfca78 url('#{$url}/img/assets/bg/gold-foil/medium/gold-foil.jpg') no-repeat center top;
+		background-size: cover;
+
+		#cta-tag {
+			border: 0 solid #fff;
+			border-width: rem-calc(6) 0;
+			padding: rem-calc(36) 0;
+
+			h2 {
+				color: #fff;
+				font-size: rem-calc(30);
+				text-shadow: 0 rem-calc(2) rem-calc(2) #000;
+			}
+		}
+
+		#contact-deets {
+			background: rgba(73,73,73,.65);
+			color: #fff;
+			border-bottom: rem-calc(6) solid #fff;
+
+			* {
+				@extend .heading;
+				color: #fff;
+			}
+
+			.row {
+				padding: rem-calc(30) 0;
+			}
+
+			.row#address-row {
+				border-bottom: rem-calc(6) solid #fff;
+			}
+
+			address {
+				font-size: rem-calc(24);
+
+				a {
+					text-decoration: underline;
+				}
+			}
+
+			.row#digits-row {
+				h4 {
+					font-size: rem-calc(28);
+					margin-bottom: rem-calc(14);
+				}
+
+				a.title.button {
+					background: #a2d0e3;
+					// box-shadow: $z-3;
+					box-shadow: $z-2;
+					color: #fff;
+					border: rem-calc(2) solid #fff;
+					letter-spacing: rem-calc(1.5);
+					padding: rem-calc(16) rem-calc(30);
+					border-radius: rem-calc(5);
+					font-size: rem-calc(18);
+
+					@extend .title;
+
+					&:hover {
+						background: #fff;
+						border: rem-calc(2) solid #88c4dc;
+						box-shadow: $z-1;
+						color: #88c4dc;
+					}
+				}
+
+				p {
+					margin-bottom: rem-calc(14);
+					font-size: rem-calc(25);
+
+					a {
+						line-height: 1;
+					}
+				}
+			}
+		}
+
+		@include breakpoint(medium) {
+			background: #dfca78 url('#{$url}/img/assets/bg/gold-foil/gold-foil.jpg') no-repeat center top;
+			background-size: cover;
+			#cta-tag {
+				h2 {
+					font-size: rem-calc(40);
+				}
+			}
+
+			#contact-deets {
+				address {
+					font-size: rem-calc(30);
+
+					a {
+						text-decoration: none;
+
+						&:hover {
+							text-decoration: underline;
+						}
+					}
+				}
+
+				.row#digits-row {
+					h4 {
+						font-size: rem-calc(40);
+					}
+
+					a.title.button {
+						font-size: rem-calc(31);
+					}
+
+					p {
+						a {
+							&:hover {
+								text-decoration: underline;
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,40 @@
+body#index {
+	.membership-info {
+		p {
+			font-size: rem-calc(18);
+		}
+	}
+
+	.savingsAccordion {
+		.accordion-title {
+			font-size: rem-calc(18);
+			font-weight: 400;
+			border: rem-calc(2) solid #95c3d6;
+			border-radius: rem-calc(2);
+			color: #000;
+			background: #fff;
+
+			&:hover,
+			&:focus {
+				box-shadow: $z-1;
+			}
+
+			&::before {
+				font-size: rem-calc(40);
+				top: 0;
+				margin-top: rem-calc(10);
+			}
+		}
+
+		.accordion-content {
+			padding: 0;
+			border: 0;
+			background: none;
+
+			table {
+				background: #e1e1e1;
+				margin-bottom: 0;
+			}
+		}
+	}
+}

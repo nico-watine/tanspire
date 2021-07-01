@@ -1,0 +1,23 @@
+@import '_icon-font.scss';
+
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700');
+
+
+@font-face {
+	font-family: 'Novecento Normal';
+	src:url("#{$url}/fonts/novecento/normal/novecento.woff2") format("woff2"),
+		url("#{$url}/fonts/novecento/normal/novecento.woff") format("woff"),
+		url("#{$url}/fonts/novecento/normal/novecento.otf") format("opentype");
+	font-style: normal;
+	font-weight: 400;
+}
+
+
+@font-face {
+	font-family: 'Novecento Wide DemiBold';
+	src:url("#{$url}/fonts/novecento/wide/novecento_wide-demibold.woff2") format("woff2"),
+		url("#{$url}/fonts/novecento/wide/novecento_wide-demibold.woff") format("woff"),
+		url("#{$url}/fonts/novecento/wide/novecento_wide-demibold.otf") format("opentype");
+	font-style: normal;
+	font-weight: 700;
+}

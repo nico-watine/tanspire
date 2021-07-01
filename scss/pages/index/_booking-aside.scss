@@ -1,0 +1,23 @@
+body#index {
+	.booking-aside {
+		.prose {
+			text-align: left;
+
+			a {
+				font-size: rem-calc(22);
+			}
+		}
+	}
+
+	@include breakpoint(medium) {
+		.booking-aside {
+			.prose {
+				text-align: center;
+
+				a {
+					font-size: rem-calc(25);
+				}
+			}
+		}
+	}
+}
