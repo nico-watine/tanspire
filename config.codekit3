@@ -38,12 +38,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/_ignores\/font-families.txt" : {
+    "\/_ignores\/font-families.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 2,
-      "oAP" : "\/_ignores\/font-families.txt",
+      "oAP" : "\/_ignores\/font-families.html",
       "oF" : 0
     },
     "\/_ignores\/htaccess-https.txt" : {
