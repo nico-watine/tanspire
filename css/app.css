@@ -7953,6 +7953,9 @@ ol.list-upper-roman {
 .font-weight-semibold {
   font-weight: 600 !important; }
 
+.strong {
+  font-weight: 700; }
+
 .font-weight-700,
 .font-weight-bold {
   font-weight: 700 !important; }
@@ -8705,9 +8708,6 @@ h1 .tmSymbol {
   @media print, screen and (min-width: 40em) {
     h1 .tmSymbol {
       font-size: 1.5rem; } }
-.strong {
-  font-weight: 700; }
-
 .box-shadow-1 {
   box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
 
