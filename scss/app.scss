@@ -66,11 +66,7 @@
 @import 'components/_resets.scss';
 
 // #3 Blocks
-@import 'blocks/_body.scss';
-@import 'blocks/_header.scss';
-@import 'blocks/_nav.scss';
-@import 'blocks/_main.scss';
-@import 'blocks/_footer.scss';
+@import "blocks/_blocks.scss";
 
 // #4 Pages
 @import 'pages/_pages.scss';
