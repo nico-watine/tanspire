@@ -866,20 +866,6 @@
       "pg" : 0,
       "sct" : 1
     },
-    "\/scss\/_var.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/css\/_var.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 1
-    },
     "\/scss\/app.scss" : {
       "aP" : 0,
       "bl" : 0,
@@ -1295,6 +1281,20 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/scss\/pages\/css\/_things-to-know.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/scss\/var\/_var.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/scss\/css\/_var.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
