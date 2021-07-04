@@ -57,7 +57,7 @@
 
 @import 'var/_var.scss';
 
-// Elements
+// #1 Elements
 @import "elements/_elements.scss";
 
 // #1 Typography
@@ -68,8 +68,8 @@
 @import 'components/_extras.scss';
 @import 'components/_resets.scss';
 
-// #3 Blocks
+// #2 Blocks
 @import "blocks/_blocks.scss";
 
-// #4 Pages
+// #3 Pages
 @import 'pages/_pages.scss';
