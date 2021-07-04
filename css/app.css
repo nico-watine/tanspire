@@ -8717,10 +8717,6 @@ body {
     bottom: 0;
     width: 100%; }
 
-html,
-body {
-  height: 100%; }
-
 table {
   border-collapse: initial;
   background: #e1e1e1; }

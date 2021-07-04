@@ -13,3 +13,28 @@
 @import '_padding.scss';
 @import '_position.scss';
 @import '_widths.scss';
+
+html,
+body {
+	height: 100%;
+}
+
+.height-wrapper {
+	min-height: 100%;
+	position: relative;
+
+	main {
+		padding-bottom: rem-calc(260);
+	}
+
+	footer {
+		position: absolute;
+		bottom: 0;
+		width: 100%;
+	}
+}
+
+table {
+	border-collapse: initial;
+	background: #e1e1e1;
+}
