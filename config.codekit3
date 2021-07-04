@@ -424,14 +424,6 @@
       "sC" : 1,
       "tS" : 0
     },
-    "\/Icon\r" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 2,
-      "oAP" : "\/Icon\r",
-      "oF" : 0
-    },
     "\/img\/assets\/bg\/gold-foil\/gold-foil.jpg" : {
       "ft" : 16384,
       "iS" : 178353,
