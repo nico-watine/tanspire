@@ -7968,11 +7968,6 @@ ol.list-upper-roman {
 .font-weight-black {
   font-weight: 900 !important; }
 
-a:not(.button) {
-  text-decoration: underline; }
-  a:not(.button):hover {
-    text-decoration: none; }
-
 .text-black {
   color: #000 !important; }
 
@@ -7988,6 +7983,49 @@ a:not(.button) {
 .text-decoration-none {
   text-decoration: none !important; }
 
+.body-font, body#things-to-know main .outer-container .page-title h1 span {
+  font-family: "Source Sans Pro"; }
+
+.title, body#index section.contact-banner #contact-deets .row#digits-row a.title.button, body#index section.contact-banner #contact-deets .row#digits-row header a.button#mobile-menu, header body#index section.contact-banner #contact-deets .row#digits-row a.button#mobile-menu, header #mobile-menu {
+  font-family: "Novecento Wide DemiBold";
+  font-weight: 700;
+  letter-spacing: 0.0625rem; }
+
+.heading, body#index section.contact-banner #contact-deets * {
+  font-family: "Novecento Normal";
+  font-weight: 400;
+  letter-spacing: 0.09375rem; }
+
+address {
+  font-style: normal; }
+
+a.white-booking-button {
+  background: #fff;
+  border: 0.125rem solid #88c4dc;
+  box-shadow: 0 0.125rem 0.125rem 0 rgba(0, 0, 0, 0.2), 0 0.375rem 0.625rem 0 rgba(0, 0, 0, 0.3);
+  letter-spacing: 0.09375rem;
+  padding: 1rem 1.875rem;
+  border-radius: 0.3125rem;
+  color: #88c4dc;
+  margin-bottom: 1.75rem; }
+  a.white-booking-button:hover {
+    background: #a2d0e3;
+    box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
+    color: #fff;
+    border: 0.125rem solid #fff; }
+  @media print, screen and (min-width: 40em) {
+    a.white-booking-button {
+      font-size: 1.9375rem; } }
+.tmSymbol {
+  font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  vertical-align: super; }
+
+h1 .tmSymbol {
+  font-size: 0.875rem; }
+  @media print, screen and (min-width: 40em) {
+    h1 .tmSymbol {
+      font-size: 1.5rem; } }
 .border-radius-0 {
   border-radius: 0 !important; }
 
@@ -8665,49 +8703,6 @@ a:not(.button) {
 .min-width-25 {
   min-width: 25%; }
 
-.body-font, body#things-to-know main .outer-container .page-title h1 span {
-  font-family: "Source Sans Pro"; }
-
-.title, body#index section.contact-banner #contact-deets .row#digits-row a.title.button, body#index section.contact-banner #contact-deets .row#digits-row header a.button#mobile-menu, header body#index section.contact-banner #contact-deets .row#digits-row a.button#mobile-menu, header #mobile-menu {
-  font-family: "Novecento Wide DemiBold";
-  font-weight: 700;
-  letter-spacing: 0.0625rem; }
-
-.heading, body#index section.contact-banner #contact-deets * {
-  font-family: "Novecento Normal";
-  font-weight: 400;
-  letter-spacing: 0.09375rem; }
-
-address {
-  font-style: normal; }
-
-a.white-booking-button {
-  background: #fff;
-  border: 0.125rem solid #88c4dc;
-  box-shadow: 0 0.125rem 0.125rem 0 rgba(0, 0, 0, 0.2), 0 0.375rem 0.625rem 0 rgba(0, 0, 0, 0.3);
-  letter-spacing: 0.09375rem;
-  padding: 1rem 1.875rem;
-  border-radius: 0.3125rem;
-  color: #88c4dc;
-  margin-bottom: 1.75rem; }
-  a.white-booking-button:hover {
-    background: #a2d0e3;
-    box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
-    color: #fff;
-    border: 0.125rem solid #fff; }
-  @media print, screen and (min-width: 40em) {
-    a.white-booking-button {
-      font-size: 1.9375rem; } }
-.tmSymbol {
-  font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-weight: 300;
-  vertical-align: super; }
-
-h1 .tmSymbol {
-  font-size: 0.875rem; }
-  @media print, screen and (min-width: 40em) {
-    h1 .tmSymbol {
-      font-size: 1.5rem; } }
 .box-shadow-1 {
   box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
 
