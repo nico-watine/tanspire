@@ -54,7 +54,7 @@ body-class:
 					<div class="medium-6 large-3 cell">
 						<div class="price-card box-shadow-1" id="spire-rapid">
 							<div class="header text-uppercase">
-								<h4 class="h4 body-font m-0">Spire <span class="strong">Rapid</span></h4>
+								<h4 class="h4 body-font m-0">Spire <span class="level">Rapid</span></h4>
 								<h6 class="body-font m-0">Ambassador's Club</h6>
 							</div>
 							<div class="body grid-x align-middle px-8">
@@ -71,7 +71,7 @@ body-class:
 					<div class="medium-6 large-3 cell">
 						<div class="price-card box-shadow-1" id="spire-dark">
 							<div class="header text-uppercase">
-								<h4 class="h4 body-font m-0">Spire <span class="strong">Dark</span></h4>
+								<h4 class="h4 body-font m-0">Spire <span class="level">Dark</span></h4>
 								<h6 class="body-font m-0">Level 3</h6>
 							</div>
 							<div class="body grid-x align-middle px-8">
@@ -88,7 +88,7 @@ body-class:
 					<div class="medium-6 large-3 cell">
 						<div class="price-card box-shadow-1" id="spire-medium">
 							<div class="header text-uppercase">
-								<h4 class="h4 body-font m-0">Spire <span class="strong">Medium</span></h4>
+								<h4 class="h4 body-font m-0">Spire <span class="level">Medium</span></h4>
 								<h6 class="body-font m-0">Level 2</h6>
 							</div>
 							<div class="body grid-x align-middle px-8">
@@ -105,7 +105,7 @@ body-class:
 					<div class="medium-6 large-3 cell">
 						<div class="price-card box-shadow-1" id="spire-light">
 							<div class="header text-uppercase">
-								<h4 class="h4 body-font m-0">Spire <span class="strong">Light</span></h4>
+								<h4 class="h4 body-font m-0">Spire <span class="level">Light</span></h4>
 								<h6 class="body-font m-0">Level 1</h6>
 							</div>
 							<div class="body grid-x align-middle px-8">

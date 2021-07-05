@@ -9209,6 +9209,9 @@ body#index .savingsAccordion .accordion-content {
     .price-card-grid .price-card .header {
       background: transparent url("/img/assets/bg/gold-foil/small/gold-foil.jpg") center/cover no-repeat;
       padding: 1rem 0.5rem; }
+      .price-card-grid .price-card .header .level {
+        font-family: "Novecento Wide DemiBold";
+        font-size: 1.5rem; }
     .price-card-grid .price-card .body {
       height: 8.125rem;
       background: #fff; }
