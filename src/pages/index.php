@@ -212,7 +212,7 @@ body-class:
 					<div class="cell hide-for-large">
 						<div class="callout custom-callout p-16 box-shadow-1 text-center">
 							<div class="content text-left display-inline-block">
-								<p class="overflow-hidden callout-heading strong mb-8"><span>Beneficial Attributes</span></p>
+								<p class="overflow-hidden callout-heading mb-8"><span><b>Beneficial Attributes</b></span></p>
 								<ul class="mb-0">
 									<li>pH Balanced for optimal color development</li>
 									<li>Provides your skin with a Vitamin E boost</li>
