@@ -172,7 +172,7 @@ body {
   margin: 0;
   padding: 0;
   background: #fefefe;
-  font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Source Sans Pro", Arial, sans-serif;
   font-weight: 300;
   line-height: 1.2;
   color: #0a0a0a;
@@ -8017,7 +8017,7 @@ a.white-booking-button {
     a.white-booking-button {
       font-size: 1.9375rem; } }
 .tmSymbol {
-  font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Source Sans Pro", Arial, sans-serif;
   font-weight: 300;
   vertical-align: super; }
 
