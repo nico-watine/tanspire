@@ -38,6 +38,14 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/_ignores\/font-families.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/_ignores\/font-families.html",
+      "oF" : 0
+    },
     "\/_ignores\/htaccess-https.txt" : {
       "cB" : 0,
       "ft" : 8192,
@@ -415,14 +423,6 @@
       "oF" : 0,
       "sC" : 1,
       "tS" : 0
-    },
-    "\/Icon\r" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 2,
-      "oAP" : "\/Icon\r",
-      "oF" : 0
     },
     "\/img\/assets\/bg\/gold-foil\/gold-foil.jpg" : {
       "ft" : 16384,
@@ -866,20 +866,6 @@
       "pg" : 0,
       "sct" : 1
     },
-    "\/scss\/_var.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/css\/_var.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 1
-    },
     "\/scss\/app.scss" : {
       "aP" : 0,
       "bl" : 0,
@@ -889,6 +875,20 @@
       "ma" : 0,
       "oA" : 0,
       "oAP" : "\/css\/app.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/scss\/blocks\/_blocks.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/scss\/css\/_blocks.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
@@ -936,20 +936,6 @@
       "pg" : 0,
       "sct" : 1
     },
-    "\/scss\/blocks\/_main.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/scss\/css\/_main.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 1
-    },
     "\/scss\/blocks\/_nav.scss" : {
       "aP" : 0,
       "bl" : 0,
@@ -964,7 +950,7 @@
       "pg" : 0,
       "sct" : 1
     },
-    "\/scss\/components\/_extras.scss" : {
+    "\/scss\/elements\/_elements.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
@@ -972,13 +958,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/scss\/css\/_extras.css",
+      "oAP" : "\/scss\/css\/_elements.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
-    "\/scss\/components\/_resets.scss" : {
+    "\/scss\/elements\/typography\/_font-face.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
@@ -986,13 +972,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/scss\/css\/_resets.css",
+      "oAP" : "\/scss\/elements\/css\/_font-face.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
-    "\/scss\/components\/_typography.scss" : {
+    "\/scss\/elements\/typography\/_font-family.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
@@ -1000,13 +986,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/scss\/css\/_typography.css",
+      "oAP" : "\/scss\/elements\/css\/_font-family.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
-    "\/scss\/components\/_utilities.scss" : {
+    "\/scss\/elements\/typography\/_font-weight.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
@@ -1014,13 +1000,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/scss\/css\/_utilities.css",
+      "oAP" : "\/scss\/elements\/css\/_font-weight.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
-    "\/scss\/components\/extras\/_sticky-footer.scss" : {
+    "\/scss\/elements\/typography\/_icon-font.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
@@ -1028,13 +1014,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/scss\/components\/css\/_sticky-footer.css",
+      "oAP" : "\/scss\/elements\/css\/_icon-font.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
-    "\/scss\/components\/typography\/_fonts.scss" : {
+    "\/scss\/elements\/typography\/_links.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
@@ -1042,13 +1028,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/scss\/components\/css\/_fonts.css",
+      "oAP" : "\/scss\/elements\/css\/_links.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
-    "\/scss\/components\/typography\/_icon-font.scss" : {
+    "\/scss\/elements\/typography\/_text-color.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
@@ -1056,13 +1042,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/scss\/components\/css\/_icon-font.css",
+      "oAP" : "\/scss\/elements\/css\/_text-color.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
-    "\/scss\/components\/utilities\/_box-shadow.scss" : {
+    "\/scss\/elements\/typography\/_text-decoration.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
@@ -1070,13 +1056,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/scss\/components\/css\/_box-shadow.css",
+      "oAP" : "\/scss\/elements\/css\/_text-decoration.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
-    "\/scss\/components\/utilities\/_clearfix.scss" : {
+    "\/scss\/elements\/typography\/_typography.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
@@ -1084,13 +1070,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/scss\/components\/css\/_clearfix.css",
+      "oAP" : "\/scss\/elements\/css\/_typography.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
-    "\/scss\/components\/utilities\/_flexbox.scss" : {
+    "\/scss\/elements\/utilities\/_border-radius.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
@@ -1098,13 +1084,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/scss\/components\/css\/_flexbox.css",
+      "oAP" : "\/scss\/elements\/css\/_border-radius.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
-    "\/scss\/components\/utilities\/_highlight-effect.scss" : {
+    "\/scss\/elements\/utilities\/_border.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
@@ -1112,13 +1098,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/scss\/components\/css\/_highlight-effect.css",
+      "oAP" : "\/scss\/elements\/css\/_border.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
-    "\/scss\/components\/utilities\/_sizing.scss" : {
+    "\/scss\/elements\/utilities\/_box-shadow.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
@@ -1126,13 +1112,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/scss\/components\/css\/_sizing.css",
+      "oAP" : "\/scss\/elements\/css\/_box-shadow.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
-    "\/scss\/components\/utilities\/_spacing.scss" : {
+    "\/scss\/elements\/utilities\/_clearfix.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
@@ -1140,7 +1126,189 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/scss\/components\/css\/_spacing.css",
+      "oAP" : "\/scss\/elements\/css\/_clearfix.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/scss\/elements\/utilities\/_display.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/scss\/elements\/css\/_display.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/scss\/elements\/utilities\/_flexbox.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/scss\/elements\/css\/_flexbox.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/scss\/elements\/utilities\/_floats.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/scss\/elements\/css\/_floats.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/scss\/elements\/utilities\/_heights.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/scss\/elements\/css\/_heights.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/scss\/elements\/utilities\/_highlight-effect.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/scss\/elements\/css\/_highlight-effect.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/scss\/elements\/utilities\/_margin.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/scss\/elements\/css\/_margin.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/scss\/elements\/utilities\/_mixins.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/scss\/elements\/css\/_mixins.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/scss\/elements\/utilities\/_overflow.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/scss\/elements\/css\/_overflow.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/scss\/elements\/utilities\/_padding.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/scss\/elements\/css\/_padding.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/scss\/elements\/utilities\/_position.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/scss\/elements\/css\/_position.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/scss\/elements\/utilities\/_utilities.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/scss\/elements\/css\/_utilities.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/scss\/elements\/utilities\/_widths.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/scss\/elements\/css\/_widths.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/scss\/pages\/_pages.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/scss\/css\/_pages.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
@@ -1295,6 +1463,20 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/scss\/pages\/css\/_things-to-know.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/scss\/var\/_var.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/scss\/css\/_var.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,

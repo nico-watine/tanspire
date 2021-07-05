@@ -1,5 +1,9 @@
-@import 'typography/_fonts.scss';
-@import 'typography/_icon-font.scss';
+@import '_font-face.scss';
+@import '_font-family.scss';
+@import '_font-weight.scss';
+@import '_links.scss';
+@import '_text-color.scss';
+@import '_text-decoration.scss';
 
 .body-font {
 	font-family: $custom-body-font;
@@ -58,8 +62,4 @@ h1 {
 			font-size: rem-calc(24);
 		}
 	}
-}
-
-.strong {
-	font-weight: 700;
 }
