@@ -495,7 +495,7 @@ h3, .h3,
 h4, .h4,
 h5, .h5,
 h6, .h6 {
-  font-family: "Novecento Normal";
+  font-family: "Source Sans Pro";
   font-style: normal;
   font-weight: 400;
   color: inherit;
@@ -8004,9 +8004,10 @@ ol.list-upper-roman {
   letter-spacing: 0.0625rem; }
 
 .heading, body#index section.contact-banner #contact-deets * {
-  font-family: "Novecento Normal";
+  font-family: "Source Sans Pro";
   font-weight: 400;
-  letter-spacing: 0.09375rem; }
+  text-transform: uppercase;
+  letter-spacing: 0.0625rem; }
 
 address {
   font-style: normal; }
