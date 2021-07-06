@@ -5,7 +5,6 @@
  * foundation.zurb.com
  * Licensed under MIT Open Source
  */
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400");
 @media print, screen and (min-width: 40em) {
   .reveal.large, .reveal.small, .reveal.tiny, .reveal {
     right: auto;
@@ -7913,6 +7912,22 @@ ol.list-upper-roman {
   content: '\e802'; }
 
 /* '' */
+/* source-sans-pro-300 - latin */
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 300;
+  src: local(""), url("/fonts/source-sans-pro/source-sans-pro-v14-latin-300.woff2") format("woff2"), url("/fonts/source-sans-pro/source-sans-pro-v14-latin-300.woff") format("woff");
+  /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */ }
+
+/* source-sans-pro-regular - latin */
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: local(""), url("/fonts/source-sans-pro/source-sans-pro-v14-latin-regular.woff2") format("woff2"), url("/fonts/source-sans-pro/source-sans-pro-v14-latin-regular.woff") format("woff");
+  /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */ }
+
 @font-face {
   font-family: 'Novecento Normal';
   src: url("/fonts/novecento/normal/novecento.woff2") format("woff2"), url("/fonts/novecento/normal/novecento.woff") format("woff"), url("/fonts/novecento/normal/novecento.otf") format("opentype");
