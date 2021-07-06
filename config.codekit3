@@ -78,6 +78,18 @@
       "oAP" : "\/_ignores\/socialMediaLinks.txt",
       "oF" : 0
     },
+    "\/_ignores\/source-sans-pro.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/_ignores\/source-sans-pro-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
     "\/_ignores\/tanspire-yarn.sublime-project" : {
       "cB" : 0,
       "ft" : 8192,
@@ -411,6 +423,38 @@
       "hM" : 0,
       "oA" : 2,
       "oAP" : "\/fonts\/novecento\/wide\/novecento_wide-demibold.woff2",
+      "oF" : 0
+    },
+    "\/fonts\/source-sans-pro\/source-sans-pro-v14-latin-300.woff" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/fonts\/source-sans-pro\/source-sans-pro-v14-latin-300.woff",
+      "oF" : 0
+    },
+    "\/fonts\/source-sans-pro\/source-sans-pro-v14-latin-300.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/fonts\/source-sans-pro\/source-sans-pro-v14-latin-300.woff2",
+      "oF" : 0
+    },
+    "\/fonts\/source-sans-pro\/source-sans-pro-v14-latin-regular.woff" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/fonts\/source-sans-pro\/source-sans-pro-v14-latin-regular.woff",
+      "oF" : 0
+    },
+    "\/fonts\/source-sans-pro\/source-sans-pro-v14-latin-regular.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/fonts\/source-sans-pro\/source-sans-pro-v14-latin-regular.woff2",
       "oF" : 0
     },
     "\/gulpfile.babel.js" : {

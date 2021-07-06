@@ -1,7 +1,3 @@
-@import '_icon-font.scss';
-
-// @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400');
-
 /* source-sans-pro-300 - latin */
 @font-face {
 	font-family: 'Source Sans Pro';
@@ -11,7 +7,6 @@
 			 url('/fonts/source-sans-pro/source-sans-pro-v14-latin-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
 			 url('/fonts/source-sans-pro/source-sans-pro-v14-latin-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
-
 /* source-sans-pro-regular - latin */
 @font-face {
 	font-family: 'Source Sans Pro';
@@ -20,25 +15,4 @@
 	src: local(''),
 			 url('/fonts/source-sans-pro/source-sans-pro-v14-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
 			 url('/fonts/source-sans-pro/source-sans-pro-v14-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
-}
-
-
-
-@font-face {
-	font-family: 'Novecento Normal';
-	src:url("#{$url}/fonts/novecento/normal/novecento.woff2") format("woff2"),
-		url("#{$url}/fonts/novecento/normal/novecento.woff") format("woff"),
-		url("#{$url}/fonts/novecento/normal/novecento.otf") format("opentype");
-	font-style: normal;
-	font-weight: 400;
-}
-
-
-@font-face {
-	font-family: 'Novecento Wide DemiBold';
-	src:url("#{$url}/fonts/novecento/wide/novecento_wide-demibold.woff2") format("woff2"),
-		url("#{$url}/fonts/novecento/wide/novecento_wide-demibold.woff") format("woff"),
-		url("#{$url}/fonts/novecento/wide/novecento_wide-demibold.otf") format("opentype");
-	font-style: normal;
-	font-weight: 700;
 }

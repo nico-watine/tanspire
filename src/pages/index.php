@@ -140,7 +140,7 @@ body-class:
 				<div class="medium-10 medium-push-1 end columns vertical-wrapper">
 					<hr>
 					<div class="prose">
-						<h2>Pricing</h2>
+						<h2 class="text-uppercase">Pricing</h2>
 						<p class="m-0"><strong>Single Session Spray Tans</strong></p>
 						<table>
 							<thead>
