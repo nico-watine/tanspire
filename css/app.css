@@ -7989,7 +7989,8 @@ ol.list-upper-roman {
 .title, body#index section.contact-banner #contact-deets .row#digits-row a.title.button, body#index section.contact-banner #contact-deets .row#digits-row header a.button#mobile-menu, header body#index section.contact-banner #contact-deets .row#digits-row a.button#mobile-menu, header #mobile-menu {
   font-family: "novecento-sans-wide", sans-serif;
   font-weight: 600;
-  letter-spacing: 0.0625rem; }
+  letter-spacing: 0.0625rem;
+  text-transform: uppercase; }
 
 .heading, body#index section.contact-banner #contact-deets * {
   font-family: "Source Sans Pro";
