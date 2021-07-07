@@ -7987,8 +7987,8 @@ ol.list-upper-roman {
   font-family: "Source Sans Pro"; }
 
 .title, body#index section.contact-banner #contact-deets .row#digits-row a.title.button, body#index section.contact-banner #contact-deets .row#digits-row header a.button#mobile-menu, header body#index section.contact-banner #contact-deets .row#digits-row a.button#mobile-menu, header #mobile-menu {
-  font-family: "Novecento Wide DemiBold";
-  font-weight: 700;
+  font-family: "novecento-sans-wide", sans-serif;
+  font-weight: 600;
   letter-spacing: 0.0625rem; }
 
 .heading, body#index section.contact-banner #contact-deets * {
@@ -9211,7 +9211,7 @@ body#index .savingsAccordion .accordion-content {
       background: transparent url("/img/assets/bg/gold-foil/small/gold-foil.jpg") center/cover no-repeat;
       padding: 1rem 0.5rem; }
       .price-card-grid .price-card .header .level {
-        font-family: "Novecento Wide DemiBold";
+        font-family: "novecento-sans-wide", sans-serif;
         font-size: 1.5rem; }
     .price-card-grid .price-card .body {
       height: 8.125rem;
