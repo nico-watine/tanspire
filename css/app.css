@@ -5,7 +5,6 @@
  * foundation.zurb.com
  * Licensed under MIT Open Source
  */
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700");
 @media print, screen and (min-width: 40em) {
   .reveal.large, .reveal.small, .reveal.tiny, .reveal {
     right: auto;
@@ -172,7 +171,7 @@ body {
   margin: 0;
   padding: 0;
   background: #fefefe;
-  font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Source Sans Pro", Arial, sans-serif;
   font-weight: 300;
   line-height: 1.2;
   color: #0a0a0a;
@@ -496,7 +495,7 @@ h3, .h3,
 h4, .h4,
 h5, .h5,
 h6, .h6 {
-  font-family: "Novecento Normal";
+  font-family: "Source Sans Pro";
   font-style: normal;
   font-weight: 400;
   color: inherit;
@@ -7869,7 +7868,7 @@ ol.list-upper-roman {
 
 @font-face {
   font-family: 'tanspire';
-  src: url("/fonts/icons/tanspire.woff2") format("woff2"), url("/fonts/icons/tanspire.woff") format("woff"), url("/fonts/icons/tanspire.otf") format("opentype");
+  src: url("/fonts/icons/tanspire.woff2") format("woff2"), url("/fonts/icons/tanspire.woff") format("woff"), url("/fonts/icons/tanspire.ttf") format("truetype");
   font-style: normal;
   font-weight: 400; }
 
@@ -7913,17 +7912,21 @@ ol.list-upper-roman {
   content: '\e802'; }
 
 /* '' */
+/* source-sans-pro-300 - latin */
 @font-face {
-  font-family: 'Novecento Normal';
-  src: url("/fonts/novecento/normal/novecento.woff2") format("woff2"), url("/fonts/novecento/normal/novecento.woff") format("woff"), url("/fonts/novecento/normal/novecento.otf") format("opentype");
+  font-family: 'Source Sans Pro';
   font-style: normal;
-  font-weight: 400; }
+  font-weight: 300;
+  src: local(""), url("/fonts/source-sans-pro/source-sans-pro-v14-latin-300.woff2") format("woff2"), url("/fonts/source-sans-pro/source-sans-pro-v14-latin-300.woff") format("woff");
+  /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */ }
 
+/* source-sans-pro-regular - latin */
 @font-face {
-  font-family: 'Novecento Wide DemiBold';
-  src: url("/fonts/novecento/wide/novecento_wide-demibold.woff2") format("woff2"), url("/fonts/novecento/wide/novecento_wide-demibold.woff") format("woff"), url("/fonts/novecento/wide/novecento_wide-demibold.otf") format("opentype");
+  font-family: 'Source Sans Pro';
   font-style: normal;
-  font-weight: 700; }
+  font-weight: 400;
+  src: local(""), url("/fonts/source-sans-pro/source-sans-pro-v14-latin-regular.woff2") format("woff2"), url("/fonts/source-sans-pro/source-sans-pro-v14-latin-regular.woff") format("woff");
+  /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */ }
 
 .text-monospace {
   font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace !important; }
@@ -7952,9 +7955,6 @@ ol.list-upper-roman {
 .font-weight-600,
 .font-weight-semibold {
   font-weight: 600 !important; }
-
-.strong {
-  font-weight: 700; }
 
 .font-weight-700,
 .font-weight-bold {
@@ -7987,14 +7987,16 @@ ol.list-upper-roman {
   font-family: "Source Sans Pro"; }
 
 .title, body#index section.contact-banner #contact-deets .row#digits-row a.title.button, body#index section.contact-banner #contact-deets .row#digits-row header a.button#mobile-menu, header body#index section.contact-banner #contact-deets .row#digits-row a.button#mobile-menu, header #mobile-menu {
-  font-family: "Novecento Wide DemiBold";
-  font-weight: 700;
-  letter-spacing: 0.0625rem; }
+  font-family: "novecento-sans-wide", Arial, sans-serif;
+  font-weight: 600;
+  letter-spacing: 0.0625rem;
+  text-transform: uppercase; }
 
 .heading, body#index section.contact-banner #contact-deets * {
-  font-family: "Novecento Normal";
+  font-family: "Source Sans Pro";
   font-weight: 400;
-  letter-spacing: 0.09375rem; }
+  text-transform: uppercase;
+  letter-spacing: 0.0625rem; }
 
 address {
   font-style: normal; }
@@ -8017,7 +8019,7 @@ a.white-booking-button {
     a.white-booking-button {
       font-size: 1.9375rem; } }
 .tmSymbol {
-  font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Source Sans Pro", Arial, sans-serif;
   font-weight: 300;
   vertical-align: super; }
 
@@ -9209,6 +9211,9 @@ body#index .savingsAccordion .accordion-content {
     .price-card-grid .price-card .header {
       background: transparent url("/img/assets/bg/gold-foil/small/gold-foil.jpg") center/cover no-repeat;
       padding: 1rem 0.5rem; }
+      .price-card-grid .price-card .header .level {
+        font-family: "novecento-sans-wide", Arial, sans-serif;
+        font-size: 1.5rem; }
     .price-card-grid .price-card .body {
       height: 8.125rem;
       background: #fff; }

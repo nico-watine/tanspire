@@ -13,12 +13,14 @@
 	font-family: $custom-title-font;
 	font-weight: $custom-title-font-weight;
 	letter-spacing: rem-calc(1);
+	text-transform: uppercase;
 }
 
 .heading {
 	font-family: $custom-heading-font;
 	font-weight: $custom-heading-font-weight;
-	letter-spacing: rem-calc(1.5);
+	text-transform: uppercase;
+	letter-spacing: rem-calc(1);
 }
 
 address {

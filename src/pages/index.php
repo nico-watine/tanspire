@@ -54,7 +54,7 @@ body-class:
 					<div class="medium-6 large-3 cell">
 						<div class="price-card box-shadow-1" id="spire-rapid">
 							<div class="header text-uppercase">
-								<h4 class="h4 body-font m-0">Spire <span class="strong">Rapid</span></h4>
+								<h4 class="h4 body-font m-0">Spire <span class="level">Rapid</span></h4>
 								<h6 class="body-font m-0">Ambassador's Club</h6>
 							</div>
 							<div class="body grid-x align-middle px-8">
@@ -71,7 +71,7 @@ body-class:
 					<div class="medium-6 large-3 cell">
 						<div class="price-card box-shadow-1" id="spire-dark">
 							<div class="header text-uppercase">
-								<h4 class="h4 body-font m-0">Spire <span class="strong">Dark</span></h4>
+								<h4 class="h4 body-font m-0">Spire <span class="level">Dark</span></h4>
 								<h6 class="body-font m-0">Level 3</h6>
 							</div>
 							<div class="body grid-x align-middle px-8">
@@ -88,7 +88,7 @@ body-class:
 					<div class="medium-6 large-3 cell">
 						<div class="price-card box-shadow-1" id="spire-medium">
 							<div class="header text-uppercase">
-								<h4 class="h4 body-font m-0">Spire <span class="strong">Medium</span></h4>
+								<h4 class="h4 body-font m-0">Spire <span class="level">Medium</span></h4>
 								<h6 class="body-font m-0">Level 2</h6>
 							</div>
 							<div class="body grid-x align-middle px-8">
@@ -105,7 +105,7 @@ body-class:
 					<div class="medium-6 large-3 cell">
 						<div class="price-card box-shadow-1" id="spire-light">
 							<div class="header text-uppercase">
-								<h4 class="h4 body-font m-0">Spire <span class="strong">Light</span></h4>
+								<h4 class="h4 body-font m-0">Spire <span class="level">Light</span></h4>
 								<h6 class="body-font m-0">Level 1</h6>
 							</div>
 							<div class="body grid-x align-middle px-8">
@@ -140,7 +140,7 @@ body-class:
 				<div class="medium-10 medium-push-1 end columns vertical-wrapper">
 					<hr>
 					<div class="prose">
-						<h2>Pricing</h2>
+						<h2 class="text-uppercase">Pricing</h2>
 						<p class="m-0"><strong>Single Session Spray Tans</strong></p>
 						<table>
 							<thead>
@@ -193,7 +193,7 @@ body-class:
 						</div>
 						<div class="show-for-large callout custom-callout p-16 box-shadow-1 text-center">
 							<div class="content text-left display-inline-block">
-								<p class="overflow-hidden callout-heading strong mb-8"><span>Beneficial Attributes</span></p>
+								<p class="overflow-hidden callout-heading mb-8"><span><b>Beneficial Attributes</b></span></p>
 								<ul class="mb-0">
 									<li>pH Balanced for optimal color development</li>
 									<li>Provides your skin with a Vitamin E boost</li>
@@ -212,7 +212,7 @@ body-class:
 					<div class="cell hide-for-large">
 						<div class="callout custom-callout p-16 box-shadow-1 text-center">
 							<div class="content text-left display-inline-block">
-								<p class="overflow-hidden callout-heading strong mb-8"><span>Beneficial Attributes</span></p>
+								<p class="overflow-hidden callout-heading mb-8"><span><b>Beneficial Attributes</b></span></p>
 								<ul class="mb-0">
 									<li>pH Balanced for optimal color development</li>
 									<li>Provides your skin with a Vitamin E boost</li>

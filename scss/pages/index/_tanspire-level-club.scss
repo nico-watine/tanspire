@@ -28,6 +28,11 @@
 		.header {
 			background: transparent url('/img/assets/bg/gold-foil/small/gold-foil.jpg') center/cover no-repeat;
 			padding: rem-calc(16) rem-calc(8);
+
+			.level {
+				font-family: $custom-title-font;
+				font-size: rem-calc(24);
+			}
 		}
 
 		.body {

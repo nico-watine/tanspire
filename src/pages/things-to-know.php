@@ -16,7 +16,7 @@ body-class:
 	<div class="splash-bg"><img src="{{ cdn }}/img/things-to-know/splash-bg/default.jpg" alt=""></div>
 	<div class="outer-container">
 		<section class="page-title text-center">
-			<h1 class="title">Things To Know <span>About Your Spray Tan</span></h1>
+			<h1 class="title">Things To Know <span class="text-capitalize">About Your Spray Tan</span></h1>
 		</section>
 		<div class="inner-container mx-16">
 			<div class="row">
