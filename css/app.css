@@ -7928,12 +7928,6 @@ ol.list-upper-roman {
   src: local(""), url("/fonts/source-sans-pro/source-sans-pro-v14-latin-regular.woff2") format("woff2"), url("/fonts/source-sans-pro/source-sans-pro-v14-latin-regular.woff") format("woff");
   /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */ }
 
-@font-face {
-  font-family: 'Novecento Wide DemiBold';
-  src: url("/fonts/novecento/wide/novecento_wide-demibold.woff2") format("woff2"), url("/fonts/novecento/wide/novecento_wide-demibold.woff") format("woff"), url("/fonts/novecento/wide/novecento_wide-demibold.otf") format("opentype");
-  font-style: normal;
-  font-weight: 700; }
-
 .text-monospace {
   font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace !important; }
 
@@ -7993,9 +7987,10 @@ ol.list-upper-roman {
   font-family: "Source Sans Pro"; }
 
 .title, body#index section.contact-banner #contact-deets .row#digits-row a.title.button, body#index section.contact-banner #contact-deets .row#digits-row header a.button#mobile-menu, header body#index section.contact-banner #contact-deets .row#digits-row a.button#mobile-menu, header #mobile-menu {
-  font-family: "Novecento Wide DemiBold";
-  font-weight: 700;
-  letter-spacing: 0.0625rem; }
+  font-family: "novecento-sans-wide", Arial, sans-serif;
+  font-weight: 600;
+  letter-spacing: 0.0625rem;
+  text-transform: uppercase; }
 
 .heading, body#index section.contact-banner #contact-deets * {
   font-family: "Source Sans Pro";
@@ -9217,7 +9212,7 @@ body#index .savingsAccordion .accordion-content {
       background: transparent url("/img/assets/bg/gold-foil/small/gold-foil.jpg") center/cover no-repeat;
       padding: 1rem 0.5rem; }
       .price-card-grid .price-card .header .level {
-        font-family: "Novecento Wide DemiBold";
+        font-family: "novecento-sans-wide", Arial, sans-serif;
         font-size: 1.5rem; }
     .price-card-grid .price-card .body {
       height: 8.125rem;

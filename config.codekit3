@@ -377,30 +377,6 @@
       "oAP" : "\/fonts\/icons\/tanspire.woff2",
       "oF" : 0
     },
-    "\/fonts\/novecento\/wide\/novecento_wide-demibold.ttf" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 2,
-      "oAP" : "\/fonts\/novecento\/wide\/novecento_wide-demibold.ttf",
-      "oF" : 0
-    },
-    "\/fonts\/novecento\/wide\/novecento_wide-demibold.woff" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 2,
-      "oAP" : "\/fonts\/novecento\/wide\/novecento_wide-demibold.woff",
-      "oF" : 0
-    },
-    "\/fonts\/novecento\/wide\/novecento_wide-demibold.woff2" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 2,
-      "oAP" : "\/fonts\/novecento\/wide\/novecento_wide-demibold.woff2",
-      "oF" : 0
-    },
     "\/fonts\/source-sans-pro\/source-sans-pro-v14-latin-300.woff" : {
       "cB" : 0,
       "ft" : 8192,
