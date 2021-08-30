@@ -152,7 +152,7 @@ body-class:
 							</thead>
 							<tbody>
 								<tr>
-									<td><strong>Signature Tan</strong></td>
+									<td><strong>Signature Tan (Level 1/2/3)</strong></td>
 									<td>Our standard full-body session. Rinse solution in 8+ hours. 18-24 hours for color to fully develop.</td>
 									<td>$55</td>
 								</tr>
@@ -175,6 +175,11 @@ body-class:
 									<td><strong>Signature Face &amp; Decollete</strong></td>
 									<td>Face, Chest and Shoulders <strong><em>only</em></strong>. May choose 8 hour formula or Rapid Rinse.</td>
 									<td>$12</td>
+								</tr>
+								<tr>
+									<td><strong>Red Light Therapy</strong></td>
+									<td></td>
+									<td>$25</td>
 								</tr>
 							</tbody>
 						</table>
