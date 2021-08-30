@@ -9228,13 +9228,7 @@ body#index .savingsAccordion .accordion-content {
     .price-card-grid .price-card .p.lead {
       font-size: 1.40625rem;
       line-height: 1.25; }
-  @media print, screen and (min-width: 40em) {
-    .price-card-grid .price-card#spire-light,
-    .price-card-grid .price-card#spire-dark {
-      margin-right: 0; }
-    .price-card-grid .price-card#spire-medium,
-    .price-card-grid .price-card#spire-rapid {
-      margin-left: 0; } }
+
 .tanspire-glow-solution-section .h3 {
   margin-bottom: 2rem; }
   @media screen and (max-width: 39.99875em) {
