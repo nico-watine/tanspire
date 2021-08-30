@@ -152,6 +152,11 @@ body-class:
 							</thead>
 							<tbody>
 								<tr>
+									<td><strong>Signature Jet Set Session</strong></td>
+									<td>Standard full-body session. Includes prep, primer, travel size moisturizer, tan extender and body wash to help your tan last through your trip.</td>
+									<td>$99</td>
+								</tr>
+								<tr>
 									<td><strong>Signature Tan (Level 1/2/3)</strong></td>
 									<td>Our standard full-body session. Rinse solution in 8+ hours. 18-24 hours for color to fully develop.</td>
 									<td>$55</td>
