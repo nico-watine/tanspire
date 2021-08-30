@@ -57,9 +57,11 @@ body-class:
 								<h4 class="h4 body-font m-0">Spire <span class="level">Rapid</span></h4>
 								<h6 class="body-font m-0">Ambassador's Club</h6>
 							</div>
-							<div class="body grid-x align-middle px-8">
+							<div class="body grid-x align-middle p-8">
 								<div class="cell">
 									<p class="p m-0">Unlimited VIP quality spray&nbsp;tans <br>Bring a friend for Level 1! <br>25% off all products</p>
+									<hr>
+									<p>$40 monthly in-store credit towards featured products</p>
 								</div>
 							</div>
 							<div class="footer">
@@ -74,9 +76,11 @@ body-class:
 								<h4 class="h4 body-font m-0">Spire <span class="level">Dark</span></h4>
 								<h6 class="body-font m-0">Level 3</h6>
 							</div>
-							<div class="body grid-x align-middle px-8">
+							<div class="body grid-x align-middle p-8">
 								<div class="cell">
 									<p class="p m-0">3 – 5 Shades darker than your natural skin tone</p>
+									<hr>
+									<p>$35 monthly in-store credit towards featured products</p>
 								</div>
 							</div>
 							<div class="footer">
@@ -91,9 +95,11 @@ body-class:
 								<h4 class="h4 body-font m-0">Spire <span class="level">Medium</span></h4>
 								<h6 class="body-font m-0">Level 2</h6>
 							</div>
-							<div class="body grid-x align-middle px-8">
+							<div class="body grid-x align-middle p-8">
 								<div class="cell">
 									<p class="p m-0">2 – 4 Shades darker than your natural skin tone</p>
+									<hr>
+									<p>$30 monthly in-store credit towards featured products</p>
 								</div>
 							</div>
 							<div class="footer">
@@ -108,9 +114,11 @@ body-class:
 								<h4 class="h4 body-font m-0">Spire <span class="level">Light</span></h4>
 								<h6 class="body-font m-0">Level 1</h6>
 							</div>
-							<div class="body grid-x align-middle px-8">
+							<div class="body grid-x align-middle p-8">
 								<div class="cell">
 									<p class="p m-0">1 – 3 Shades darker than your natural skin tone</p>
+									<hr>
+									<p>$25 monthly in-store credit towards featured products</p>
 								</div>
 							</div>
 							<div class="footer">
