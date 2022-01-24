@@ -40,12 +40,11 @@ body-class:
 	<div class="outer-container">
 		<div class="inner-container mx-16">
 			<!-- Tanspire Level Club Pricing Section -->
-			<section class="tanspire-level-club-section mb-40">
+			<!-- <section class="tanspire-level-club-section mb-40">
 				<div class="grid-x grid-padding-x">
 					<div class="cell intro-prose py-40">
 						<h1 class="title text-center mb-16">Tanspire Level&nbsp;Club</h1>
 						<div class="prose-wrap text-left">
-							<!-- <p class="m-0">The lowest-priced way to tan is always our <strong>TS&nbsp;Level&nbsp;Club&nbsp;membership</strong>. <br>For only a <span data-tooltip aria-haspopup="true" class="has-tip" tabindex="1" title="Pay $45 for the first month, and the subscription rate every month after." data-position="top" data-alignment="center">1-time fee of $45</span>, enjoy monthly unlimited tanning with beautiful&nbsp;benefits. <br><strong>Limited time only!</strong></p> -->
 							<p class="m-0">The lowest-priced way to tan is always our <strong>TS&nbsp;Level&nbsp;Club&nbsp;membership</strong>. There are no commitment contracts, and you can freeze or cancel your membership at any time. <strong>We are by appointment only.</strong></p>
 						</div>
 					</div>
@@ -128,7 +127,7 @@ body-class:
 						</div>
 					</div>
 				</div>
-			</section>
+			</section> -->
 			<!-- Schedule Button -->
 			<div class="row">
 				<div class="column text-center">

@@ -7,7 +7,7 @@
       "uuidString" : "3A72F867-29D4-4F61-A2FE-1BA012320C6F"
     }
   ],
-  "creatorBuild" : "34127",
+  "creatorBuild" : "34264",
   "files" : {
     "\/_ignores\/appointment-iframe.html" : {
       "cB" : 0,
@@ -417,7 +417,7 @@
       "oA" : 1,
       "oAP" : "\/gulpfile.babel-min.js",
       "oF" : 0,
-      "sC" : 1,
+      "sC" : 3,
       "tS" : 0
     },
     "\/img\/assets\/bg\/gold-foil\/gold-foil.jpg" : {
@@ -851,6 +851,7 @@
     "\/scss\/_settings.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -865,6 +866,7 @@
     "\/scss\/app.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -879,6 +881,7 @@
     "\/scss\/blocks\/_blocks.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -893,6 +896,7 @@
     "\/scss\/blocks\/_body.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -907,6 +911,7 @@
     "\/scss\/blocks\/_footer.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -921,6 +926,7 @@
     "\/scss\/blocks\/_header.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -935,6 +941,7 @@
     "\/scss\/blocks\/_nav.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -949,6 +956,7 @@
     "\/scss\/elements\/_elements.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -963,6 +971,7 @@
     "\/scss\/elements\/typography\/_font-face.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -977,6 +986,7 @@
     "\/scss\/elements\/typography\/_font-family.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -991,6 +1001,7 @@
     "\/scss\/elements\/typography\/_font-weight.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1005,6 +1016,7 @@
     "\/scss\/elements\/typography\/_icon-font.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1019,6 +1031,7 @@
     "\/scss\/elements\/typography\/_links.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1033,6 +1046,7 @@
     "\/scss\/elements\/typography\/_text-color.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1047,6 +1061,7 @@
     "\/scss\/elements\/typography\/_text-decoration.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1061,6 +1076,7 @@
     "\/scss\/elements\/typography\/_typography.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1075,6 +1091,7 @@
     "\/scss\/elements\/utilities\/_border-radius.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1089,6 +1106,7 @@
     "\/scss\/elements\/utilities\/_border.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1103,6 +1121,7 @@
     "\/scss\/elements\/utilities\/_box-shadow.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1117,6 +1136,7 @@
     "\/scss\/elements\/utilities\/_clearfix.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1131,6 +1151,7 @@
     "\/scss\/elements\/utilities\/_display.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1145,6 +1166,7 @@
     "\/scss\/elements\/utilities\/_flexbox.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1159,6 +1181,7 @@
     "\/scss\/elements\/utilities\/_floats.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1173,6 +1196,7 @@
     "\/scss\/elements\/utilities\/_heights.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1187,6 +1211,7 @@
     "\/scss\/elements\/utilities\/_highlight-effect.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1201,6 +1226,7 @@
     "\/scss\/elements\/utilities\/_margin.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1215,6 +1241,7 @@
     "\/scss\/elements\/utilities\/_mixins.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1229,6 +1256,7 @@
     "\/scss\/elements\/utilities\/_overflow.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1243,6 +1271,7 @@
     "\/scss\/elements\/utilities\/_padding.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1257,6 +1286,7 @@
     "\/scss\/elements\/utilities\/_position.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1271,6 +1301,7 @@
     "\/scss\/elements\/utilities\/_utilities.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1285,6 +1316,7 @@
     "\/scss\/elements\/utilities\/_widths.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1299,6 +1331,7 @@
     "\/scss\/pages\/_pages.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1313,6 +1346,7 @@
     "\/scss\/pages\/index\/_booking-aside.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1327,6 +1361,7 @@
     "\/scss\/pages\/index\/_booking-modal.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1341,6 +1376,7 @@
     "\/scss\/pages\/index\/_contact-banner.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1355,6 +1391,7 @@
     "\/scss\/pages\/index\/_index.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1369,6 +1406,7 @@
     "\/scss\/pages\/index\/_main.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1383,6 +1421,7 @@
     "\/scss\/pages\/index\/_membership.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1397,6 +1436,7 @@
     "\/scss\/pages\/index\/_pricing-tooltips.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1411,6 +1451,7 @@
     "\/scss\/pages\/index\/_splash.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1425,6 +1466,7 @@
     "\/scss\/pages\/index\/_tanspire-glow-solution.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1439,6 +1481,7 @@
     "\/scss\/pages\/index\/_tanspire-level-club.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1453,6 +1496,7 @@
     "\/scss\/pages\/things-to-know\/_things-to-know.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1467,6 +1511,7 @@
     "\/scss\/var\/_var.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -2529,7 +2574,8 @@
         "optionString" : ""
       },
       "no-multi-assign" : {
-        "active" : 0
+        "active" : 0,
+        "optionString" : "{'ignoreNonDeclaration': false}"
       },
       "no-multi-spaces" : {
         "active" : 0,
@@ -2652,7 +2698,8 @@
         "active" : 0
       },
       "no-sequences" : {
-        "active" : 0
+        "active" : 0,
+        "optionString" : "{'allowInParentheses': true}"
       },
       "no-setter-return" : {
         "active" : 1
@@ -2739,6 +2786,9 @@
       },
       "no-unused-labels" : {
         "active" : 1
+      },
+      "no-unused-private-class-members" : {
+        "active" : 0
       },
       "no-unused-vars" : {
         "active" : 1,
@@ -3016,354 +3066,6 @@
     "gitIgnoreBuildFolder" : 1,
     "hideConfigFile" : 0,
     "jsCheckerReservedNamesString" : "",
-    "jsHintFlags2" : {
-      "asi" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "bitwise" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "boss" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "browser" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "browserify" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "camelcase" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "couch" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "curly" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "debug" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "devel" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "dojo" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "elision" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "eqeqeq" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "eqnull" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "es3" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "esnext" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "evil" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "expr" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "forin" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "freeze" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "funcscope" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "futurehostile" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "globalstrict" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "immed" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "indent" : {
-        "active" : 0,
-        "flagValue" : 4
-      },
-      "iterator" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "jasmine" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "jquery" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "lastsemic" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "latedef" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "laxbreak" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "laxcomma" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "loopfunc" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "maxcomplexity" : {
-        "active" : 0,
-        "flagValue" : 10
-      },
-      "maxdepth" : {
-        "active" : 0,
-        "flagValue" : 3
-      },
-      "maxlen" : {
-        "active" : 0,
-        "flagValue" : 150
-      },
-      "maxparams" : {
-        "active" : 0,
-        "flagValue" : 3
-      },
-      "maxstatements" : {
-        "active" : 0,
-        "flagValue" : 4
-      },
-      "mocha" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "mootools" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "moz" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "multistr" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "newcap" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "noarg" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "nocomma" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "node" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "noempty" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "nonbsp" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "nonew" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "nonstandard" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "notypeof" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "noyield" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "onecase" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "phantom" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "plusplus" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "proto" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "prototypejs" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "qunit" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "regexp" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "rhino" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "scripturl" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "shadow" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "shelljs" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "singleGroups" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "strict" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "sub" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "supernew" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "typed" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "undef" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "unused" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "varstmt" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "withstmt" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "worker" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "wsh" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "yui" : {
-        "active" : 0,
-        "flagValue" : -1
-      }
-    },
-    "jsLintFlags2" : {
-      "bitwise" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "browser" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "couch" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "devel" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "es6" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "eval" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "for" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "maxlen" : {
-        "active" : 0,
-        "flagValue" : 150
-      },
-      "node" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "this" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "white" : {
-        "active" : 0,
-        "flagValue" : -1
-      }
-    },
     "languageDefaultsCOFFEE" : {
       "autoOutputAction" : 0,
       "autoOutputPathFilenamePattern" : "*.js",
@@ -3672,6 +3374,7 @@
     "tsEmitBOM" : 0,
     "tsEmitDecoratorMetadata" : 0,
     "tsESModuleInterop" : 0,
+    "tsExactOptionalPropertyTypes" : 0,
     "tsForceConsistentCasingInFileNames" : 0,
     "tsImportHelpers" : 0,
     "tsIsolatedModules" : 0,
@@ -3680,6 +3383,7 @@
     "tsNoEmitHelpers" : 0,
     "tsNoFallthroughCasesInSwitch" : 0,
     "tsNoImplicitAny" : 0,
+    "tsNoImplicitOverride" : 0,
     "tsNoImplicitReturns" : 0,
     "tsNoImplicitThis" : 0,
     "tsNoImplicitUseStrict" : 0,
@@ -3700,6 +3404,7 @@
     "tsStripInternal" : 0,
     "tsSuppressExcessPropertyErrors" : 0,
     "tsSuppressImplicitAnyIndexErrors" : 0,
+    "tsUseUnknownInCatchVariables" : 0,
     "uglifyDefinesString" : "",
     "uglifyFlags2" : {
       "arguments" : {
