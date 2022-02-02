@@ -154,44 +154,44 @@ body-class:
 								<tr>
 									<th>Service</th>
 									<th>Description</th>
-									<th>Price</th>
+									<!-- <th>Price</th> -->
 								</tr>
 							</thead>
 							<tbody>
 								<tr>
 									<td><strong>Signature Jet Set Session</strong></td>
 									<td>Standard full-body session. Includes prep, primer, travel size moisturizer, tan extender and body wash to help your tan last through your trip.</td>
-									<td>$99</td>
+									<!-- <td>$99</td> -->
 								</tr>
 								<tr>
 									<td><strong>Signature Tan (Level 1/2/3)</strong></td>
 									<td>Our standard full-body session. Rinse solution in 8+ hours. 18-24 hours for color to fully develop.</td>
-									<td>$55</td>
+									<!-- <td>$55</td> -->
 								</tr>
 								<tr>
 									<td><strong>Signature Rapid Rinse</strong></td>
 									<td>Standard full-body session. Rinse solution in 2-4 hours as directed by your spray tan specialist. <span data-tooltip aria-haspopup="true" class="has-tip" data-disable-hover="false" tabindex="1" title="Please Note - Actual tan does not develop any quicker than with a standard solution. It will still take 18-24 hours for the color to fully develop, you will simply be able to shower off the solution quicker than you can with a standard solution.">*Note*</span></td>
-									<td>$65</td>
+									<!-- <td>$65</td> -->
 								</tr>
 								<tr>
 									<td><strong>Signature Vacation Session</strong></td>
 									<td>Standard full-body session. Includes travel size moisturizer, tan extender and body wash to help your tan last through your trip.</td>
-									<td>$75</td>
+									<!-- <td>$75</td> -->
 								</tr>
 								<tr>
 									<td><strong>Signature Half Body</strong></td>
 									<td>Waist up or waist down.</td>
-									<td>$30</td>
+									<!-- <td>$30</td> -->
 								</tr>
 								<tr>
 									<td><strong>Signature Face &amp; Decollete</strong></td>
 									<td>Face, Chest and Shoulders <strong><em>only</em></strong>. May choose 8 hour formula or Rapid Rinse.</td>
-									<td>$12</td>
+									<!-- <td>$12</td> -->
 								</tr>
 								<tr>
 									<td><strong>Red Light Therapy</strong></td>
 									<td></td>
-									<td>$25</td>
+									<!-- <td>$25</td> -->
 								</tr>
 							</tbody>
 						</table>
