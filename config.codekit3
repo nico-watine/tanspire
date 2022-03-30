@@ -90,20 +90,20 @@
       "oF" : 0,
       "pg" : 0
     },
-    "\/_ignores\/tanspire-yarn.sublime-project" : {
+    "\/_ignores\/tanspire.sublime-project" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 2,
-      "oAP" : "\/_ignores\/tanspire-yarn.sublime-project",
+      "oAP" : "\/_ignores\/tanspire.sublime-project",
       "oF" : 0
     },
-    "\/_ignores\/tanspire-yarn.sublime-workspace" : {
+    "\/_ignores\/tanspire.sublime-workspace" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 2,
-      "oAP" : "\/_ignores\/tanspire-yarn.sublime-workspace",
+      "oAP" : "\/_ignores\/tanspire.sublime-workspace",
       "oF" : 0
     },
     "\/_ignores\/tanspireBAK.zip" : {
@@ -346,12 +346,6 @@
       "oAP" : "\/css\/app-min.css",
       "oF" : 0,
       "pg" : 0
-    },
-    "\/dist" : {
-      "ft" : 65536,
-      "oA" : 1,
-      "oAP" : "\/dist",
-      "oF" : 0
     },
     "\/fonts\/icons\/tanspire.ttf" : {
       "cB" : 0,
@@ -770,12 +764,6 @@
       "oF" : 0,
       "sC" : 0,
       "tS" : 0
-    },
-    "\/node_modules" : {
-      "ft" : 65536,
-      "oA" : 2,
-      "oAP" : "\/node_modules",
-      "oF" : 0
     },
     "\/package.json" : {
       "ft" : 524288,
@@ -1592,7 +1580,7 @@
   },
   "projectAttributes" : {
     "creationDate" : 519840819,
-    "displayValue" : "Tanspire-Yarn",
+    "displayValue" : "Tanspire",
     "displayValueWasSetByUser" : 1,
     "iconImageName" : "\/_ignores\/codekit-icon.png",
     "iconImageWasSetByUser" : 1
