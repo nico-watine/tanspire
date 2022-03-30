@@ -347,6 +347,12 @@
       "oF" : 0,
       "pg" : 0
     },
+    "\/dist" : {
+      "ft" : 65536,
+      "oA" : 1,
+      "oAP" : "\/dist",
+      "oF" : 0
+    },
     "\/fonts\/icons\/tanspire.ttf" : {
       "cB" : 0,
       "ft" : 8192,
@@ -2878,7 +2884,7 @@
       }
     },
     "esLintSourceType" : 0,
-    "externalServerAddress" : "http:\/\/tanspire-yarn.local\/",
+    "externalServerAddress" : "http:\/\/tanspire.local",
     "gitIgnoreBuildFolder" : 1,
     "hideConfigFile" : 0,
     "jsCheckerReservedNamesString" : "",
