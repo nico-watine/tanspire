@@ -137,7 +137,9 @@ body-class:
 						<!-- <a style="font-size: 30px;" data-open="booking-modal" class="white-booking-button title button">Book Now</a> -->
 						<br>
 						<!-- <a href="https://tanspirehouston.zenoti.com/webstoreNew/" style="font-size: 30px;" class="white-booking-button title button">Shop Services</a><br> -->
-						<a style="font-size: 30px;" data-open="booking-modal" class="white-booking-button title button">Book Now</a>
+						<a style="font-size: 30px;" data-open="booking-modal" class="white-booking-button title button">Book Session Now</a>
+						<br>
+						<a style="font-size: 30px;" href="https://tanspirehouston.zenoti.com/webstoreNew/sales/membership/78e1543a-7197-4b74-ac4a-88f87991768d" class="white-booking-button title button">Membership Packages</a>
 						<!-- <a href="https://tanspiretx.tan-link.com/appt.php" style="font-size: 30px;" class="white-booking-button title button">Book Now</a> -->
 					</div>
 				</div>
