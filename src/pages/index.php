@@ -269,7 +269,7 @@ body-class:
 			<a data-open="booking-modal" class="title button">Book Now</a>
 			<!-- <a href="https://tanspiretx.tan-link.com/appt.php" class="title button">Book Now</a> -->
 			<!-- <a href="https://tanspire.phorest.me/book#/" target="_blank" id="book-link" class="title button">Book Online Now</a> -->
-			<p><a href="mailto:tanspirehouston@gmail.com" class="email">tanspirehouston@gmail.com</a></p>
+			<p><a href="mailto:tanspirehou@gmail.com" class="email">tanspirehou@gmail.com</a></p>
 			<p>713-955-1232</p>
 		</div>
 	</div>
